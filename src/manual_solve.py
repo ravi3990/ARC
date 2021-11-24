@@ -10,7 +10,25 @@ import re
 ### result. Name them according to the task ID as in the three
 ### examples below. Delete the three examples. The tasks you choose
 ### must be in the data/training directory, not data/evaluation.
-def solve_6a1e5592(x):
+def solve_d4a91cb9(x):
+	a=np.array(x)
+	b=a
+	eight_pos=np.where(b==8)[0][0],np.where(b==8)[1][0]
+	two_pos=np.where(a==2)[0][0],np.where(a==2)[1][0]
+	if eight_pos[0]<two_pos[0]:
+	    for i in range (eight_pos[0]+1,two_pos[0]+1):
+	        b[i][eight_pos[1]]=4
+	elif eight_pos[0]>two_pos[0]:
+	    for i in range (two_pos[0],eight_pos[0]):
+	        b[i][eight_pos[1]]=4
+	
+	
+	if eight_pos[1]<two_pos[1]:
+	    for i in range (eight_pos[1]+1,two_pos[1]):
+	        b[two_pos[0]][i]=4
+	elif eight_pos[1]>two_pos[1]:
+	    for i in range (two_pos[1]+1,eight_pos[1]+1):
+	        b[two_pos[0]][i]=4
     return x
 
 def solve_b2862040(x):
