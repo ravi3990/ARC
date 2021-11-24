@@ -11,10 +11,12 @@ import re
 ### examples below. Delete the three examples. The tasks you choose
 ### must be in the data/training directory, not data/evaluation.
 def solve_d4a91cb9(x):
-    a=np.array(x)
-    b=a
+    #Changing to Numpy array in case the input is a list
+    b=np.array(x)
+   #Getting the position of 8 and 2 in the array    
     eight_pos=np.where(b==8)[0][0],np.where(b==8)[1][0]
-    two_pos=np.where(a==2)[0][0],np.where(a==2)[1][0]
+    two_pos=np.where(b==2)[0][0],np.where(b==2)[1][0]
+    #Changing the column values to 4 
     if eight_pos[0]<two_pos[0]:
         for i in range (eight_pos[0]+1,two_pos[0]+1):
             b[i][eight_pos[1]]=4
@@ -22,7 +24,7 @@ def solve_d4a91cb9(x):
         for i in range (two_pos[0],eight_pos[0]):
             b[i][eight_pos[1]]=4
     
-    
+    #Changing the row  values to 4
     if eight_pos[1]<two_pos[1]:
         for i in range (eight_pos[1]+1,two_pos[1]):
             b[two_pos[0]][i]=4
