@@ -33,8 +33,17 @@ def solve_d4a91cb9(x):
             b[two_pos[0]][i]=4
     return b
 
-def solve_b2862040(x):
-    return x
+def solve_f5b8619d(x):
+    new_arr=np.array(x)
+    #Getting the columns where the value is non zero and changing rest of the column values to 8
+    for mn in np.where(new_arr!=0)[1]:
+        for i in range(new_arr.shape[1]):
+            if new_arr[i][mn]==0:
+                new_arr[i][mn]=8
+     #Mirroring the array horizontally and vertically           
+    new_arr=np.concatenate((new_arr,new_arr),axis=0)
+    new_arr=np.concatenate((new_arr,new_arr),axis=1)
+    return new_arr
 
 def solve_05269061(x):
     return x
