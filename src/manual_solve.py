@@ -45,8 +45,54 @@ def solve_f5b8619d(x):
     new_arr=np.concatenate((new_arr,new_arr),axis=1)
     return new_arr
 
-def solve_05269061(x):
-    return x
+def solve_0a938d79(x):
+    '''empty list to collect coloured cells'''
+    non_zero = []
+    
+    ''' copy input array'''
+    new_arr=np.array(x)
+    
+    ''' get number of rows are colums with shape'''
+    num_rows, num_cols = new_arr.shape 
+    
+    '''find the non-zero coordinates '''
+    non_zero = np.nonzero(new_arr)
+    
+    
+    '''find the colour at non-zero coordinates '''
+    colour_1 = new_arr[non_zero[0][0], non_zero[1][0]]
+    colour_2 = new_arr[non_zero[0][1], non_zero[1][1]]
+
+    '''if number of columns are greater than rows then patterns need to be 
+    formed in x-axis else in y-axis'''
+        
+    if(num_cols > num_rows):
+        black_mid_segments = abs(non_zero[1][1] - non_zero[1][0]) 
+        while((non_zero[1][0] or non_zero[1][1]) < num_cols):
+            '''fill the colour at non-zero column''' 
+            for i in range(num_rows):
+                if(non_zero[1][0] < num_cols):
+                    new_arr[i,non_zero[1][0]] = colour_1
+                if(non_zero[1][1] < num_cols):
+                    new_arr[i,non_zero[1][1]] = colour_2     
+            '''increment coloumn index based number of empty col. in pattern'''
+            non_zero[1][0] += (black_mid_segments*2)
+            non_zero[1][1] += (black_mid_segments*2)
+    else:
+        black_mid_segments = abs(non_zero[0][0] - non_zero[0][1]) 
+        while((non_zero[0][0] or non_zero[0][1]) < num_rows):
+            '''fill the colour at non-zero rows''' 
+            for i in range(num_cols):
+                if(non_zero[0][0] < num_rows):
+                    new_arr[non_zero[0][0], i] = colour_1
+                if(non_zero[0][1] < num_rows):
+                    new_arr[non_zero[0][1], i] = colour_2     
+            '''increment row index based number of empty col. in pattern'''
+            non_zero[0][0] += (black_mid_segments*2)
+            non_zero[0][1] += (black_mid_segments*2)
+    
+    ''' return the modified array''' 
+    return new_arr
 
 
 def main():
