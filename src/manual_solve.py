@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 ''' 
-This is assignment 3 group submission by : 
+This is assignment 3, group submission by : 
     Student Name : Ravi Mishra Student ID: 21249928
     Student Name : Prasad Deshpande Student ID: 21249530 
     
@@ -31,13 +31,18 @@ Difficulty Level according to us : Easy to Medium
 
 Logic :
 
-The basic logic for solving this problem through the naked eye and to a layman person would be get the coordinates of the two colours ie sky blue and red.The values 
-for these in our list is 2 and 8.And then connect the 2 points throug it's row and column by two lines of yellows till it intersects.
+The basic logic for solving this problem through the naked eye and to a layman 
+person would be get the coordinates of the two colours ie sky blue and red.The 
+values for these in our list is 2 and 8.And then connect the 2 points throug 
+it's row and column by two lines of yellows till it intersects.
 
-We used the numpy where function to find the coordinates of these points.The mai problem in solving this issue was to find out in what direction the line has to be plotted.
-For this we used the if else to determine if blue has higher column value or red.Based on that we update the corresponding values in the given row and column to 4.
+We used the numpy where function to find the coordinates of these points.The main 
+problem in solving this issue was to find out in what direction the line has to be plotted.
+For this we used the if else to determine if blue has higher column value or red.
+Based on that we update the corresponding values in the given row and column to 4.
 
-Basic python and numpy used.Was able to solve all inputs and outputs in the json file successfully.
+Basic python and numpy used.Was able to solve all inputs and outputs in the json 
+file successfully.
 
     
 '''
@@ -72,9 +77,12 @@ Difficulty Level according to us : Easy
 
 Logic :
 
-On a first look it looked a little difficult to us.However we could quickly understand that it is a mirror effect after some basic changes to the inital array.
-In the initial array we have to identify the columns where the value is non zero.We have to change the value of all the rows for that column without touching the original 
-values to 8.Once it is completed we have to mirror the array along the horizontal axis once and then the vertical axis once.This can be done interchangeably as well.
+On a first look it looked a little difficult to us.However we could quickly understand 
+that it is a mirror effect after some basic changes to the inital array.
+In the initial array we have to identify the columns where the value is non zero.
+We have to change the value of all the rows for that column without touching the original 
+values to 8.Once it is completed we have to mirror the array along the horizontal 
+axis once and then the vertical axis once.This can be done interchangeably as well.
 
 Basic python and numpy has been used.
 
@@ -97,6 +105,8 @@ def solve_f5b8619d(x):
 
 '''
 solve_0a938d79: 
+    
+Difficulty Level according to us : Easy 
 
 We found Task 0a938d79 simple to understand and implement. Looking at task demonstration 
 we can see alternate coloured line pattern repeats until end of array. If number of rows are 
@@ -164,6 +174,9 @@ def solve_0a938d79(x):
 
 '''
 solve_1a07d186(x)
+
+Difficulty Level according to us : Medium to difficult 
+
 We found Task 1a07d186 medium to be difficult. On the first look, task seems easy 
 i.e. just moving the coloured cells adjacent to respective lines. But it is also important to 
 identify line as object, move coloured cells in right direction and to remove other 
@@ -284,6 +297,8 @@ def solve_1a07d186(x):
 '''
 def solve_00d62c1b(x)
 
+Difficulty Level according to us : Medium to difficult 
+
 We found task 00d62c1b medium to be difficult. The challenge was in finding the enclosed 
 shape to fill the space with yellow colour. The logic which is applied here is same 
 as previous task 1a07d186, instead of lines, here is to identify the space enclosed 
@@ -369,14 +384,18 @@ def solve_d0f5fe59(x)
 Difficulty level according to us : Medium
 
 Logic:
-The idea behind solving this problem was to get the number of islands within a particular array.This was done through a depth first search.
-Once a particulat island is visited it is not counted twice.For this we created an internal functions called dfs.
+The idea behind solving this problem was to get the number of islands within a 
+particular array.This was done through a depth first search.Once a particulat 
+island is visited it is not counted twice.For this we created an internal functions 
+called dfs.
 
 
-After iterating through the entire array we found the number of islands.We then create a numpy zero array with the same dimensions as the number of islands.
+After iterating through the entire array we found the number of islands.We then 
+created a numpy zero array with the same dimensions as the number of islands.
 We then update the diagonal of the array with the value 8.
 
-We were able to succsfully validate and test all the inputs with their given outputs as in the json file.
+We were able to succsfully validate and test all the inputs with their given outputs 
+as in the json file.
 
 
 '''
@@ -421,20 +440,23 @@ def solve_4093f84a(x)
 Difficulty Level  according to us : Medium to Difficult
 
 Logic : 
-4093f84a.json looked to be simple on the testing interface initially.Logically we needed to find the rectangle with 5's and then determine
-whether it was a horizontal one or a vertical one.After that close to the the rectangle  we had to fill the 5 in the respective rows or columns.
+4093f84a.json looked to be simple on the testing interface initially.Logically 
+we needed to find the rectangle with 5's and then determine whether it was a horizontal 
+one or a vertical one.After that close to the the rectangle  we had to fill the 5 in 
+the respective rows or columns.
 
-We tried to have a simple approach of finding the bigger island with the rectangle first.After that we made all the other positions as zero.We noted the 
-positions of the other values.And then added them to the rectangle in their respective rows and columns.
+We tried to have a simple approach of finding the bigger island with the rectangle first.
+After that we made all the other positions as zero.We noted the positions of the other 
+values.And then added them to the rectangle in their respective rows and columns.
 
 The given code use basic python and numpy functions.
-While testing this it passed for the test demonstration 1.However there was a slight difference in demosntraions 2 and 3 as there were multiple non 5 values in the 
+While testing this it passed for the test demonstration 1.However there was a 
+slight difference in demosntraions 2 and 3 as there were multiple non 5 values in the 
 same row or column.This made it to not completely satisfy the outputs for 2 and 3 and test input grid.
 
-The idea to solve this would be to get the positions ond the number of such colours in a particular row or column.Once we get the number we can add to
-the same side of the rectangle the cells and this would result in the success of the function
-
-
+The idea to solve this would be to get the positions ond the number of such colours 
+in a particular row or column.Once we get the number we can add to the same side of 
+the rectangle the cells and this would result in the success of the function
 
 
 '''
@@ -477,12 +499,14 @@ Difficulty Level according to us : Difficult
 
 Logic:
 
-For solving 5ad4f10b.json we tried to look at various ways for coming up.It seemed a little difficult.The main challenge was to find the area for the section which was 
+For solving 5ad4f10b.json we tried to look at various ways for coming up.It seemed 
+a little difficult.The main challenge was to find the area for the section which was 
 to be contracted and then the values updated with the other colour outliers.
 
 Following is the approach we followed for this section :
 
-1.Identify the n*n squares(start with 3) in the given array,their coordinates as well and store their values in separate lists.
+1.Identify the n*n squares(start with 3) in the given array,their coordinates as 
+well and store their values in separate lists.
 2.Get the max and min values of the rows and column numbers for the areas containing squares.
 3.Create a new array with only the rows and columns which  was obtained from Step 2
 4.Clear any other colour values than 0 and the squares and convert it to 0.
@@ -490,9 +514,11 @@ Following is the approach we followed for this section :
 
 We have used basic numpy and math library to get this output.
 
-The one limitation to this part of the code is that it is currently useful for 3*3 squares only(Training Input and output 2 currently.
-We can use a similar version of the same code by altering the for loops a little to make it working for 4*4 squares as well.Due to timing limitations we have not tried it.
-However we believe the logic would be near about the same and would work for other training and test grids as well with slight modifications.
+The one limitation to this part of the code is that it is currently useful for 
+3*3 squares only(Training Input and output 2 currently. We can use a similar version of 
+the same code by altering the for loops a little to make it working for 4*4 squares as well.
+Due to timing limitations we have not tried it. However we believe the logic would be near 
+about the same and would work for other training and test grids as well with slight modifications.
 '''
 
 def solve_5ad4f10b(x):
@@ -618,14 +644,19 @@ Commonalities between the problems :
 ->Pattern Recognition is very important.
 ->Many problems include finding the position of enclosed areas and islands.
 ->In many problems we had dimensionality reshaping as well as revaluation of the array.
-->Most of the problems can be solved via if else loops or basic libraray functions.However as mentioned before  there is no one off solution to all problems
+->Most of the problems can be solved via if else loops or basic libraray functions.
+  However as mentioned before  there is no one off solution to all problems
 
 
-Github has been thoroughly used by us for core sharing and working as a team of 2.Readme file has been altered as well for reflecting the ARC understanding.
+Github has been thoroughly used by us for core sharing and working as a team of 2.
+Readme file has been altered as well for reflecting the ARC understanding.
 
-As mentioned by François Chollet in his paper 'The Measure of Intelligence' the solutions can be generalised only to a limited extent because of some of the limitations which
-we could see while solving our given problems.The major limitations were a generalisation of the problem and limited set of inputs and outputs for training on the same problem.
-We could only test what was given to use.We are however aware that there will be many variations in the given formations.
+As mentioned by François Chollet in his paper 'The Measure of Intelligence' the 
+solutions can be generalised only to a limited extent because of some of the limitations 
+which we could see while solving our given problems.The major limitations were a 
+generalisation of the problem and limited set of inputs and outputs for training 
+on the same problem. We could only test what was given to use.We are however aware 
+that there will be many variations in the given formations.
 
 No doubt there are still many leaps to be taken by Arificial Intelligence!
 
