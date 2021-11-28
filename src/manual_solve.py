@@ -23,6 +23,25 @@ import math
 ### result. Name them according to the task ID as in the three
 ### examples below. Delete the three examples. The tasks you choose
 ### must be in the data/training directory, not data/evaluation.
+
+'''
+solve_d4a91cb9: 
+
+Difficulty Level according to us : Easy to Medium
+
+Logic :
+
+The basic logic for solving this problem through the naked eye and to a layman person would be get the coordinates of the two colours ie sky blue and red.The values 
+for these in our list is 2 and 8.And then connect the 2 points throug it's row and column by two lines of yellows till it intersects.
+
+We used the numpy where function to find the coordinates of these points.The mai problem in solving this issue was to find out in what direction the line has to be plotted.
+For this we used the if else to determine if blue has higher column value or red.Based on that we update the corresponding values in the given row and column to 4.
+
+Basic python and numpy used.Was able to solve all inputs and outputs in the json file successfully.
+
+    
+'''
+
 def solve_d4a91cb9(x):
     #Changing to Numpy array in case the input is a list
     b=np.array(x)
@@ -45,6 +64,24 @@ def solve_d4a91cb9(x):
         for i in range (two_pos[1]+1,eight_pos[1]+1):
             b[two_pos[0]][i]=4
     return b
+
+'''
+solve_f5b8619d: 
+
+Difficulty Level according to us : Easy
+
+Logic :
+
+On a first look it looked a little difficult to us.However we could quickly understand that it is a mirror effect after some basic changes to the inital array.
+In the initial array we have to identify the columns where the value is non zero.We have to change the value of all the rows for that column without touching the original 
+values to 8.Once it is completed we have to mirror the array along the horizontal axis once and then the vertical axis once.This can be done interchangeably as well.
+
+Basic python and numpy has been used.
+
+All the test inputs and outputs were successfully validated and passed.
+    
+'''
+
 
 def solve_f5b8619d(x):
     new_arr=np.array(x)
@@ -127,7 +164,7 @@ def solve_0a938d79(x):
 
 '''
 solve_1a07d186(x)
-We found Task 1a07d186 medium to difficult. On the first look, task seems easy 
+We found Task 1a07d186 medium to be difficult. On the first look, task seems easy 
 i.e. just moving the coloured cells adjacent to respective lines. But it is also important to 
 identify line as object, move coloured cells in right direction and to remove other 
 coloured cells which doesn’t have coloured line present. The same logic then needs to be 
@@ -247,7 +284,7 @@ def solve_1a07d186(x):
 '''
 def solve_00d62c1b(x)
 
-We found task 00d62c1b medium to difficult. The challenge was in finding the enclosed 
+We found task 00d62c1b medium to be difficult. The challenge was in finding the enclosed 
 shape to fill the space with yellow colour. The logic which is applied here is same 
 as previous task 1a07d186, instead of lines, here is to identify the space enclosed 
 with green colour. 
@@ -326,6 +363,24 @@ def solve_00d62c1b(x):
     ''' return the modified array''' 
     return new_arr
 
+'''
+def solve_d0f5fe59(x)
+
+Difficulty level according to us : Medium
+
+Logic:
+The idea behind solving this problem was to get the number of islands within a particular array.This was done through a depth first search.
+Once a particulat island is visited it is not counted twice.For this we created an internal functions called dfs.
+
+
+After iterating through the entire array we found the number of islands.We then create a numpy zero array with the same dimensions as the number of islands.
+We then update the diagonal of the array with the value 8.
+
+We were able to succsfully validate and test all the inputs with their given outputs as in the json file.
+
+
+'''
+
 def solve_d0f5fe59(x):
     row=len(x)
     col=len(x[0])
@@ -362,10 +417,14 @@ def solve_d0f5fe59(x):
 '''
 def solve_4093f84a(x)
 
+
+Difficulty Level  according to us : Medium to Difficult
+
+Logic : 
 4093f84a.json looked to be simple on the testing interface initially.Logically we needed to find the rectangle with 5's and then determine
 whether it was a horizontal one or a vertical one.After that close to the the rectangle  we had to fill the 5 in the respective rows or columns.
 
-We tried to have a simple approach of finding the bigger island with the rectangle first.After that we made all the other positions as zero.However we noted the 
+We tried to have a simple approach of finding the bigger island with the rectangle first.After that we made all the other positions as zero.We noted the 
 positions of the other values.And then added them to the rectangle in their respective rows and columns.
 
 The given code use basic python and numpy functions.
@@ -414,7 +473,9 @@ def solve_4093f84a(x):
 '''
 def solve_5ad4f10b(x)
 
+Difficulty Level according to us : Difficult
 
+Logic:
 
 For solving 5ad4f10b.json we tried to look at various ways for coming up.It seemed a little difficult.The main challenge was to find the area for the section which was 
 to be contracted and then the values updated with the other colour outliers.
@@ -550,6 +611,24 @@ libraries can be then basis for creating hypothesise in terms of hyper parameter
 support functions. We still have limited understanding of this topic and acknowledge 
 that writing the code to solve all sorts of problems i.e., generalisation is not easy 
 task. 
+
+
+Commonalities between the problems :
+
+->Pattern Recognition is very important.
+->Many problems include finding the position of enclosed areas and islands.
+->In many problems we had dimensionality reshaping as well as revaluation of the array.
+->Most of the problems can be solved via if else loops or basic libraray functions.However as mentioned before  there is no one off solution to all problems
+
+
+Github has been thoroughly used by us for core sharing and working as a team of 2.Readme file has been altered as well for reflecting the ARC understanding.
+
+As mentioned by François Chollet in his paper 'The Measure of Intelligence' the solutions can be generalised only to a limited extent because of some of the limitations which
+we could see while solving our given problems.The major limitations were a generalisation of the problem and limited set of inputs and outputs for training on the same problem.
+We could only test what was given to use.We are however aware that there will be many variations in the given formations.
+
+No doubt there are still many leaps to be taken by Arificial Intelligence!
+
 
 '''
 
