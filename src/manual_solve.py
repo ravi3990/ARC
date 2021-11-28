@@ -60,8 +60,8 @@ def solve_f5b8619d(x):
 '''
 solve_0a938d79: 
 
-I found Task 0a938d79 simple to understand and implement. Looking at task demonstration 
-we see alternate coloured line pattern repeats until end of array. If number of rows are 
+We found Task 0a938d79 simple to understand and implement. Looking at task demonstration 
+we can see alternate coloured line pattern repeats until end of array. If number of rows are 
 more than the columns then line patterns are repeated until last row. If the number of 
 columns are more than the rows then the line patterns are repeated until end of last column. 
 Count for intermediate black rows are dependent on number of columns/rows between given 
@@ -126,19 +126,19 @@ def solve_0a938d79(x):
 
 '''
 solve_1a07d186(x)
-I found Task 1a07d186 medium to difficult. On the first look, task seems very easy 
-i.e. just moving the coloured cells to respective lines. But it is also important to 
+We found Task 1a07d186 medium to difficult. On the first look, task seems easy 
+i.e. just moving the coloured cells adjacent to respective lines. But it is also important to 
 identify line as object, move coloured cells in right direction and to remove other 
-coloured cells which doesn’t have coloured line. The same logic then needs to be 
+coloured cells which doesn’t have coloured line present. The same logic then needs to be 
 defined for vertical and horizontal lines (single/multiple).
 
-I decided to implement the solver function with basic logic and with less use of 
+We decided to implement the solver function with basic logic and with less use of 
 library APIs. Numpy is used only where necessary, so the code looks big. It identified 
-colour in array and mark the coordinates. Then identify the line object with traversing 
+colour in array and marked the coordinates. Then identified the line object with traversing 
 in X/Y axis from edge to edge to confirm the line position. Once all these information 
 is available, then look for nearest line coordinate for coloured cell and paint next 
 location in same row/column. The original colour location is then overwritten with black. 
-In case cells with colours other than line colour, the location is overwriting 
+In case of cells with colours other than line colour, the location is overwritten with black.  
 
 All training and test grids solved correctly. 
 
@@ -242,6 +242,24 @@ def solve_1a07d186(x):
                     
     ''' return the modified array''' 
     return new_arr
+
+'''
+def solve_00d62c1b(x)
+
+We found task 00d62c1b medium to difficult. The challenge was in finding the enclosed 
+shape to fill the space with yellow colour. The logic which is applied here is same 
+as previous task 1a07d186, instead of lines, here is to identify the space enclosed 
+with green colour. 
+
+Same logic of x, y location +/-1 for checking all coordinates around the coloured 
+cell used. Code optimized with the use of list as queue and multiple conditions in loops. 
+‘Searched’ array created with padding of rows and columns. Based on search the true/False 
+marked and resultant used for filling yellow colour. 
+The in-line comments give more details of logic. 
+
+All training and test grids solved correctly.
+
+'''
 
 def solve_00d62c1b(x):
     
