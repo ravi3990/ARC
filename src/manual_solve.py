@@ -58,7 +58,6 @@ def solve_0a938d79(x):
     '''find the non-zero coordinates '''
     non_zero = np.nonzero(new_arr)
     
-    
     '''find the colour at non-zero coordinates '''
     colour_1 = new_arr[non_zero[0][0], non_zero[1][0]]
     colour_2 = new_arr[non_zero[0][1], non_zero[1][1]]
@@ -91,6 +90,105 @@ def solve_0a938d79(x):
             non_zero[0][0] += (black_mid_segments*2)
             non_zero[0][1] += (black_mid_segments*2)
     
+    ''' return the modified array''' 
+    return new_arr
+
+def solve_1a07d186(x):
+    
+    ''' copy input array'''
+    new_arr=np.array(x)
+    
+    ''' get number of rows are colums with shape'''
+    num_rows, num_cols = new_arr.shape 
+    
+    '''find the non-zero coordinates '''
+    non_zero = np.nonzero(new_arr)
+
+    ''' index for checking all coordinates around the colour'''
+    Dy = [0, -1, 0, 1]
+    Dx = [1, 0, -1, 0]
+    
+    ''' empty lists to log if Hlines or Vlines found in image'''
+    H_line = []
+    V_line = []
+    
+   
+    ''' loop to check colour around all identified colour co-ordinates '''
+    for x, y  in zip(non_zero[0],non_zero[1]):
+        colour = new_arr[x][y]
+        
+        for dy, dx in zip(Dy, Dx):
+            ''' if same colour found then move either x or y axis to find if it is a line'''
+            x_, y_ = x+dx, y+dy
+            
+            ''' loop through number of cols or rows to find lines and log into list '''
+            if(x_ < num_rows and y_ < num_cols):
+                if(colour == new_arr[x_][y_]):
+                    if(abs(x_ - x)):
+                        #vertical line 
+                        for k in range(num_rows):
+                            if(colour == new_arr[k][y]):
+                                V_line.append(y) 
+                                v_line_flag = True
+                
+                    if (abs(y_-y)):
+                        #horizontal line 
+                        for k in range(num_cols):
+                            if(colour == new_arr[x][k]):
+                                H_line.append(x)
+                                v_line_flag = False
+    
+    ''' consider only unique items to give exact number of lines and their one 
+    coordinates location. Other location can be assumed zero as it is a line'''  
+    H_line = np.unique(H_line)
+    V_line = np.unique(V_line)
+    
+    ''' loop through all coloured cellls to either associate with line or if 
+    not then make it zero'''
+    for x, y  in zip(non_zero[0],non_zero[1]):
+        if(v_line_flag == True):
+            ''' if y is not in Vline then proceed '''
+            if(y not in V_line):
+                colour_flag = False    
+                colour = new_arr[x][y]
+                
+                for i in V_line:
+                    if(colour == new_arr[0, i]):
+                        if(i < y):
+                            new_arr[x,i+1] = colour
+                        else:
+                            new_arr[x,i-1] = colour
+                        
+                        new_arr[x][y] = 0
+                        colour_flag = True
+                ''' if colour cell is not associated with line colour then 
+                make it zero '''        
+                if(colour_flag == False ): 
+                    new_arr[x][y] = 0
+            
+            
+        if(v_line_flag == False):
+            '''if x is not in Hline then proceed '''
+            if(x not in H_line):
+                colour_flag = False    
+                colour = new_arr[x][y]
+    
+                for i in H_line:
+                    if(colour == new_arr[i, 0]):
+                        if(i < x):
+                            new_arr[i+1, y] = colour
+                        else:
+                            new_arr[i-1, y] = colour
+                        
+                        new_arr[x][y] = 0
+                        colour_flag = True    
+                ''' if colour cell is not associated with line colour then 
+                make it zero '''        
+                if(colour_flag == False ): 
+                    new_arr[x][y] = 0
+                        
+               
+                    
     ''' return the modified array''' 
     return new_arr
 
