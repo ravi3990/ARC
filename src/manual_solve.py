@@ -16,6 +16,7 @@ import os, sys
 import json
 import numpy as np
 import re
+import math
 
 ### YOUR CODE HERE: write at least three functions which solve
 ### specific tasks by transforming the input x and returning the
@@ -358,6 +359,27 @@ def solve_d0f5fe59(x):
 
     return b
 
+'''
+def solve_4093f84a(x)
+
+4093f84a.json looked to be simple on the testing interface initially.Logically we needed to find the rectangle with 5's and then determine
+whether it was a horizontal one or a vertical one.After that close to the the rectangle  we had to fill the 5 in the respective rows or columns.
+
+We tried to have a simple approach of finding the bigger island with the rectangle first.After that we made all the other positions as zero.However we noted the 
+positions of the other values.And then added them to the rectangle in their respective rows and columns.
+
+The given code use basic python and numpy functions.
+While testing this it passed for the test demonstration 1.However there was a slight difference in demosntraions 2 and 3 as there were multiple non 5 values in the 
+same row or column.This made it to not completely satisfy the outputs for 2 and 3 and test input grid.
+
+The idea to solve this would be to get the positions ond the number of such colours in a particular row or column.Once we get the number we can add to
+the same side of the rectangle the cells and this would result in the success of the function
+
+
+
+
+'''
+
 
 def solve_4093f84a(x):
     x=np.array(x)
@@ -389,6 +411,147 @@ def solve_4093f84a(x):
     return x
 
 
+'''
+def solve_5ad4f10b(x)
+
+
+
+For solving 5ad4f10b.json we tried to look at various ways for coming up.It seemed a little difficult.The main challenge was to find the area for the section which was 
+to be contracted and then the values updated with the other colour outliers.
+
+Following is the approach we followed for this section :
+
+1.Identify the n*n squares(start with 3) in the given array,their coordinates as well and store their values in separate lists.
+2.Get the max and min values of the rows and column numbers for the areas containing squares.
+3.Create a new array with only the rows and columns which  was obtained from Step 2
+4.Clear any other colour values than 0 and the squares and convert it to 0.
+5.Get the other colour value from the original array and create a new array with the specific positions.
+
+We have used basic numpy and math library to get this output.
+
+The one limitation to this part of the code is that it is currently useful for 3*3 squares only(Training Input and output 2 currently.
+We can use a similar version of the same code by altering the for loops a little to make it working for 4*4 squares as well.Due to timing limitations we have not tried it.
+However we believe the logic would be near about the same and would work for other training and test grids as well with slight modifications.
+'''
+
+def solve_5ad4f10b(x):
+    a=np.array(x)
+    row,colmn=a.shape[0],a.shape[1]
+    
+     #Code to get the 3*3 squares inside the array
+
+    emp_lst1=[]
+    range_lst1=[]
+    #comp=0
+    for i in range(row):
+        for j in range(colmn):
+            emp_lst=[]
+            range_lst=[]
+            comp=0
+            if i-1>0 and j-1>0 and i+1<row and j+1<colmn:
+                for m in range(i-1,i+2):
+                    for n in range(j-1,j+2):
+                        emp_lst.append(a[m][n])
+                        range_lst.append ((m,n))
+                       
+            if len(emp_lst)>0 and emp_lst[0]!=0:
+                comp=1
+                #print (emp_lst )
+                for mn in emp_lst:
+                    if emp_lst[0]!=mn:
+                        comp+=1 
+            #print(comp)
+            if comp==1 and len(emp_lst)>0:
+                #print(emp_lst)
+                #print(range_lst)
+                emp_lst1.append(emp_lst)
+                range_lst1.append(range_lst)
+                
+    #Getting the minimum and maximum section of the array to be cut            
+    
+    min_row=range_lst1[0][0][0]
+
+    for m in range_lst1:
+        for n in m:
+            if n[0]<min_row:
+                min_row=n[0]
+ 
+    min_col=range_lst1[0][0][1]
+
+    for m in range_lst1:
+        for n in m:
+            if n[1]<min_col:
+                min_col=n[1]
+    max_row=range_lst1[0][0][0]
+
+    for m in range_lst1:
+        for n in m:
+            if n[0]>max_row:
+                max_row=n[0]
+                
+    max_col=range_lst1[0][0][1]
+
+    for m in range_lst1:
+        for n in m:
+            if n[1]>max_col:
+                max_col=n[1]
+                
+    new_arr=a[min_row:max_row+1,min_col:max_col+1]
+    #Clear the array for any oher number which are outliers
+    new_row,new_col=new_arr.shape[0],new_arr.shape[1]
+    
+    for i in range(new_row):
+        for j in range(new_col):
+            if new_arr[i][j]!=emp_lst1[0][0]:
+                new_arr[i][j]=0
+
+    new_mod_arr=np.zeros((int(math.sqrt(new_row)),int(math.sqrt(new_col))))
+    row_alt,col_alt=new_mod_arr.shape[0],new_mod_arr.shape[1]
+    
+    #Getting the colour value which has to be updated
+    non_zero_val_loc=np.where(a!=0)
+    
+    for m in non_zero_val_loc[0]:
+        for n in non_zero_val_loc[1]:
+            if a[m][n]!=emp_lst1[0][0]:
+                val_to_update=a[m][n]
+    
+    #Updating the new modified array with the intended values
+    for i in range(0,new_row,3):
+        for j in range(0,new_col,3):
+            if new_arr[i][j]!=0:
+                new_i=int(i/3)
+                new_j=int(j/3)
+            #print (new_i,new_j)
+                new_mod_arr[new_i,new_j]=val_to_update
+    return new_mod_arr
+
+''' 
+
+A short summary/reflection, commenting on the Python features and libraries you used in the solve * 
+
+In first semester of MSc. while learning and working on assignments we could see maturity 
+of available ML packages which can trained on different kind of tasks e.g., NLP task for 
+suggestion mining or regression tasks for prediction of home prices etc. but while working 
+with ARC, we realized that we’re still very far away from building a human like intelligence. 
+All the tasks (.JSON files) when looked in browser, one can identify the patterns in seconds 
+just looking at few samples, but it is not easy for ML/programming to generalize this type 
+of intelligence. We didn’t find much help on generalised pattern recognition available, 
+and ARC is an upcoming new topic in field of AI. We both found it is super interesting 
+and addictive i.e., we initially though to just complete 3-4 patterns and submit the assignment 
+but end up coding 8-9 patterns!
+
+We did not use any ML package or specific libraries but used Numpy and pure python to 
+translate our understanding of patterns into code. We found that, in future there can 
+be few common functions/libraries be made to recognize the patterns e.g., find specific 
+shape objects or enclosed spaces, highlight repetitive patterns, symmetry etc. or correlate 
+the colours in base image to transformed image. These functions in addition to math 
+libraries can be then basis for creating hypothesise in terms of hyper parameters or 
+support functions. We still have limited understanding of this topic and acknowledge 
+that writing the code to solve all sorts of problems i.e., generalisation is not easy 
+task. 
+
+'''
 
 
 def main():
@@ -466,29 +629,3 @@ def show_result(x, y, yhat):
 if __name__ == "__main__": main()
 
 
-''' 
-
-A short summary/reflection, commenting on the Python features and libraries you used in the solve * 
-
-In first semester of MSc. while learning and working on assignments we could see maturity 
-of available ML packages which can trained on different kind of tasks e.g., NLP task for 
-suggestion mining or regression tasks for prediction of home prices etc. but while working 
-with ARC, we realized that we’re still very far away from building a human like intelligence. 
-All the tasks (.JSON files) when looked in browser, one can identify the patterns in seconds 
-just looking at few samples, but it is not easy for ML/programming to generalize this type 
-of intelligence. We didn’t find much help on generalised pattern recognition available, 
-and ARC is an upcoming new topic in field of AI. We both found it is super interesting 
-and addictive i.e., we initially though to just complete 3-4 patterns and submit the assignment 
-but end up coding 8-9 patterns!
-
-We did not use any ML package or specific libraries but used Numpy and pure python to 
-translate our understanding of patterns into code. We found that, in future there can 
-be few common functions/libraries be made to recognize the patterns e.g., find specific 
-shape objects or enclosed spaces, highlight repetitive patterns, symmetry etc. or correlate 
-the colours in base image to transformed image. These functions in addition to math 
-libraries can be then basis for creating hypothesise in terms of hyper parameters or 
-support functions. We still have limited understanding of this topic and acknowledge 
-that writing the code to solve all sorts of problems i.e., generalisation is not easy 
-task. 
-
-'''
