@@ -1,5 +1,17 @@
 #!/usr/bin/python
 
+''' 
+This is assignment 3 group submission by : 
+    Student Name : Ravi Mishra Student ID: 
+    Student Name : Prasad Deshpande Student ID: 21249530 
+    
+    Link to Github Repository : https://github.com/ravi3990/ARC 
+    
+    
+
+'''
+
+
 import os, sys
 import json
 import numpy as np
@@ -44,6 +56,25 @@ def solve_f5b8619d(x):
     new_arr=np.concatenate((new_arr,new_arr),axis=0)
     new_arr=np.concatenate((new_arr,new_arr),axis=1)
     return new_arr
+
+'''
+solve_0a938d79: 
+
+I find Task 0a938d79 simple to understand and implement. Looking at task demonstration 
+we see alternate coloured line pattern repeats until end of array. If number of rows are 
+more than the columns then line patterns are repeated until last row. If the number of 
+columns are more than the rows then the line patterns are repeated until end of last column. 
+Count for intermediate black rows are dependent on number of columns/rows between given 
+two colour cells. 
+
+Solver function checked shape of array, colours of non-black locations and loop through
+the rows/columns until max number of rows/columns reached. Coloured locations/cells are
+used as reference to paint the location to create the line in X or Y axis and new array
+return after transformation. 
+
+All training and test grids solved correctly. 
+    
+'''
 
 def solve_0a938d79(x):
     '''empty list to collect coloured cells'''
