@@ -66,11 +66,12 @@ After you've obtained the correct answer for the current test input grid, you ca
 When you're done with a task, use the "load task" button to open a new task.
 
 
+### Purpose of Repository 
+This repository is forked from https://github.com/jmmcd/ARC to complete the assignment-3 of 2122-CT5148 Programming and Tools for Artificial Intelligence - Online course. In this repository, Ravi and Prasad are the contributors and working on coding part solver functions to train the code for input X (array) and produce the output inline with training output shown by testing interface. ARC/src/manual_solve.py contains the solver function for selected tasks. 
+
+
 ### Comments by Ravi and Prasad on the approches and similarities
 
-As mentioned by François Chollet in his paper 'The Measure of Intelligence' the solutions can be generalised only to a limited extent because of some of the limitations which
-We could see while solving our given problems.The major limitations were a generalisation of the problem and limited set of inputs and outputs for training on the same problem.
-We could only test what was given to use.We are however aware that there will be many variations in the given formations.
-No doubt there are still many leaps to be taken by Arificial Intelligence!
+As mentioned by François Chollet in his paper 'The Measure of Intelligence' the solutions can be generalised only to a limited extent because of some of the limitations which We could see while solving our given problems.The major limitations were a generalisation of the problem and limited set of inputs and outputs for training on the same problem. We could only test what was given to use.We are however aware that there will be many variations in the given formations. No doubt there are still many leaps to be taken by Arificial Intelligence!
 
 
