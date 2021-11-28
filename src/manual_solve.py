@@ -60,7 +60,7 @@ def solve_f5b8619d(x):
 '''
 solve_0a938d79: 
 
-I find Task 0a938d79 simple to understand and implement. Looking at task demonstration 
+I found Task 0a938d79 simple to understand and implement. Looking at task demonstration 
 we see alternate coloured line pattern repeats until end of array. If number of rows are 
 more than the columns then line patterns are repeated until last row. If the number of 
 columns are more than the rows then the line patterns are repeated until end of last column. 
@@ -123,6 +123,26 @@ def solve_0a938d79(x):
     
     ''' return the modified array''' 
     return new_arr
+
+'''
+solve_1a07d186(x)
+I found Task 1a07d186 medium to difficult. On the first look, task seems very easy 
+i.e. just moving the coloured cells to respective lines. But it is also important to 
+identify line as object, move coloured cells in right direction and to remove other 
+coloured cells which doesn’t have coloured line. The same logic then needs to be 
+defined for vertical and horizontal lines (single/multiple).
+
+I decided to implement the solver function with basic logic and with less use of 
+library APIs. Numpy is used only where necessary, so the code looks big. It identified 
+colour in array and mark the coordinates. Then identify the line object with traversing 
+in X/Y axis from edge to edge to confirm the line position. Once all these information 
+is available, then look for nearest line coordinate for coloured cell and paint next 
+location in same row/column. The original colour location is then overwritten with black. 
+In case cells with colours other than line colour, the location is overwriting 
+
+All training and test grids solved correctly. 
+
+'''
 
 def solve_1a07d186(x):
     
