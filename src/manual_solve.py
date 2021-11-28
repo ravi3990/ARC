@@ -2,7 +2,7 @@
 
 ''' 
 This is assignment 3 group submission by : 
-    Student Name : Ravi Mishra Student ID: 
+    Student Name : Ravi Mishra Student ID: 21249928
     Student Name : Prasad Deshpande Student ID: 21249530 
     
     Link to Github Repository : https://github.com/ravi3990/ARC 
@@ -324,6 +324,71 @@ def solve_00d62c1b(x):
    
     ''' return the modified array''' 
     return new_arr
+
+def solve_d0f5fe59(x):
+    row=len(x)
+    col=len(x[0])
+    count=0
+   #Creating a function for Depth first search for finding the islands
+    def dfs(a,row,col,m,n):
+        if a[m][n]==0:
+            return
+        a[m][n]=0
+        
+        if m!=0:
+            dfs(a,row,col,m-1,n)
+    
+        if m!=row-1:
+            dfs(a,row,col,m+1,n)
+    
+        if n!=0:
+            dfs(a,row,col,m,n-1)    
+        if n!=col-1:
+            dfs(a,row,col,m,n+1) 
+            #Iterating to count the number of islands   
+    for i in range(row):
+        for j in range(col):
+            if x[i][j]==8:
+                dfs(x,row,col,i,j)
+                count+=1
+     #Creating a zero numpy array with the same dimensions as the number of islands           
+    b=np.zeros((count, count), int)
+    #Filling the diagonal with the value 8
+    np.fill_diagonal(b,8)    
+
+    return b
+
+
+def solve_4093f84a(x):
+    x=np.array(x)
+    #Getting positions where the value is non zero
+    mn=np.where(x!=0)
+    #Getting positions where the value is five
+    yz=np.where(x==5)
+    emp_lst=[]
+    #Adding to an empty list the positions of the non 5 and non zero values
+    for i in range(len(mn[0])):
+        if x[mn[0][i]][mn[1][i]]!=5:
+            emp_lst.append([mn[0][i],mn[1][i]])
+    #Making all the non island positions 0 before actioning
+    for m in emp_lst:
+        x[m[0],m[1]]=0
+    #Action to alter the value to 5 for the respective postions near to the island    
+    if np.amin(yz[1])==0:
+        for m in emp_lst:
+            if m[0]<np.amin(yz[0]):
+                x[np.amin(yz[0])-1][m[1]]=5
+            else :
+                x[np.amax(yz[0])+1][m[1]]=5
+    else :
+        for m in emp_lst:
+            if m[1]<np.amin(yz[1]):
+                x[m[0]][np.amin(yz[1])-1]=5
+            else :
+                x[m[0]][np.amax(yz[1])+1]=5
+    return x
+
+
 
 
 def main():
