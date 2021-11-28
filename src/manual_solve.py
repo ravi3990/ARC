@@ -192,6 +192,70 @@ def solve_1a07d186(x):
     ''' return the modified array''' 
     return new_arr
 
+def solve_00d62c1b(x):
+    
+    ''' copy input array'''
+    new_arr=np.array(x)
+    
+    ''' get number of rows are colums with shape'''
+    num_rows, num_cols = new_arr.shape 
+ 
+    green = 3 
+    yellow = 4
+    
+    ''' index for checking all coordinates around the colour'''
+    Dy = [0, -1, 0, 1]
+    Dx = [1, 0, -1, 0]
+    
+    '''
+    https://numpy.org/doc/stable/reference/generated/numpy.pad.html
+    
+    ((1,1),(1,1)) -Number of values padded to the edges of each axis. ((before_1, after_1)
+    pads with 'Constant' value of zero [False]                                                               
+    
+    '''
+    
+    arr_padded = np.pad(new_arr, ((1,1),(1,1)), "constant", constant_values=0)
+    
+    ''' 
+    input array padded on x and y axis at the edge i.e. num_col and num_rows 
+    increased by 2 and created searched array with default False in each element''' 
+    search_empty_sq = np.zeros(arr_padded.shape, dtype=bool)
+    search_empty_sq[0, 0] = True
+    
+    queue = [(0, 0)]
+    while queue:
+        ''' take each element/cell from matrix'''
+        j, i = queue.pop()
+        
+        ''' loop for near by coordinates in x, y axis '''
+        for dy, dx in zip(Dy, Dx):
+            y_, x_ = j+dy, i+dx
+            
+            if not 0 <= y_ < num_rows+2 or not 0 <= x_ < num_cols+2:
+                ''' skip the next logic for edge elements/cells'''
+                continue
+            ''' in case of identical elements change value at searched to True 
+                else maintain the value at False. False indicates yellow colour 
+                to add 
+            '''
+            if not search_empty_sq[y_][x_] and arr_padded[y_][x_]==0:
+                '''add to queue for next operation '''
+                queue.append((y_, x_))
+                search_empty_sq[y_, x_] = True
+    
+    '''remove the padding'''
+    res = search_empty_sq[1:-1, 1:-1]
+    
+    ''' check the green and keep it as it is'''
+    res |= new_arr==green
+    
+    ''' invert the searched results and fill true with yellow '''
+    new_arr[~res] = yellow 
+   
+    ''' return the modified array''' 
+    return new_arr
+
 
 def main():
     # Find all the functions defined in this file whose names are
