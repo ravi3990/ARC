@@ -5,7 +5,7 @@ This is assignment 3, group submission by :
     Student Name : Ravi Mishra Student ID: 21249928
     Student Name : Prasad Deshpande Student ID: 21249530 
     
-    Link to Github Repository : https://github.com/ravi3990/ARC 
+    Link to Github Repository : https://github.com/ravi3990/ARC.git
     
     
 
