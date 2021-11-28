@@ -64,3 +64,13 @@ When your output grid is ready, click the green "Submit!" button to check your a
 After you've obtained the correct answer for the current test input grid, you can switch to the next test input grid for the task using the "Next test input" button (if there is any available; most tasks only have one test input).
 
 When you're done with a task, use the "load task" button to open a new task.
+
+
+### Comments by Ravi and Prasad on the approches and similarities
+
+As mentioned by François Chollet in his paper 'The Measure of Intelligence' the solutions can be generalised only to a limited extent because of some of the limitations which
+We could see while solving our given problems.The major limitations were a generalisation of the problem and limited set of inputs and outputs for training on the same problem.
+We could only test what was given to use.We are however aware that there will be many variations in the given formations.
+No doubt there are still many leaps to be taken by Arificial Intelligence!
+
+
