@@ -465,3 +465,30 @@ def show_result(x, y, yhat):
 
 if __name__ == "__main__": main()
 
+
+''' 
+
+A short summary/reflection, commenting on the Python features and libraries you used in the solve * 
+
+In first semester of MSc. while learning and working on assignments we could see maturity 
+of available ML packages which can trained on different kind of tasks e.g., NLP task for 
+suggestion mining or regression tasks for prediction of home prices etc. but while working 
+with ARC, we realized that we’re still very far away from building a human like intelligence. 
+All the tasks (.JSON files) when looked in browser, one can identify the patterns in seconds 
+just looking at few samples, but it is not easy for ML/programming to generalize this type 
+of intelligence. We didn’t find much help on generalised pattern recognition available, 
+and ARC is an upcoming new topic in field of AI. We both found it is super interesting 
+and addictive i.e., we initially though to just complete 3-4 patterns and submit the assignment 
+but end up coding 8-9 patterns!
+
+We did not use any ML package or specific libraries but used Numpy and pure python to 
+translate our understanding of patterns into code. We found that, in future there can 
+be few common functions/libraries be made to recognize the patterns e.g., find specific 
+shape objects or enclosed spaces, highlight repetitive patterns, symmetry etc. or correlate 
+the colours in base image to transformed image. These functions in addition to math 
+libraries can be then basis for creating hypothesise in terms of hyper parameters or 
+support functions. We still have limited understanding of this topic and acknowledge 
+that writing the code to solve all sorts of problems i.e., generalisation is not easy 
+task. 
+
+'''
