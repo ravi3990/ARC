@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3888599, 52.5170365]
+      },
+      "properties": {
+        "name": "Berlin",
+        "population": 3769495
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3522219, 48.856614]
+      },
+      "properties": {
+        "name": "Paris",
+        "population": 2148327
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.1277583, 51.5073509]
+      },
+      "properties": {
+        "name": "London",
+        "population": 8908081
+      }
+    }
+  ]
+}
