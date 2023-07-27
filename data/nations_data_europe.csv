@@ -1,0 +1,1154 @@
+id,iso2c,iso3c,country,year,gdp_percap,life_expect,population,birth_rate,neonat_mortal_rate,region,income
+1,AL,ALB,Albania,1/1/04,5652.602673,75.83121951,3026939,13.036,9.8,Europe & Central Asia,Upper middle income
+2,AL,ALB,Albania,1/1/02,4785.880981,75.15460976,3051010,14.642,10.7,Europe & Central Asia,Upper middle income
+3,AL,ALB,Albania,1/1/94,2413.663204,72.04195122,3207536,21.854,12.9,Europe & Central Asia,Upper middle income
+4,AL,ALB,Albania,1/1/09,9342.081246,76.84036585,2927519,11.679,7.9,Europe & Central Asia,Upper middle income
+5,AL,ALB,Albania,1/1/03,5182.490367,75.52329268,3039616,13.806,10.3,Europe & Central Asia,Upper middle income
+6,AL,ALB,Albania,1/1/99,3684.945153,73.79339024,3108778,17.302,11.7,Europe & Central Asia,Upper middle income
+7,AL,ALB,Albania,1/1/95,2809.014908,72.23602439,3187784,20.98,12.7,Europe & Central Asia,Upper middle income
+8,AL,ALB,Albania,1/1/08,8769.094336,76.65207317,2947314,11.561,8.2,Europe & Central Asia,Upper middle income
+9,AL,ALB,Albania,1/1/01,4508.632006,74.73256098,3060173,15.513,11,Europe & Central Asia,Upper middle income
+10,AL,ALB,Albania,1/1/05,6199.912727,76.08160976,3011487,12.383,9.4,Europe & Central Asia,Upper middle income
+11,AL,ALB,Albania,1/1/92,1921.16342,71.90080488,3247039,23.464,13,Europe & Central Asia,Upper middle income
+12,AL,ALB,Albania,1/1/97,2865.50751,72.89809756,3148281,19.15,12.3,Europe & Central Asia,Upper middle income
+13,AL,ALB,Albania,1/1/07,7658.408578,76.47029268,2970017,11.631,8.5,Europe & Central Asia,Upper middle income
+14,AL,ALB,Albania,1/1/13,10412.44172,77.64046341,2896652,13.106,6.8,Europe & Central Asia,Upper middle income
+15,AL,ALB,Albania,1/1/14,11167.02257,77.83046341,2893654,13.414,6.5,Europe & Central Asia,Upper middle income
+16,AL,ALB,Albania,1/1/91,2011.841715,71.91841463,3266790,24.173,13.2,Europe & Central Asia,Upper middle income
+17,AL,ALB,Albania,1/1/11,9640.144593,77.24058537,2904780,12.325,7.2,Europe & Central Asia,Upper middle income
+18,AL,ALB,Albania,1/1/06,7066.725645,76.28612195,2992547,11.906,8.9,Europe & Central Asia,Upper middle income
+19,AL,ALB,Albania,1/1/90,2748.622728,71.95731707,3286542,24.789,13.4,Europe & Central Asia,Upper middle income
+20,AL,ALB,Albania,1/1/00,4045.752069,74.27153659,3089027,16.401,11.3,Europe & Central Asia,Upper middle income
+21,AL,ALB,Albania,1/1/93,2168.886231,71.93585366,3227287,22.686,12.9,Europe & Central Asia,Upper middle income
+22,AL,ALB,Albania,1/1/10,9303.932476,77.03695122,2913021,11.952,7.5,Europe & Central Asia,Upper middle income
+23,AL,ALB,Albania,1/1/12,10361.43322,77.44397561,2900247,12.73,7,Europe & Central Asia,Upper middle income
+24,AL,ALB,Albania,1/1/98,3177.490786,73.32658537,3128530,18.22,11.9,Europe & Central Asia,Upper middle income
+25,AL,ALB,Albania,1/1/96,3140.036986,72.52741463,3168033,20.075,12.5,Europe & Central Asia,Upper middle income
+26,AM,ARM,Armenia,1/1/08,7097.912173,73.945,2975029,14.101,10.6,Europe & Central Asia,Lower middle income
+27,AM,ARM,Armenia,1/1/92,1347.491008,67.85334146,3449497,19.546,21.9,Europe & Central Asia,Lower middle income
+28,AM,ARM,Armenia,1/1/93,1287.955107,68.06956098,3369673,18.348,21.2,Europe & Central Asia,Lower middle income
+29,AM,ARM,Armenia,1/1/03,3510.316808,72.60958537,3036420,13.741,13.7,Europe & Central Asia,Lower middle income
+30,AM,ARM,Armenia,1/1/04,3998.143137,72.9737561,3025982,13.949,13,Europe & Central Asia,Lower middle income
+31,AM,ARM,Armenia,1/1/97,1840.696008,69.71641463,3137652,14.16,18.3,Europe & Central Asia,Lower middle income
+32,AM,ARM,Armenia,1/1/02,3007.219393,72.20160976,3047249,13.511,14.4,Europe & Central Asia,Lower middle income
+33,AM,ARM,Armenia,1/1/14,8099.208326,74.67570732,3006154,13.157,7.7,Europe & Central Asia,Lower middle income
+34,AM,ARM,Armenia,1/1/07,6483.504649,73.76465854,2988117,14.161,11.1,Europe & Central Asia,Lower middle income
+35,AM,ARM,Armenia,1/1/06,5526.092806,73.54826829,3002161,14.164,11.8,Europe & Central Asia,Lower middle income
+36,AM,ARM,Armenia,1/1/94,1419.992742,68.37665854,3289943,17.123,20.5,Europe & Central Asia,Lower middle income
+37,AM,ARM,Armenia,1/1/95,1581.73379,68.76356098,3223173,15.962,19.8,Europe & Central Asia,Lower middle income
+38,AM,ARM,Armenia,1/1/13,7734.780167,74.56136585,2992192,13.308,8.2,Europe & Central Asia,Lower middle income
+39,AM,ARM,Armenia,1/1/99,2123.61324,70.76709756,3093820,13.286,16.7,Europe & Central Asia,Lower middle income
+40,AM,ARM,Armenia,1/1/00,2313.331946,71.27658537,3076098,13.203,15.9,Europe & Central Asia,Lower middle income
+41,AM,ARM,Armenia,1/1/09,6158.301452,74.09582927,2966108,13.986,10,Europe & Central Asia,Lower middle income
+42,AM,ARM,Armenia,1/1/90,2414.404926,67.74780488,3544695,21.6,23,Europe & Central Asia,Lower middle income
+43,AM,ARM,Armenia,1/1/12,7401.856398,74.45209756,2978339,13.474,8.6,Europe & Central Asia,Lower middle income
+44,AM,ARM,Armenia,1/1/96,1731.807416,69.21685366,3173425,14.957,19.1,Europe & Central Asia,Lower middle income
+45,AM,ARM,Armenia,1/1/01,2605.771618,71.75582927,3060036,13.306,15.1,Europe & Central Asia,Lower middle income
+46,AM,ARM,Armenia,1/1/91,2223.444263,67.73829268,3511912,20.652,22.5,Europe & Central Asia,Lower middle income
+47,AM,ARM,Armenia,1/1/10,6376.268217,74.22634146,2963496,13.83,9.5,Europe & Central Asia,Lower middle income
+48,AM,ARM,Armenia,1/1/11,6803.482997,74.34282927,2967984,13.652,9.1,Europe & Central Asia,Lower middle income
+49,AM,ARM,Armenia,1/1/05,4716.243273,73.28739024,3014917,14.097,12.4,Europe & Central Asia,Lower middle income
+50,AM,ARM,Armenia,1/1/98,2012.338894,70.24021951,3112958,13.6,17.5,Europe & Central Asia,Lower middle income
+51,AT,AUT,Austria,1/1/94,22652.45988,76.4195122,7936118,11.6,3.7,Europe & Central Asia,High income: OECD
+52,AT,AUT,Austria,1/1/01,29856.60364,78.57560976,8042293,9.4,3.1,Europe & Central Asia,High income: OECD
+53,AT,AUT,Austria,1/1/93,21743.63618,76.06829268,7905633,12,4,Europe & Central Asia,High income: OECD
+54,AT,AUT,Austria,1/1/06,37626.14418,79.8804878,8268641,9.4,2.8,Europe & Central Asia,High income: OECD
+55,AT,AUT,Austria,1/1/00,29566.24767,78.12682927,8011566,9.8,3.1,Europe & Central Asia,High income: OECD
+56,AT,AUT,Austria,1/1/99,27752.71775,77.87560976,7992324,9.8,3.1,Europe & Central Asia,High income: OECD
+57,AT,AUT,Austria,1/1/13,47416.28467,81.13658537,8479375,9.4,2.3,Europe & Central Asia,High income: OECD
+58,AT,AUT,Austria,1/1/14,47706.48825,81.33658537,8541575,9.6,2.2,Europe & Central Asia,High income: OECD
+59,AT,AUT,Austria,1/1/05,34691.20896,79.33170732,8227829,9.5,2.8,Europe & Central Asia,High income: OECD
+60,AT,AUT,Austria,1/1/10,41892.77585,80.5804878,8363404,9.4,2.5,Europe & Central Asia,High income: OECD
+61,AT,AUT,Austria,1/1/07,39234.32288,80.1804878,8295487,9.2,2.7,Europe & Central Asia,High income: OECD
+62,AT,AUT,Austria,1/1/92,21301.96297,75.81707317,7840709,12.2,4.2,Europe & Central Asia,High income: OECD
+63,AT,AUT,Austria,1/1/96,24573.18183,76.87073171,7959017,11.2,3.4,Europe & Central Asia,High income: OECD
+64,AT,AUT,Austria,1/1/91,20625.88133,75.61707317,7754891,12.2,4.4,Europe & Central Asia,High income: OECD
+65,AT,AUT,Austria,1/1/11,44022.39527,80.98292683,8391643,9.3,2.4,Europe & Central Asia,High income: OECD
+66,AT,AUT,Austria,1/1/95,23705.54204,76.66829268,7948278,11.2,3.5,Europe & Central Asia,High income: OECD
+67,AT,AUT,Austria,1/1/12,45858.24684,80.93658537,8429991,9.4,2.4,Europe & Central Asia,High income: OECD
+68,AT,AUT,Austria,1/1/03,32202.44556,78.63170732,8121423,9.5,3,Europe & Central Asia,High income: OECD
+69,AT,AUT,Austria,1/1/02,31261.55163,78.67804878,8081957,9.7,3,Europe & Central Asia,High income: OECD
+70,AT,AUT,Austria,1/1/98,26728.58592,77.67073171,7976789,10.2,3.2,Europe & Central Asia,High income: OECD
+71,AT,AUT,Austria,1/1/90,19490.93724,75.56829268,7677850,11.8,4.6,Europe & Central Asia,High income: OECD
+72,AT,AUT,Austria,1/1/09,40620.39216,80.33170732,8343323,9.2,2.6,Europe & Central Asia,High income: OECD
+73,AT,AUT,Austria,1/1/97,25532.15175,77.3195122,7968041,10.5,3.2,Europe & Central Asia,High income: OECD
+74,AT,AUT,Austria,1/1/08,41151.58504,80.43170732,8321496,9.3,2.6,Europe & Central Asia,High income: OECD
+75,AT,AUT,Austria,1/1/04,33800.70211,79.1804878,8171966,9.7,2.9,Europe & Central Asia,High income: OECD
+76,AZ,AZE,Azerbaijan,1/1/07,12477.38469,69.7565122,8581300,17.7,24.4,Europe & Central Asia,Upper middle income
+77,AZ,AZE,Azerbaijan,1/1/91,5558.818413,64.42414634,7271000,26.6,36.2,Europe & Central Asia,Upper middle income
+78,AZ,AZE,Azerbaijan,1/1/09,14900.50866,70.29368293,8947243,17,22.5,Europe & Central Asia,Upper middle income
+79,AZ,AZE,Azerbaijan,1/1/93,3361.035497,64.15402439,7495000,23.7,37,Europe & Central Asia,Upper middle income
+80,AZ,AZE,Azerbaijan,1/1/01,3942.084882,67.15029268,8111200,13.6,32.1,Europe & Central Asia,Upper middle income
+81,AZ,AZE,Azerbaijan,1/1/02,4393.967199,67.56107317,8171950,13.5,30.6,Europe & Central Asia,Upper middle income
+82,AZ,AZE,Azerbaijan,1/1/08,13799.78614,70.06395122,8763400,17.4,23.4,Europe & Central Asia,Upper middle income
+83,AZ,AZE,Azerbaijan,1/1/92,4334.433664,64.2072439,7382000,25.2,36.6,Europe & Central Asia,Upper middle income
+84,AZ,AZE,Azerbaijan,1/1/00,3534.329148,66.7582439,8048600,14.5,33.4,Europe & Central Asia,Upper middle income
+85,AZ,AZE,Azerbaijan,1/1/99,3136.093893,66.3554878,7982750,14.7,34.7,Europe & Central Asia,Upper middle income
+86,AZ,AZE,Azerbaijan,1/1/05,7169.150431,68.93726829,8391850,16.9,26.6,Europe & Central Asia,Upper middle income
+87,AZ,AZE,Azerbaijan,1/1/97,2634.158631,65.46239024,7838250,16.8,36.6,Europe & Central Asia,Upper middle income
+88,AZ,AZE,Azerbaijan,1/1/03,4945.907916,68.00368293,8234100,13.8,29.2,Europe & Central Asia,Upper middle income
+89,AZ,AZE,Azerbaijan,1/1/04,5551.448842,68.47019512,8306500,15.8,27.8,Europe & Central Asia,Upper middle income
+90,AZ,AZE,Azerbaijan,1/1/14,17584.68535,70.76321951,9535079,17.9,18.9,Europe & Central Asia,Upper middle income
+91,AZ,AZE,Azerbaijan,1/1/10,15627.60562,70.45131707,9054332,18.3,21.7,Europe & Central Asia,Upper middle income
+92,AZ,AZE,Azerbaijan,1/1/06,9830.162606,69.3752439,8484550,17.6,25.4,Europe & Central Asia,Upper middle income
+93,AZ,AZE,Azerbaijan,1/1/96,2471.585879,64.994,7763000,16.6,37.1,Europe & Central Asia,Upper middle income
+94,AZ,AZE,Azerbaijan,1/1/90,5502.433989,64.74636585,7159000,25.9,35.9,Europe & Central Asia,Upper middle income
+95,AZ,AZE,Azerbaijan,1/1/13,17174.31088,70.69058537,9416801,18.3,19.7,Europe & Central Asia,Upper middle income
+96,AZ,AZE,Azerbaijan,1/1/11,15754.15236,70.55180488,9173082,19.2,21,Europe & Central Asia,Upper middle income
+97,AZ,AZE,Azerbaijan,1/1/95,2420.444864,64.57582927,7685000,18.9,37.4,Europe & Central Asia,Upper middle income
+98,AZ,AZE,Azerbaijan,1/1/98,2901.351672,65.92336585,7913000,15.7,35.8,Europe & Central Asia,Upper middle income
+99,AZ,AZE,Azerbaijan,1/1/12,16180.88715,70.62395122,9295784,18.8,20.4,Europe & Central Asia,Upper middle income
+100,AZ,AZE,Azerbaijan,1/1/94,2719.340227,64.28158537,7597000,21.4,37.3,Europe & Central Asia,Upper middle income
+101,BA,BIH,Bosnia and Herzegovina,1/1/99,4062.008663,73.90963415,3784389,10.748,7.2,Europe & Central Asia,Upper middle income
+102,BA,BIH,Bosnia and Herzegovina,1/1/10,8941.522708,75.80768293,3835258,9.272,5.1,Europe & Central Asia,Upper middle income
+103,BA,BIH,Bosnia and Herzegovina,1/1/98,3658.558859,73.43729268,3775898,11.297,7.8,Europe & Central Asia,Upper middle income
+104,BA,BIH,Bosnia and Herzegovina,1/1/09,8686.598414,75.65736585,3837732,9.248,5.2,Europe & Central Asia,Upper middle income
+105,BA,BIH,Bosnia and Herzegovina,1/1/04,5723.554247,74.9594878,3825872,8.772,5.2,Europe & Central Asia,Upper middle income
+106,BA,BIH,Bosnia and Herzegovina,1/1/06,7330.409433,75.23143902,3838504,8.891,5.1,Europe & Central Asia,Upper middle income
+107,BA,BIH,Bosnia and Herzegovina,1/1/02,4972.278989,74.67558537,3808347,9.191,5.7,Europe & Central Asia,Upper middle income
+108,BA,BIH,Bosnia and Herzegovina,1/1/03,5261.898096,74.82436585,3817313,8.903,5.4,Europe & Central Asia,Upper middle income
+109,BA,BIH,Bosnia and Herzegovina,1/1/97,3128.002497,72.85873171,3779354,11.769,8.4,Europe & Central Asia,Upper middle income
+110,BA,BIH,Bosnia and Herzegovina,1/1/05,6412.549886,75.09353659,3833377,8.781,5.1,Europe & Central Asia,Upper middle income
+111,BA,BIH,Bosnia and Herzegovina,1/1/94,913.0143161,71.0295122,3992256,12.776,10,Europe & Central Asia,Upper middle income
+112,BA,BIH,Bosnia and Herzegovina,1/1/95,1158.715494,71.56609756,3879278,12.474,9.5,Europe & Central Asia,Upper middle income
+113,BA,BIH,Bosnia and Herzegovina,1/1/11,9422.276108,75.96292683,3832310,9.235,5,Europe & Central Asia,Upper middle income
+114,BA,BIH,Bosnia and Herzegovina,1/1/08,8796.280753,75.51197561,3839749,9.164,5.1,Europe & Central Asia,Upper middle income
+115,BA,BIH,Bosnia and Herzegovina,1/1/01,4661.145307,74.50092683,3799747,9.627,6.1,Europe & Central Asia,Upper middle income
+116,BA,BIH,Bosnia and Herzegovina,1/1/14,10426.91728,76.4332439,3817554,8.947,4.2,Europe & Central Asia,Upper middle income
+117,BA,BIH,Bosnia and Herzegovina,1/1/07,8025.023207,75.3714878,3840418,9.036,5.1,Europe & Central Asia,Upper middle income
+118,BA,BIH,Bosnia and Herzegovina,1/1/13,10115.5404,76.27692683,3823533,9.062,4.5,Europe & Central Asia,Upper middle income
+119,BA,BIH,Bosnia and Herzegovina,1/1/00,4373.125089,74.26073171,3792878,10.168,6.6,Europe & Central Asia,Upper middle income
+120,BA,BIH,Bosnia and Herzegovina,1/1/96,2269.603865,72.20880488,3810649,12.154,9,Europe & Central Asia,Upper middle income
+121,BA,BIH,Bosnia and Herzegovina,1/1/12,9705.013979,76.12017073,3828419,9.159,4.7,Europe & Central Asia,Upper middle income
+122,BE,BEL,Belgium,1/1/92,20657.57877,76.35121951,10045158,12.4,4.2,Europe & Central Asia,High income: OECD
+123,BE,BEL,Belgium,1/1/98,24831.83899,77.47317073,10203008,11.2,3.3,Europe & Central Asia,High income: OECD
+124,BE,BEL,Belgium,1/1/07,36579.6182,79.78292683,10625700,11.7,2.5,Europe & Central Asia,High income: OECD
+125,BE,BEL,Belgium,1/1/99,25922.82496,77.6195122,10226419,11.2,3.1,Europe & Central Asia,High income: OECD
+126,BE,BEL,Belgium,1/1/94,21927.93818,76.69170732,10115603,11.5,3.9,Europe & Central Asia,High income: OECD
+127,BE,BEL,Belgium,1/1/09,37629.44284,79.98292683,10796493,11.8,2.4,Europe & Central Asia,High income: OECD
+128,BE,BEL,Belgium,1/1/12,41930.66183,80.38536585,11128246,11.5,2.3,Europe & Central Asia,High income: OECD
+129,BE,BEL,Belgium,1/1/90,19052.87519,76.05195122,9967379,12.4,4.6,Europe & Central Asia,High income: OECD
+130,BE,BEL,Belgium,1/1/00,28278.29829,77.72195122,10251250,11.4,3,Europe & Central Asia,High income: OECD
+131,BE,BEL,Belgium,1/1/97,24303.3899,77.37073171,10181245,11.4,3.5,Europe & Central Asia,High income: OECD
+132,BE,BEL,Belgium,1/1/06,35071.37549,79.3804878,10547958,11.6,2.6,Europe & Central Asia,High income: OECD
+133,BE,BEL,Belgium,1/1/95,22871.159,76.84073171,10136811,11.4,3.8,Europe & Central Asia,High income: OECD
+134,BE,BEL,Belgium,1/1/10,39257.83447,80.18292683,10895586,11.9,2.3,Europe & Central Asia,High income: OECD
+135,BE,BEL,Belgium,1/1/05,33042.89928,78.9804878,10478617,11.4,2.6,Europe & Central Asia,High income: OECD
+136,BE,BEL,Belgium,1/1/01,29198.02064,77.97317073,10286570,11.2,2.9,Europe & Central Asia,High income: OECD
+137,BE,BEL,Belgium,1/1/11,40858.72517,80.58536585,11047744,11.6,2.3,Europe & Central Asia,High income: OECD
+138,BE,BEL,Belgium,1/1/13,43057.20359,80.58780488,11182817,11.2,2.2,Europe & Central Asia,High income: OECD
+139,BE,BEL,Belgium,1/1/14,43409.24089,80.58780488,11231213,11.1,2.2,Europe & Central Asia,High income: OECD
+140,BE,BEL,Belgium,1/1/03,31052.37783,78.12926829,10376133,11,2.8,Europe & Central Asia,High income: OECD
+141,BE,BEL,Belgium,1/1/04,31975.60418,78.87804878,10421137,11.3,2.7,Europe & Central Asia,High income: OECD
+142,BE,BEL,Belgium,1/1/02,30767.29975,78.07560976,10332785,10.9,2.8,Europe & Central Asia,High income: OECD
+143,BE,BEL,Belgium,1/1/93,20864.00662,76.34536585,10084475,12,4.1,Europe & Central Asia,High income: OECD
+144,BE,BEL,Belgium,1/1/08,37846.95559,79.6804878,10709973,11.9,2.4,Europe & Central Asia,High income: OECD
+145,BE,BEL,Belgium,1/1/96,23272.62431,77.18731707,10156637,11.5,3.6,Europe & Central Asia,High income: OECD
+146,BE,BEL,Belgium,1/1/91,19973.5706,76.19219512,10004486,12.6,4.4,Europe & Central Asia,High income: OECD
+147,BG,BGR,Bulgaria,1/1/91,5161.908875,71.56097561,8632367,11.1,11.9,Europe & Central Asia,Upper middle income
+148,BG,BGR,Bulgaria,1/1/90,5402.669571,71.64146341,8718289,12.1,11.6,Europe & Central Asia,Upper middle income
+149,BG,BGR,Bulgaria,1/1/06,11440.90733,72.61219512,7699020,9.6,8.1,Europe & Central Asia,Upper middle income
+150,BG,BGR,Bulgaria,1/1/92,4948.480991,71.49439024,8540164,10.4,12.1,Europe & Central Asia,Upper middle income
+151,BG,BGR,Bulgaria,1/1/96,5275.570265,70.89731707,8362826,8.6,12.3,Europe & Central Asia,Upper middle income
+152,BG,BGR,Bulgaria,1/1/04,9155.589458,72.56341463,7781161,9,9.2,Europe & Central Asia,Upper middle income
+153,BG,BGR,Bulgaria,1/1/05,10123.97384,72.56097561,7739900,9.2,8.6,Europe & Central Asia,Upper middle income
+154,BG,BGR,Bulgaria,1/1/99,5778.966624,71.41219512,8210624,8.8,11.8,Europe & Central Asia,Upper middle income
+155,BG,BGR,Bulgaria,1/1/12,16097.83431,74.31463415,7305888,9.5,6.5,Europe & Central Asia,Upper middle income
+156,BG,BGR,Bulgaria,1/1/07,13319.24372,72.66341463,7545338,10,7.7,Europe & Central Asia,Upper middle income
+157,BG,BGR,Bulgaria,1/1/08,14934.77446,72.96341463,7492561,10.4,7.4,Europe & Central Asia,Upper middle income
+158,BG,BGR,Bulgaria,1/1/02,7760.335491,71.86585366,7868468,8.5,10.3,Europe & Central Asia,Upper middle income
+159,BG,BGR,Bulgaria,1/1/03,8386.675063,72.06585366,7823557,8.6,9.8,Europe & Central Asia,Upper middle income
+160,BG,BGR,Bulgaria,1/1/10,15084.32216,73.51219512,7395599,10.2,7.1,Europe & Central Asia,Upper middle income
+161,BG,BGR,Bulgaria,1/1/97,5404.800136,70.35121951,8312068,7.7,12.3,Europe & Central Asia,Upper middle income
+162,BG,BGR,Bulgaria,1/1/14,17207.59533,75.40731707,7223938,9.4,5.9,Europe & Central Asia,Upper middle income
+163,BG,BGR,Bulgaria,1/1/95,5536.851189,71.05341463,8406067,8.6,12.2,Europe & Central Asia,Upper middle income
+164,BG,BGR,Bulgaria,1/1/09,14870.80541,73.41219512,7444443,10.9,7.2,Europe & Central Asia,Upper middle income
+165,BG,BGR,Bulgaria,1/1/13,16573.47034,74.86097561,7265115,9.2,6.2,Europe & Central Asia,Upper middle income
+166,BG,BGR,Bulgaria,1/1/00,6344.336359,71.66341463,8170172,9,11.3,Europe & Central Asia,Upper middle income
+167,BG,BGR,Bulgaria,1/1/11,15603.05166,74.16341463,7348328,9.6,6.8,Europe & Central Asia,Upper middle income
+168,BG,BGR,Bulgaria,1/1/98,6120.069653,71.06097561,8256786,7.9,12.2,Europe & Central Asia,Upper middle income
+169,BG,BGR,Bulgaria,1/1/94,5249.481131,71.20878049,8443591,9.4,12.2,Europe & Central Asia,Upper middle income
+170,BG,BGR,Bulgaria,1/1/01,6895.369912,71.76829268,8020282,8.5,10.8,Europe & Central Asia,Upper middle income
+171,BG,BGR,Bulgaria,1/1/93,5031.199903,71.34682927,8472313,10,12.2,Europe & Central Asia,Upper middle income
+172,BY,BLR,Belarus,1/1/98,5060.880441,68.40731707,10069000,9.1,9,Europe & Central Asia,Upper middle income
+173,BY,BLR,Belarus,1/1/91,5331.205325,70.37804878,10194000,12.9,9.2,Europe & Central Asia,Upper middle income
+174,BY,BLR,Belarus,1/1/92,4918.655385,70.02195122,10216000,12.4,9.3,Europe & Central Asia,Upper middle income
+175,BY,BLR,Belarus,1/1/99,5331.032663,67.90731707,10035000,9.1,8.3,Europe & Central Asia,Upper middle income
+176,BY,BLR,Belarus,1/1/05,9662.054244,68.85121951,9663000,9.4,4.2,Europe & Central Asia,Upper middle income
+177,BY,BLR,Belarus,1/1/97,4596.67258,68.46097561,10117000,8.8,9.5,Europe & Central Asia,Upper middle income
+178,BY,BLR,Belarus,1/1/10,15385.45927,70.40487805,9490000,11.4,2.3,Europe & Central Asia,Upper middle income
+179,BY,BLR,Belarus,1/1/90,5224.699919,70.83658537,10189000,13.9,9.3,Europe & Central Asia,Upper middle income
+180,BY,BLR,Belarus,1/1/04,8497.621267,68.95609756,9730000,9.1,4.7,Europe & Central Asia,Upper middle income
+181,BY,BLR,Belarus,1/1/14,18250.56322,72.97560976,9483000,12.5,1.9,Europe & Central Asia,Upper middle income
+182,BY,BLR,Belarus,1/1/08,13917.75675,70.45609756,9528000,11.3,2.8,Europe & Central Asia,Upper middle income
+183,BY,BLR,Belarus,1/1/06,11022.0864,69.40487805,9604000,10.1,3.7,Europe & Central Asia,Upper middle income
+184,BY,BLR,Belarus,1/1/94,4191.496264,68.76829268,10227000,10.7,9.6,Europe & Central Asia,Upper middle income
+185,BY,BLR,Belarus,1/1/03,7369.828474,68.55365854,9797000,9,5.3,Europe & Central Asia,Upper middle income
+186,BY,BLR,Belarus,1/1/12,17218.3561,71.96585366,9464000,12.2,2.1,Europe & Central Asia,Upper middle income
+187,BY,BLR,Belarus,1/1/09,14082.53828,70.40731707,9507000,11.5,2.5,Europe & Central Asia,Upper middle income
+188,BY,BLR,Belarus,1/1/11,16603.38953,70.55365854,9473000,11.5,2.2,Europe & Central Asia,Upper middle income
+189,BY,BLR,Belarus,1/1/96,4039.674256,68.61219512,10160000,9.3,9.8,Europe & Central Asia,Upper middle income
+190,BY,BLR,Belarus,1/1/00,5785.87425,68.91219512,10005000,9.4,7.4,Europe & Central Asia,Upper middle income
+191,BY,BLR,Belarus,1/1/13,17683.1643,72.47073171,9466000,12.5,2,Europe & Central Asia,Upper middle income
+192,BY,BLR,Belarus,1/1/01,6245.425114,68.50731707,9928000,9.2,6.6,Europe & Central Asia,Upper middle income
+193,BY,BLR,Belarus,1/1/02,6703.775792,68.05609756,9865000,9,5.9,Europe & Central Asia,Upper middle income
+194,BY,BLR,Belarus,1/1/07,12345.10559,70.20341463,9560000,10.8,3.2,Europe & Central Asia,Upper middle income
+195,BY,BLR,Belarus,1/1/95,3846.321048,68.46097561,10194000,9.9,9.7,Europe & Central Asia,Upper middle income
+196,BY,BLR,Belarus,1/1/93,4642.519116,68.97073171,10239000,11.3,9.5,Europe & Central Asia,Upper middle income
+197,CH,CHE,Switzerland,1/1/91,27030.92709,77.51463415,6799978,12.7,3.8,Europe & Central Asia,High income: OECD
+198,CH,CHE,Switzerland,1/1/95,28952.76494,78.41707317,7040687,11.7,3.4,Europe & Central Asia,High income: OECD
+199,CH,CHE,Switzerland,1/1/12,57205.37219,82.69756098,7996861,10.3,3,Europe & Central Asia,High income: OECD
+200,CH,CHE,Switzerland,1/1/90,26734.01258,77.24243902,6715519,12.5,3.9,Europe & Central Asia,High income: OECD
+201,CH,CHE,Switzerland,1/1/02,36376.69245,80.38536585,7284753,9.9,3.4,Europe & Central Asia,High income: OECD
+202,CH,CHE,Switzerland,1/1/05,39152.87342,81.23658537,7437115,9.8,3.3,Europe & Central Asia,High income: OECD
+203,CH,CHE,Switzerland,1/1/00,34500.07861,79.6804878,7184250,10.9,3.5,Europe & Central Asia,High income: OECD
+204,CH,CHE,Switzerland,1/1/04,37760.89215,81.08780488,7389625,9.9,3.3,Europe & Central Asia,High income: OECD
+205,CH,CHE,Switzerland,1/1/08,50438.76295,81.99268293,7647675,10,3.2,Europe & Central Asia,High income: OECD
+206,CH,CHE,Switzerland,1/1/14,59535.79974,82.84878049,8188649,10.2,2.8,Europe & Central Asia,High income: OECD
+207,CH,CHE,Switzerland,1/1/92,27332.00178,77.80609756,6875364,12.6,3.6,Europe & Central Asia,High income: OECD
+208,CH,CHE,Switzerland,1/1/93,27693.69523,78.08536585,6938265,12.1,3.5,Europe & Central Asia,High income: OECD
+209,CH,CHE,Switzerland,1/1/94,28414.76005,78.35,6993795,11.9,3.5,Europe & Central Asia,High income: OECD
+210,CH,CHE,Switzerland,1/1/98,31984.6286,79.32439024,7110001,11.1,3.4,Europe & Central Asia,High income: OECD
+211,CH,CHE,Switzerland,1/1/99,32558.01319,79.5804878,7143991,11,3.5,Europe & Central Asia,High income: OECD
+212,CH,CHE,Switzerland,1/1/96,29674.73901,78.89609756,7071850,11.7,3.4,Europe & Central Asia,High income: OECD
+213,CH,CHE,Switzerland,1/1/01,35381.1937,80.1804878,7229854,10,3.5,Europe & Central Asia,High income: OECD
+214,CH,CHE,Switzerland,1/1/13,59351.42306,82.79756098,8089346,10.2,2.9,Europe & Central Asia,High income: OECD
+215,CH,CHE,Switzerland,1/1/11,54550.68937,82.69512195,7912398,10.2,3,Europe & Central Asia,High income: OECD
+216,CH,CHE,Switzerland,1/1/06,43350.83895,81.4902439,7483934,9.8,3.3,Europe & Central Asia,High income: OECD
+217,CH,CHE,Switzerland,1/1/07,47404.66762,81.74146341,7551117,9.9,3.3,Europe & Central Asia,High income: OECD
+218,CH,CHE,Switzerland,1/1/97,30919.81056,79.0795122,7088906,11.4,3.4,Europe & Central Asia,High income: OECD
+219,CH,CHE,Switzerland,1/1/09,49903.27319,82.04390244,7743831,10.1,3.2,Europe & Central Asia,High income: OECD
+220,CH,CHE,Switzerland,1/1/10,51356.96398,82.24634146,7824909,10.3,3.1,Europe & Central Asia,High income: OECD
+221,CH,CHE,Switzerland,1/1/03,36419.37836,80.53658537,7339001,9.8,3.4,Europe & Central Asia,High income: OECD
+222,CY,CYP,Cyprus,1/1/96,16877.30315,77.41909756,873246,15.73,4.2,Europe & Central Asia,High income
+223,CY,CYP,Cyprus,1/1/05,27330.88191,78.58960976,1032586,11.945,2.4,Europe & Central Asia,High income
+224,CY,CYP,Cyprus,1/1/13,30587.42435,79.94978049,1141652,11.436,1.6,Europe & Central Asia,High income
+225,CY,CYP,Cyprus,1/1/95,16530.19092,77.27465854,855389,16.439,4.5,Europe & Central Asia,High income
+226,CY,CYP,Cyprus,1/1/03,23829.73189,78.34585366,998150,12.251,2.6,Europe & Central Asia,High income
+227,CY,CYP,Cyprus,1/1/00,20726.62731,77.97168293,943287,13.244,3.2,Europe & Central Asia,High income
+228,CY,CYP,Cyprus,1/1/90,13189.512,76.51395122,766611,19.048,5.6,Europe & Central Asia,High income
+229,CY,CYP,Cyprus,1/1/02,22994.54008,78.22395122,979883,12.501,2.8,Europe & Central Asia,High income
+230,CY,CYP,Cyprus,1/1/93,14669.40598,76.97826829,818814,17.726,5.1,Europe & Central Asia,High income
+231,CY,CYP,Cyprus,1/1/04,25595.98111,78.4657561,1015827,12.069,2.5,Europe & Central Asia,High income
+232,CY,CYP,Cyprus,1/1/97,17345.33047,77.56102439,890733,15.025,4,Europe & Central Asia,High income
+233,CY,CYP,Cyprus,1/1/91,13378.47822,76.67139024,783138,18.693,5.5,Europe & Central Asia,High income
+234,CY,CYP,Cyprus,1/1/10,33957.90165,79.38195122,1103685,11.689,1.9,Europe & Central Asia,High income
+235,CY,CYP,Cyprus,1/1/94,15540.73351,77.12770732,837166,17.114,4.8,Europe & Central Asia,High income
+236,CY,CYP,Cyprus,1/1/14,30295.21278,80.13156098,1153658,11.326,1.5,Europe & Central Asia,High income
+237,CY,CYP,Cyprus,1/1/12,31920.44547,79.76226829,1129303,11.534,1.7,Europe & Central Asia,High income
+238,CY,CYP,Cyprus,1/1/98,18340.12068,77.70092683,908040,14.36,3.7,Europe & Central Asia,High income
+239,CY,CYP,Cyprus,1/1/01,22353.30074,78.10056098,961482,12.828,3,Europe & Central Asia,High income
+240,CY,CYP,Cyprus,1/1/92,14576.68026,76.82631707,800660,18.255,5.3,Europe & Central Asia,High income
+241,CY,CYP,Cyprus,1/1/07,31767.05246,78.8685122,1063040,11.818,2.2,Europe & Central Asia,High income
+242,CY,CYP,Cyprus,1/1/09,34087.75901,79.1994878,1090486,11.741,2,Europe & Central Asia,High income
+243,CY,CYP,Cyprus,1/1/99,19211.71957,77.83780488,925491,13.758,3.5,Europe & Central Asia,High income
+244,CY,CYP,Cyprus,1/1/06,29706.28784,78.72287805,1048293,11.867,2.3,Europe & Central Asia,High income
+245,CY,CYP,Cyprus,1/1/08,34825.57756,79.02753659,1077010,11.78,2.1,Europe & Central Asia,High income
+246,CY,CYP,Cyprus,1/1/11,32983.18518,79.5715122,1116644,11.619,1.8,Europe & Central Asia,High income
+247,CZ,CZE,Czech Republic,1/1/06,24400.72696,76.52439024,10238905,10.3,3,Europe & Central Asia,High income: OECD
+248,CZ,CZE,Czech Republic,1/1/94,12723.69228,72.97268293,10333587,10.3,7.3,Europe & Central Asia,High income: OECD
+249,CZ,CZE,Czech Republic,1/1/92,11834.24759,72.27170732,10319123,11.8,8.9,Europe & Central Asia,High income: OECD
+250,CZ,CZE,Czech Republic,1/1/05,22286.45719,75.92439024,10211216,10,3.1,Europe & Central Asia,High income: OECD
+251,CZ,CZE,Czech Republic,1/1/96,14685.09267,73.71463415,10315241,8.8,5.8,Europe & Central Asia,High income: OECD
+252,CZ,CZE,Czech Republic,1/1/07,26680.49785,76.72439024,10298828,11.1,2.8,Europe & Central Asia,High income: OECD
+253,CZ,CZE,Czech Republic,1/1/93,12110.72095,72.76780488,10329855,11.7,8.1,Europe & Central Asia,High income: OECD
+254,CZ,CZE,Czech Republic,1/1/11,28604.21266,77.87317073,10496088,10.4,2.3,Europe & Central Asia,High income: OECD
+255,CZ,CZE,Czech Republic,1/1/90,12716.26885,71.38390244,10333355,12.6,10.3,Europe & Central Asia,High income: OECD
+256,CZ,CZE,Czech Republic,1/1/95,13805.63234,73.07487805,10327253,9.3,6.5,Europe & Central Asia,High income: OECD
+257,CZ,CZE,Czech Republic,1/1/04,20984.65585,75.72195122,10197101,9.6,3.3,Europe & Central Asia,High income: OECD
+258,CZ,CZE,Czech Republic,1/1/03,19609.26942,75.17073171,10193998,9.2,3.4,Europe & Central Asia,High income: OECD
+259,CZ,CZE,Czech Republic,1/1/14,31185.8787,78.27560976,10525347,10.4,1.9,Europe & Central Asia,High income: OECD
+260,CZ,CZE,Czech Republic,1/1/13,30043.5678,78.17560976,10514272,10.2,2,Europe & Central Asia,High income: OECD
+261,CZ,CZE,Czech Republic,1/1/91,11641.29592,71.89829268,10308578,12.5,9.7,Europe & Central Asia,High income: OECD
+262,CZ,CZE,Czech Republic,1/1/97,14892.66048,73.82487805,10304131,8.8,5.2,Europe & Central Asia,High income: OECD
+263,CZ,CZE,Czech Republic,1/1/10,27069.63397,77.42439024,10474410,11.2,2.4,Europe & Central Asia,High income: OECD
+264,CZ,CZE,Czech Republic,1/1/12,28727.90726,78.07560976,10510785,10.3,2.1,Europe & Central Asia,High income: OECD
+265,CZ,CZE,Czech Republic,1/1/08,27111.5482,76.97560976,10384603,11.5,2.7,Europe & Central Asia,High income: OECD
+266,CZ,CZE,Czech Republic,1/1/99,15387.3753,74.66829268,10283860,8.7,4.2,Europe & Central Asia,High income: OECD
+267,CZ,CZE,Czech Republic,1/1/02,18318.35495,75.22195122,10196916,9.1,3.5,Europe & Central Asia,High income: OECD
+268,CZ,CZE,Czech Republic,1/1/00,16282.47337,74.96829268,10255063,8.9,3.9,Europe & Central Asia,High income: OECD
+269,CZ,CZE,Czech Republic,1/1/01,17650.28994,75.17317073,10216605,8.9,3.7,Europe & Central Asia,High income: OECD
+270,CZ,CZE,Czech Republic,1/1/98,14969.25479,74.51463415,10294373,8.8,4.6,Europe & Central Asia,High income: OECD
+271,CZ,CZE,Czech Republic,1/1/09,27008.80686,77.07804878,10443936,11.3,2.5,Europe & Central Asia,High income: OECD
+272,DE,DEU,Germany,1/1/97,24183.8621,77.07317073,82034771,9.9,2.9,Europe & Central Asia,High income: OECD
+273,DE,DEU,Germany,1/1/90,19032.69606,75.17736585,79433029,11.4,3.4,Europe & Central Asia,High income: OECD
+274,DE,DEU,Germany,1/1/96,23655.81988,76.67317073,81914831,9.7,3,Europe & Central Asia,High income: OECD
+275,DE,DEU,Germany,1/1/92,21230.24836,75.8195122,80624598,10,3.5,Europe & Central Asia,High income: OECD
+276,DE,DEU,Germany,1/1/93,21386.50107,75.87073171,81156363,9.8,3.3,Europe & Central Asia,High income: OECD
+277,DE,DEU,Germany,1/1/03,29362.42507,78.3804878,82534176,8.6,2.7,Europe & Central Asia,High income: OECD
+278,DE,DEU,Germany,1/1/95,23093.6008,76.42195122,81678051,9.4,3.1,Europe & Central Asia,High income: OECD
+279,DE,DEU,Germany,1/1/94,22300.86809,76.27073171,81438348,9.5,3.2,Europe & Central Asia,High income: OECD
+280,DE,DEU,Germany,1/1/10,39639.47997,79.98780488,81776930,8.3,2.3,Europe & Central Asia,High income: OECD
+281,DE,DEU,Germany,1/1/07,36777.78306,79.53414634,82266372,8.3,2.5,Europe & Central Asia,High income: OECD
+282,DE,DEU,Germany,1/1/05,32184.05523,78.93170732,82469422,8.3,2.6,Europe & Central Asia,High income: OECD
+283,DE,DEU,Germany,1/1/13,44184.82304,80.84390244,82132753,8.3,2.2,Europe & Central Asia,High income: OECD
+284,DE,DEU,Germany,1/1/09,37112.88061,79.83658537,81902307,8.1,2.4,Europe & Central Asia,High income: OECD
+285,DE,DEU,Germany,1/1/98,24871.24091,77.47560976,82047195,9.6,2.9,Europe & Central Asia,High income: OECD
+286,DE,DEU,Germany,1/1/11,42142.5489,80.74146341,81797673,8.1,2.3,Europe & Central Asia,High income: OECD
+287,DE,DEU,Germany,1/1/01,27725.11014,78.32926829,82349925,8.9,2.7,Europe & Central Asia,High income: OECD
+288,DE,DEU,Germany,1/1/02,28435.90138,78.22926829,82488495,8.7,2.7,Europe & Central Asia,High income: OECD
+289,DE,DEU,Germany,1/1/91,20520.7394,75.3195122,80013896,10.4,3.5,Europe & Central Asia,High income: OECD
+290,DE,DEU,Germany,1/1/06,34690.33322,79.13170732,82376451,8.2,2.6,Europe & Central Asia,High income: OECD
+291,DE,DEU,Germany,1/1/04,30694.90234,78.6804878,82516260,8.6,2.6,Europe & Central Asia,High income: OECD
+292,DE,DEU,Germany,1/1/12,43600.1134,80.89268293,80425823,8.4,2.3,Europe & Central Asia,High income: OECD
+293,DE,DEU,Germany,1/1/14,46393.87652,80.84390244,80982500,8.6,2.2,Europe & Central Asia,High income: OECD
+294,DE,DEU,Germany,1/1/08,38438.74115,79.73658537,82110097,8.3,2.4,Europe & Central Asia,High income: OECD
+295,DE,DEU,Germany,1/1/00,26630.51119,77.92682927,82211508,9.3,2.8,Europe & Central Asia,High income: OECD
+296,DE,DEU,Germany,1/1/99,25798.2799,77.72682927,82100243,9.4,2.8,Europe & Central Asia,High income: OECD
+297,DK,DNK,Denmark,1/1/99,27544.00656,76.34146341,5321799,12.4,3.6,Europe & Central Asia,High income: OECD
+298,DK,DNK,Denmark,1/1/00,29558.29463,76.59268293,5339616,12.6,3.5,Europe & Central Asia,High income: OECD
+299,DK,DNK,Denmark,1/1/06,37166.57369,78.09512195,5437272,12,3,Europe & Central Asia,High income: OECD
+300,DK,DNK,Denmark,1/1/03,31268.87647,77.14390244,5390574,12,3.2,Europe & Central Asia,High income: OECD
+301,DK,DNK,Denmark,1/1/96,24451.95498,75.59146341,5263074,12.9,3.8,Europe & Central Asia,High income: OECD
+302,DK,DNK,Denmark,1/1/97,25682.51972,75.94512195,5284991,12.8,3.7,Europe & Central Asia,High income: OECD
+303,DK,DNK,Denmark,1/1/14,45995.87271,80.54878049,5643475,10.1,2.6,Europe & Central Asia,High income: OECD
+304,DK,DNK,Denmark,1/1/09,39612.12763,78.59756098,5523095,11.4,2.8,Europe & Central Asia,High income: OECD
+305,DK,DNK,Denmark,1/1/05,34079.95976,77.84390244,5419432,11.9,3.1,Europe & Central Asia,High income: OECD
+306,DK,DNK,Denmark,1/1/95,23351.63536,75.21268293,5233373,13.3,3.8,Europe & Central Asia,High income: OECD
+307,DK,DNK,Denmark,1/1/92,20374.71562,75.19414634,5171370,13.1,4.1,Europe & Central Asia,High income: OECD
+308,DK,DNK,Denmark,1/1/02,31597.68986,76.89512195,5375931,11.9,3.3,Europe & Central Asia,High income: OECD
+309,DK,DNK,Denmark,1/1/94,22310.17712,75.37512195,5206180,13.4,3.9,Europe & Central Asia,High income: OECD
+310,DK,DNK,Denmark,1/1/04,33143.76317,77.49268293,5404523,12,3.1,Europe & Central Asia,High income: OECD
+311,DK,DNK,Denmark,1/1/07,38670.49766,78.19512195,5461438,11.7,2.9,Europe & Central Asia,High income: OECD
+312,DK,DNK,Denmark,1/1/98,26608.80135,76.13902439,5304219,12.5,3.7,Europe & Central Asia,High income: OECD
+313,DK,DNK,Denmark,1/1/13,45681.10934,80.3,5614932,10,2.6,Europe & Central Asia,High income: OECD
+314,DK,DNK,Denmark,1/1/12,44246.33062,80.05121951,5591572,10.4,2.7,Europe & Central Asia,High income: OECD
+315,DK,DNK,Denmark,1/1/10,41835.79665,79.1,5547683,11.4,2.8,Europe & Central Asia,High income: OECD
+316,DK,DNK,Denmark,1/1/91,19599.41616,75.15780488,5154298,12.5,4.2,Europe & Central Asia,High income: OECD
+317,DK,DNK,Denmark,1/1/90,18773.2194,74.80536585,5140939,12.3,4.4,Europe & Central Asia,High income: OECD
+318,DK,DNK,Denmark,1/1/01,30247.19638,76.79268293,5358783,12.2,3.4,Europe & Central Asia,High income: OECD
+319,DK,DNK,Denmark,1/1/08,40838.18875,78.44634146,5493621,11.8,2.9,Europe & Central Asia,High income: OECD
+320,DK,DNK,Denmark,1/1/93,20771.47155,75.11682927,5188628,13,4,Europe & Central Asia,High income: OECD
+321,DK,DNK,Denmark,1/1/11,43314.05636,79.8,5570572,10.6,2.7,Europe & Central Asia,High income: OECD
+322,EE,EST,Estonia,1/1/98,8479.36004,69.35853659,1386156,8.8,7.5,Europe & Central Asia,High income: OECD
+323,EE,EST,Estonia,1/1/07,21836.41229,72.81463415,1340680,11.8,3.4,Europe & Central Asia,High income: OECD
+324,EE,EST,Estonia,1/1/08,22508.92841,73.77073171,1337090,12,3.1,Europe & Central Asia,High income: OECD
+325,EE,EST,Estonia,1/1/95,6352.243897,67.54390244,1436634,9.4,10.3,Europe & Central Asia,High income: OECD
+326,EE,EST,Estonia,1/1/99,8776.274324,70.06341463,1380620,9,6.8,Europe & Central Asia,High income: OECD
+327,EE,EST,Estonia,1/1/09,20206.18071,74.82439024,1334515,11.8,2.8,Europe & Central Asia,High income: OECD
+328,EE,EST,Estonia,1/1/10,21113.11961,75.42926829,1331475,11.9,2.5,Europe & Central Asia,High income: OECD
+329,EE,EST,Estonia,1/1/06,19299.07841,72.69146341,1346810,11,3.7,Europe & Central Asia,High income: OECD
+330,EE,EST,Estonia,1/1/96,6956.656508,69.61219512,1415594,9.4,9.3,Europe & Central Asia,High income: OECD
+331,EE,EST,Estonia,1/1/00,9706.928198,70.41707317,1396985,9.4,6.3,Europe & Central Asia,High income: OECD
+332,EE,EST,Estonia,1/1/11,23954.86597,76.22926829,1327439,11.1,2.3,Europe & Central Asia,High income: OECD
+333,EE,EST,Estonia,1/1/04,14664.40247,71.9097561,1362550,10.3,4.4,Europe & Central Asia,High income: OECD
+334,EE,EST,Estonia,1/1/02,11805.4692,70.90487805,1379350,9.4,5.3,Europe & Central Asia,High income: OECD
+335,EE,EST,Estonia,1/1/05,16560.50223,72.56829268,1354775,10.6,4,Europe & Central Asia,High income: OECD
+336,EE,EST,Estonia,1/1/03,13237.35675,71.31707317,1370720,9.5,4.8,Europe & Central Asia,High income: OECD
+337,EE,EST,Estonia,1/1/12,25921.0286,76.32682927,1322696,10.6,2,Europe & Central Asia,High income: OECD
+338,EE,EST,Estonia,1/1/14,28139.93944,77.23902439,1314545,10.3,1.7,Europe & Central Asia,High income: OECD
+339,EE,EST,Estonia,1/1/97,8003.749939,69.8097561,1399535,9,8.3,Europe & Central Asia,High income: OECD
+340,EE,EST,Estonia,1/1/13,27169.28665,77.14146341,1317997,10.3,1.8,Europe & Central Asia,High income: OECD
+341,EE,EST,Estonia,1/1/01,10548.51403,70.25853659,1388115,9.1,5.7,Europe & Central Asia,High income: OECD
+342,ES,ESP,Spain,1/1/11,32530.09314,82.47560976,46742697,10.1,3,Europe & Central Asia,High income: OECD
+343,ES,ESP,Spain,1/1/14,33625.42811,83.07804878,46480882,9.2,2.8,Europe & Central Asia,High income: OECD
+344,ES,ESP,Spain,1/1/10,32372.85437,81.62682927,46576897,10.4,3,Europe & Central Asia,High income: OECD
+345,ES,ESP,Spain,1/1/92,14893.03872,77.41,39067745,10.2,6.4,Europe & Central Asia,High income: OECD
+346,ES,ESP,Spain,1/1/06,30860.71588,80.82195122,44397319,10.8,3.4,Europe & Central Asia,High income: OECD
+347,ES,ESP,Spain,1/1/02,24659.0987,79.56829268,41431558,10.1,3.9,Europe & Central Asia,High income: OECD
+348,ES,ESP,Spain,1/1/98,19381.03976,78.66585366,39721108,9.2,4.3,Europe & Central Asia,High income: OECD
+349,ES,ESP,Spain,1/1/12,32235.59592,82.42682927,46773055,9.7,3,Europe & Central Asia,High income: OECD
+350,ES,ESP,Spain,1/1/95,16417.62131,77.98073171,39387017,9.2,5.2,Europe & Central Asia,High income: OECD
+351,ES,ESP,Spain,1/1/96,17195.04597,78.1204878,39478186,9.2,4.9,Europe & Central Asia,High income: OECD
+352,ES,ESP,Spain,1/1/03,25337.11082,79.6195122,42187645,10.4,3.8,Europe & Central Asia,High income: OECD
+353,ES,ESP,Spain,1/1/09,32796.66547,81.47560976,46362946,10.6,3.1,Europe & Central Asia,High income: OECD
+354,ES,ESP,Spain,1/1/99,20316.23289,78.71707317,39926268,9.5,4.1,Europe & Central Asia,High income: OECD
+355,ES,ESP,Spain,1/1/91,14474.74323,76.97121951,38939049,10.2,6.7,Europe & Central Asia,High income: OECD
+356,ES,ESP,Spain,1/1/97,18166.37793,78.60414634,39582413,9.3,4.6,Europe & Central Asia,High income: OECD
+357,ES,ESP,Spain,1/1/01,23218.8974,79.36829268,40756001,9.9,4,Europe & Central Asia,High income: OECD
+358,ES,ESP,Spain,1/1/04,26437.85409,79.87073171,42921895,10.6,3.7,Europe & Central Asia,High income: OECD
+359,ES,ESP,Spain,1/1/05,27868.95195,80.17073171,43653155,10.6,3.5,Europe & Central Asia,High income: OECD
+360,ES,ESP,Spain,1/1/90,13691.83158,76.83756098,38850435,10.3,7.1,Europe & Central Asia,High income: OECD
+361,ES,ESP,Spain,1/1/08,33729.51679,81.17560976,45954106,11.3,3.1,Europe & Central Asia,High income: OECD
+362,ES,ESP,Spain,1/1/93,15043.26939,77.54658537,39189400,9.8,6,Europe & Central Asia,High income: OECD
+363,ES,ESP,Spain,1/1/94,15687.30049,77.90146341,39294967,9.4,5.6,Europe & Central Asia,High income: OECD
+364,ES,ESP,Spain,1/1/07,32803.37512,80.87317073,45226803,10.9,3.2,Europe & Central Asia,High income: OECD
+365,ES,ESP,Spain,1/1/00,21869.54874,78.96585366,40263216,9.9,4,Europe & Central Asia,High income: OECD
+366,ES,ESP,Spain,1/1/13,32842.42456,83.07804878,46620045,9.1,2.9,Europe & Central Asia,High income: OECD
+367,FI,FIN,Finland,1/1/07,37505.13094,79.26341463,5288720,11.1,2,Europe & Central Asia,High income: OECD
+368,FI,FIN,Finland,1/1/94,18196.99045,76.39560976,5088333,12.8,3.2,Europe & Central Asia,High income: OECD
+369,FI,FIN,Finland,1/1/10,38322.92674,79.87073171,5363352,11.4,1.7,Europe & Central Asia,High income: OECD
+370,FI,FIN,Finland,1/1/08,39729.64854,79.56829268,5313399,11.2,1.9,Europe & Central Asia,High income: OECD
+371,FI,FIN,Finland,1/1/09,37534.50193,79.7195122,5338871,11.3,1.8,Europe & Central Asia,High income: OECD
+372,FI,FIN,Finland,1/1/01,27541.94102,77.96585366,5188008,10.8,2.4,Europe & Central Asia,High income: OECD
+373,FI,FIN,Finland,1/1/96,19817.90522,76.69341463,5124573,11.8,2.9,Europe & Central Asia,High income: OECD
+374,FI,FIN,Finland,1/1/93,17216.57089,75.70512195,5066447,12.8,3.4,Europe & Central Asia,High income: OECD
+375,FI,FIN,Finland,1/1/02,28421.23989,78.1195122,5200598,10.7,2.3,Europe & Central Asia,High income: OECD
+376,FI,FIN,Finland,1/1/06,34502.26656,79.21463415,5266268,11.2,2,Europe & Central Asia,High income: OECD
+377,FI,FIN,Finland,1/1/13,40951.51324,80.97560976,5438972,10.7,1.4,Europe & Central Asia,High income: OECD
+378,FI,FIN,Finland,1/1/05,32065.17072,78.81707317,5246096,11,2.1,Europe & Central Asia,High income: OECD
+379,FI,FIN,Finland,1/1/92,17023.05756,75.45536585,5041992,13.2,3.6,Europe & Central Asia,High income: OECD
+380,FI,FIN,Finland,1/1/98,23267.5124,77.09073171,5153498,11.1,2.7,Europe & Central Asia,High income: OECD
+381,FI,FIN,Finland,1/1/95,19284.31844,76.4095122,5107790,12.3,3.1,Europe & Central Asia,High income: OECD
+382,FI,FIN,Finland,1/1/14,40693.75124,81.12926829,5461512,10.5,1.3,Europe & Central Asia,High income: OECD
+383,FI,FIN,Finland,1/1/03,28816.11926,78.36829268,5213014,10.9,2.2,Europe & Central Asia,High income: OECD
+384,FI,FIN,Finland,1/1/91,17313.03649,75.22756098,5013740,13,3.7,Europe & Central Asia,High income: OECD
+385,FI,FIN,Finland,1/1/00,26465.7522,77.46585366,5176209,11,2.5,Europe & Central Asia,High income: OECD
+386,FI,FIN,Finland,1/1/04,31084.28922,78.71463415,5228172,11,2.2,Europe & Central Asia,High income: OECD
+387,FI,FIN,Finland,1/1/12,40437.59387,80.62682927,5413971,11,1.5,Europe & Central Asia,High income: OECD
+388,FI,FIN,Finland,1/1/97,21572.59781,76.87853659,5139835,11.5,2.8,Europe & Central Asia,High income: OECD
+389,FI,FIN,Finland,1/1/90,17906.13948,74.81317073,4986431,13.1,3.9,Europe & Central Asia,High income: OECD
+390,FI,FIN,Finland,1/1/11,40251.37351,80.47073171,5388272,11.1,1.6,Europe & Central Asia,High income: OECD
+391,FI,FIN,Finland,1/1/99,24501.77991,77.29121951,5165474,11.1,2.6,Europe & Central Asia,High income: OECD
+392,FR,FRA,France,1/1/13,39157.67133,82.2195122,65972097,12.4,2.3,Europe & Central Asia,High income: OECD
+393,FR,FRA,France,1/1/93,19130.08267,77.3,59106766,13,3.1,Europe & Central Asia,High income: OECD
+394,FR,FRA,France,1/1/02,28503.56674,79.26097561,61805267,12.9,2.7,Europe & Central Asia,High income: OECD
+395,FR,FRA,France,1/1/95,20685.78573,77.75121951,59541900,12.8,3.1,Europe & Central Asia,High income: OECD
+396,FR,FRA,France,1/1/09,34797.47409,81.41463415,64707044,12.8,2.3,Europe & Central Asia,High income: OECD
+397,FR,FRA,France,1/1/94,19921.12675,77.64878049,59327194,12.5,3.1,Europe & Central Asia,High income: OECD
+398,FR,FRA,France,1/1/08,35141.83794,81.21463415,64374990,12.9,2.3,Europe & Central Asia,High income: OECD
+399,FR,FRA,France,1/1/12,37462.32503,81.96829268,65659790,12.6,2.2,Europe & Central Asia,High income: OECD
+400,FR,FRA,France,1/1/01,27427.59135,79.15853659,61357431,13.1,2.7,Europe & Central Asia,High income: OECD
+401,FR,FRA,France,1/1/14,39163.1945,82.37317073,66495940,12.4,2.3,Europe & Central Asia,High income: OECD
+402,FR,FRA,France,1/1/04,29028.18225,80.16341463,62704897,12.8,2.5,Europe & Central Asia,High income: OECD
+403,FR,FRA,France,1/1/90,17505.29198,76.6,58512808,13.4,3.6,Europe & Central Asia,High income: OECD
+404,FR,FRA,France,1/1/92,18882.32608,77.1,58851216,13.1,3.2,Europe & Central Asia,High income: OECD
+405,FR,FRA,France,1/1/91,18261.39219,76.84878049,58559312,13.2,3.4,Europe & Central Asia,High income: OECD
+406,FR,FRA,France,1/1/96,21288.29964,77.95365854,59753098,12.8,3.1,Europe & Central Asia,High income: OECD
+407,FR,FRA,France,1/1/06,32267.01406,80.81219512,63621376,13.1,2.3,Europe & Central Asia,High income: OECD
+408,FR,FRA,France,1/1/07,34034.38518,81.11219512,64016229,12.8,2.3,Europe & Central Asia,High income: OECD
+409,FR,FRA,France,1/1/99,24249.71166,78.75609756,60496715,12.9,2.8,Europe & Central Asia,High income: OECD
+410,FR,FRA,France,1/1/00,25972.1999,79.05609756,60912498,13.3,2.8,Europe & Central Asia,High income: OECD
+411,FR,FRA,France,1/1/10,35891.29382,81.66341463,65027512,12.9,2.3,Europe & Central Asia,High income: OECD
+412,FR,FRA,France,1/1/11,37325.30434,82.11463415,65342776,12.7,2.2,Europe & Central Asia,High income: OECD
+413,FR,FRA,France,1/1/98,23321.09341,78.60487805,60186291,12.8,2.9,Europe & Central Asia,High income: OECD
+414,FR,FRA,France,1/1/03,28093.4086,79.11463415,62244884,12.8,2.6,Europe & Central Asia,High income: OECD
+415,FR,FRA,France,1/1/05,30375.56068,80.16341463,63179356,12.8,2.4,Europe & Central Asia,High income: OECD
+416,FR,FRA,France,1/1/97,22220.0293,78.30487805,59964845,12.7,3,Europe & Central Asia,High income: OECD
+417,GB,GBR,United Kingdom,1/1/09,36361.88469,80.05121951,62276270,12.7,3.1,Europe & Central Asia,High income: OECD
+418,GB,GBR,United Kingdom,1/1/97,23829.2235,77.21097561,58316954,12.5,3.9,Europe & Central Asia,High income: OECD
+419,GB,GBR,United Kingdom,1/1/98,24573.70818,77.1902439,58487141,12.3,3.9,Europe & Central Asia,High income: OECD
+420,GB,GBR,United Kingdom,1/1/03,31181.32492,78.44634146,59647577,11.7,3.6,Europe & Central Asia,High income: OECD
+421,GB,GBR,United Kingdom,1/1/04,33082.40241,78.74634146,59987905,11.9,3.5,Europe & Central Asia,High income: OECD
+422,GB,GBR,United Kingdom,1/1/05,34623.20514,79.04878049,60401206,12,3.5,Europe & Central Asia,High income: OECD
+423,GB,GBR,United Kingdom,1/1/10,35879.79939,80.40243902,62766365,12.9,3,Europe & Central Asia,High income: OECD
+424,GB,GBR,United Kingdom,1/1/11,36590.15937,80.95121951,63258918,12.8,2.9,Europe & Central Asia,High income: OECD
+425,GB,GBR,United Kingdom,1/1/08,37775.87739,79.6,61806995,12.9,3.2,Europe & Central Asia,High income: OECD
+426,GB,GBR,United Kingdom,1/1/95,21081.76624,76.83658537,58019030,12.6,4.1,Europe & Central Asia,High income: OECD
+427,GB,GBR,United Kingdom,1/1/00,27440.99785,77.74146341,58892514,11.5,3.8,Europe & Central Asia,High income: OECD
+428,GB,GBR,United Kingdom,1/1/01,28821.50555,77.99268293,59119673,11.3,3.7,Europe & Central Asia,High income: OECD
+429,GB,GBR,United Kingdom,1/1/14,40217.16375,81.05609756,64613160,12,2.5,Europe & Central Asia,High income: OECD
+430,GB,GBR,United Kingdom,1/1/92,18181.74584,76.43414634,57580402,13.6,4.4,Europe & Central Asia,High income: OECD
+431,GB,GBR,United Kingdom,1/1/90,17446.30768,75.8804878,57247586,13.9,4.5,Europe & Central Asia,High income: OECD
+432,GB,GBR,United Kingdom,1/1/06,36885.96843,79.24878049,60846820,12.3,3.4,Europe & Central Asia,High income: OECD
+433,GB,GBR,United Kingdom,1/1/94,20196.46942,76.88536585,57865745,13,4.2,Europe & Central Asia,High income: OECD
+434,GB,GBR,United Kingdom,1/1/07,37503.22375,79.44878049,61322463,12.6,3.3,Europe & Central Asia,High income: OECD
+435,GB,GBR,United Kingdom,1/1/93,19059.08888,76.38536585,57718614,13.2,4.3,Europe & Central Asia,High income: OECD
+436,GB,GBR,United Kingdom,1/1/96,22421.58392,77.08780488,58166950,12.6,4,Europe & Central Asia,High income: OECD
+437,GB,GBR,United Kingdom,1/1/99,25263.97765,77.3902439,58682466,11.9,3.8,Europe & Central Asia,High income: OECD
+438,GB,GBR,United Kingdom,1/1/12,37569.31528,80.90487805,63700300,12.8,2.8,Europe & Central Asia,High income: OECD
+439,GB,GBR,United Kingdom,1/1/13,39111.23264,81.00487805,64128226,12.1,2.7,Europe & Central Asia,High income: OECD
+440,GB,GBR,United Kingdom,1/1/91,17745.45227,76.08292683,57424897,13.8,4.4,Europe & Central Asia,High income: OECD
+441,GB,GBR,United Kingdom,1/1/02,30085.64992,78.14390244,59370479,11.3,3.6,Europe & Central Asia,High income: OECD
+442,GE,GEO,Georgia,1/1/06,4991.617909,73.21214634,4136000,13.224,13.7,Europe & Central Asia,Lower middle income
+443,GE,GEO,Georgia,1/1/97,2227.538901,70.71473171,4531600,12.932,23.1,Europe & Central Asia,Lower middle income
+444,GE,GEO,Georgia,1/1/94,1557.45939,70.07568293,4861600,14.571,24.2,Europe & Central Asia,Lower middle income
+445,GE,GEO,Georgia,1/1/95,1675.250875,70.23273171,4734000,13.98,23.9,Europe & Central Asia,Lower middle income
+446,GE,GEO,Georgia,1/1/92,2345.687497,69.94773171,4873500,15.799,24.6,Europe & Central Asia,Lower middle income
+447,GE,GEO,Georgia,1/1/98,2344.546744,71.0035122,4487300,12.506,22.4,Europe & Central Asia,Lower middle income
+448,GE,GEO,Georgia,1/1/99,2467.865217,71.30721951,4452500,12.17,21.8,Europe & Central Asia,Lower middle income
+449,GE,GEO,Georgia,1/1/00,2590.318568,71.61582927,4418300,11.955,21,Europe & Central Asia,Lower middle income
+450,GE,GEO,Georgia,1/1/96,1945.335336,70.45195122,4616100,13.429,23.6,Europe & Central Asia,Lower middle income
+451,GE,GEO,Georgia,1/1/03,3460.150847,72.4902439,4301000,12.178,17.4,Europe & Central Asia,Lower middle income
+452,GE,GEO,Georgia,1/1/04,3813.189314,72.75029268,4245000,12.486,16.1,Europe & Central Asia,Lower middle income
+453,GE,GEO,Georgia,1/1/05,4370.338613,72.9902439,4190000,12.852,14.8,Europe & Central Asia,Lower middle income
+454,GE,GEO,Georgia,1/1/01,2796.855796,71.91826829,4386400,11.889,20,Europe & Central Asia,Lower middle income
+455,GE,GEO,Georgia,1/1/93,1684.859702,69.98234146,4911100,15.185,24.5,Europe & Central Asia,Lower middle income
+456,GE,GEO,Georgia,1/1/09,6054.18918,73.81541463,3978000,13.956,10.8,Europe & Central Asia,Lower middle income
+457,GE,GEO,Georgia,1/1/10,6597.568557,74.00243902,3926000,13.999,10,Europe & Central Asia,Lower middle income
+458,GE,GEO,Georgia,1/1/91,4194.627513,69.96082927,4835900,16.388,24.7,Europe & Central Asia,Lower middle income
+459,GE,GEO,Georgia,1/1/11,7315.090898,74.18204878,3875000,13.947,9.3,Europe & Central Asia,Lower middle income
+460,GE,GEO,Georgia,1/1/12,8026.50713,74.35270732,3825000,13.835,8.7,Europe & Central Asia,Lower middle income
+461,GE,GEO,Georgia,1/1/14,9204.318673,74.66863415,3727000,13.532,7.6,Europe & Central Asia,Lower middle income
+462,GE,GEO,Georgia,1/1/13,8543.080411,74.51390244,3776000,13.693,8.2,Europe & Central Asia,Lower middle income
+463,GE,GEO,Georgia,1/1/07,5833.183782,73.42102439,4082000,13.554,12.6,Europe & Central Asia,Lower middle income
+464,GE,GEO,Georgia,1/1/08,6163.757923,73.62143902,4030000,13.806,11.6,Europe & Central Asia,Lower middle income
+465,GE,GEO,Georgia,1/1/02,3015.447723,72.21107317,4357000,11.97,18.7,Europe & Central Asia,Lower middle income
+466,GE,GEO,Georgia,1/1/90,5181.45078,69.99960976,4802000,16.923,24.7,Europe & Central Asia,Lower middle income
+467,GR,GRC,Greece,1/1/93,14277.8682,77.3902439,10460415,9.7,8.4,Europe & Central Asia,High income: OECD
+468,GR,GRC,Greece,1/1/12,25980.08652,80.63414634,11045011,9.1,3,Europe & Central Asia,High income: OECD
+469,GR,GRC,Greece,1/1/00,19285.44215,77.88780488,10805808,9.6,5.6,Europe & Central Asia,High income: OECD
+470,GR,GRC,Greece,1/1/99,18265.38848,77.98780488,10761698,9.4,6.1,Europe & Central Asia,High income: OECD
+471,GR,GRC,Greece,1/1/05,25396.23397,79.23902439,10987314,9.8,3.6,Europe & Central Asia,High income: OECD
+472,GR,GRC,Greece,1/1/06,28272.69422,79.43902439,11020362,10.2,3.4,Europe & Central Asia,High income: OECD
+473,GR,GRC,Greece,1/1/96,16035.56837,77.68536585,10608800,9.5,7.5,Europe & Central Asia,High income: OECD
+474,GR,GRC,Greece,1/1/90,13250.86748,76.93902439,10196792,10,9.5,Europe & Central Asia,High income: OECD
+475,GR,GRC,Greece,1/1/98,17631.4848,77.83902439,10720509,9.4,6.6,Europe & Central Asia,High income: OECD
+476,GR,GRC,Greece,1/1/09,30652.21209,80.18780488,11107017,10.6,3.1,Europe & Central Asia,High income: OECD
+477,GR,GRC,Greece,1/1/13,26753.12651,81.28536585,10965211,8.6,3,Europe & Central Asia,High income: OECD
+478,GR,GRC,Greece,1/1/97,17059.31941,78.13658537,10661259,9.6,7.1,Europe & Central Asia,High income: OECD
+479,GR,GRC,Greece,1/1/04,25425.60073,79.03902439,10955141,9.6,3.9,Europe & Central Asia,High income: OECD
+480,GR,GRC,Greece,1/1/91,13947.95518,77.13658537,10319927,9.9,9,Europe & Central Asia,High income: OECD
+481,GR,GRC,Greece,1/1/92,14256.42143,77.38292683,10399061,10,8.6,Europe & Central Asia,High income: OECD
+482,GR,GRC,Greece,1/1/14,26794.74875,81.28536585,10892413,8.5,3,Europe & Central Asia,High income: OECD
+483,GR,GRC,Greece,1/1/94,14799.07594,77.63902439,10512922,9.9,8.1,Europe & Central Asia,High income: OECD
+484,GR,GRC,Greece,1/1/95,15353.06041,77.58536585,10562153,9.6,7.8,Europe & Central Asia,High income: OECD
+485,GR,GRC,Greece,1/1/08,31161.5304,79.93902439,11077841,10.7,3.1,Europe & Central Asia,High income: OECD
+486,GR,GRC,Greece,1/1/10,28981.41834,80.38780488,11121341,10.3,3,Europe & Central Asia,High income: OECD
+487,GR,GRC,Greece,1/1/11,26626.46005,80.73170732,11104899,9.6,3,Europe & Central Asia,High income: OECD
+488,GR,GRC,Greece,1/1/03,23806.53402,78.84146341,10928070,9.6,4.3,Europe & Central Asia,High income: OECD
+489,GR,GRC,Greece,1/1/01,20900.33121,78.38780488,10862132,9.4,5.1,Europe & Central Asia,High income: OECD
+490,GR,GRC,Greece,1/1/02,22718.56838,78.64146341,10902022,9.5,4.7,Europe & Central Asia,High income: OECD
+491,GR,GRC,Greece,1/1/07,29305.82232,79.43902439,11048473,10.1,3.2,Europe & Central Asia,High income: OECD
+492,HR,HRV,Croatia,1/1/03,13644.6132,74.61390244,4440000,8.9,4.7,Europe & Central Asia,High income
+493,HR,HRV,Croatia,1/1/02,12740.11212,74.71731707,4440000,9,5,Europe & Central Asia,High income
+494,HR,HRV,Croatia,1/1/09,19393.11141,76.16829268,4429078,10.1,3.7,Europe & Central Asia,High income
+495,HR,HRV,Croatia,1/1/07,18921.62474,75.70560976,4436000,9.4,3.9,Europe & Central Asia,High income
+496,HR,HRV,Croatia,1/1/12,21016.01873,76.92439024,4267558,9.8,3.1,Europe & Central Asia,High income
+497,HR,HRV,Croatia,1/1/13,21441.87095,77.12682927,4255689,9.4,2.9,Europe & Central Asia,High income
+498,HR,HRV,Croatia,1/1/14,21635.10503,77.32926829,4238389,9.3,2.7,Europe & Central Asia,High income
+499,HR,HRV,Croatia,1/1/99,10102.16579,72.64195122,4554000,10,5.7,Europe & Central Asia,High income
+500,HR,HRV,Croatia,1/1/98,10207.83838,72.31707317,4501000,10.4,5.7,Europe & Central Asia,High income
+501,HR,HRV,Croatia,1/1/08,20464.41821,75.91219512,4434508,9.9,3.8,Europe & Central Asia,High income
+502,HR,HRV,Croatia,1/1/00,11054.42108,72.80780488,4426000,9.8,5.5,Europe & Central Asia,High income
+503,HR,HRV,Croatia,1/1/96,9127.368396,72.36536585,4494000,11.8,6,Europe & Central Asia,High income
+504,HR,HRV,Croatia,1/1/10,18981.99564,76.47560976,4417781,9.8,3.5,Europe & Central Asia,High income
+505,HR,HRV,Croatia,1/1/06,17009.21993,75.83682927,4440000,9.33,4,Europe & Central Asia,High income
+506,HR,HRV,Croatia,1/1/01,11793.20023,74.51292683,4440000,9.2,5.3,Europe & Central Asia,High income
+507,HR,HRV,Croatia,1/1/97,9712.827873,72.49512195,4572000,12.2,5.7,Europe & Central Asia,High income
+508,HR,HRV,Croatia,1/1/05,15535.44071,75.24463415,4442000,9.563,4.2,Europe & Central Asia,High income
+509,HR,HRV,Croatia,1/1/95,8109.012385,72.08439024,4669000,10.9,6.4,Europe & Central Asia,High income
+510,HR,HRV,Croatia,1/1/04,14643.25253,75.5202439,4439000,9.1,4.5,Europe & Central Asia,High income
+511,HR,HRV,Croatia,1/1/11,20571.27528,76.77560976,4280622,9.6,3.3,Europe & Central Asia,High income
+512,HU,HUN,Hungary,1/1/04,16461.94876,72.64878049,10107146,9.4,5.3,Europe & Central Asia,High income: OECD
+513,HU,HUN,Hungary,1/1/05,17314.47611,72.64878049,10087065,9.7,5,Europe & Central Asia,High income: OECD
+514,HU,HUN,Hungary,1/1/06,18652.60671,73.09756098,10071370,9.9,4.8,Europe & Central Asia,High income: OECD
+515,HU,HUN,Hungary,1/1/07,19337.16657,73.15121951,10055780,9.7,4.6,Europe & Central Asia,High income: OECD
+516,HU,HUN,Hungary,1/1/94,8781.672736,69.4697561,10343355,11.2,9.9,Europe & Central Asia,High income: OECD
+517,HU,HUN,Hungary,1/1/95,9111.039026,69.79170732,10328965,10.8,9.1,Europe & Central Asia,High income: OECD
+518,HU,HUN,Hungary,1/1/09,20860.55716,73.90487805,10022650,9.6,4.2,Europe & Central Asia,High income: OECD
+519,HU,HUN,Hungary,1/1/02,14918.39832,72.34878049,10158608,9.5,6.1,Europe & Central Asia,High income: OECD
+520,HU,HUN,Hungary,1/1/91,8252.432302,69.37707317,10373400,12.3,12.8,Europe & Central Asia,High income: OECD
+521,HU,HUN,Hungary,1/1/12,22701.45022,75.06341463,9920362,9.1,3.8,Europe & Central Asia,High income: OECD
+522,HU,HUN,Hungary,1/1/96,9398.443057,70.32878049,10311238,10.2,8.5,Europe & Central Asia,High income: OECD
+523,HU,HUN,Hungary,1/1/92,8185.119656,69.11707317,10369341,11.7,11.9,Europe & Central Asia,High income: OECD
+524,HU,HUN,Hungary,1/1/93,8341.094301,69.10121951,10357523,11.3,10.8,Europe & Central Asia,High income: OECD
+525,HU,HUN,Hungary,1/1/03,15641.31287,72.3,10129552,9.3,5.7,Europe & Central Asia,High income: OECD
+526,HU,HUN,Hungary,1/1/13,24037.17045,75.56585366,9893082,9,3.7,Europe & Central Asia,High income: OECD
+527,HU,HUN,Hungary,1/1/10,21576.70695,74.20731707,10000023,9,4,Europe & Central Asia,High income: OECD
+528,HU,HUN,Hungary,1/1/11,22603.20272,74.85853659,9971727,8.8,3.9,Europe & Central Asia,High income: OECD
+529,HU,HUN,Hungary,1/1/98,10770.70398,70.55780488,10266570,9.5,7.7,Europe & Central Asia,High income: OECD
+530,HU,HUN,Hungary,1/1/99,11237.67654,70.67707317,10237530,9.2,7.4,Europe & Central Asia,High income: OECD
+531,HU,HUN,Hungary,1/1/14,25060.50529,75.87317073,9866468,9.5,3.6,Europe & Central Asia,High income: OECD
+532,HU,HUN,Hungary,1/1/97,10047.579,70.70243902,10290486,9.8,8.1,Europe & Central Asia,High income: OECD
+533,HU,HUN,Hungary,1/1/08,20810.7852,73.70243902,10038188,9.9,4.4,Europe & Central Asia,High income: OECD
+534,HU,HUN,Hungary,1/1/01,13646.53812,72.24878049,10187576,9.5,6.6,Europe & Central Asia,High income: OECD
+535,HU,HUN,Hungary,1/1/00,12085.37602,71.24634146,10210971,9.6,7,Europe & Central Asia,High income: OECD
+536,IE,IRL,Ireland,1/1/00,29612.17021,76.53658537,3805174,14.4,4,Europe & Central Asia,High income: OECD
+537,IE,IRL,Ireland,1/1/96,19974.53069,75.83170732,3637510,13.9,4.1,Europe & Central Asia,High income: OECD
+538,IE,IRL,Ireland,1/1/91,14015.81966,74.95053659,3534235,14.9,4.6,Europe & Central Asia,High income: OECD
+539,IE,IRL,Ireland,1/1/12,46063.34459,80.89512195,4586897,15.7,2.5,Europe & Central Asia,High income: OECD
+540,IE,IRL,Ireland,1/1/93,15392.42005,75.29643902,3576261,13.8,4.4,Europe & Central Asia,High income: OECD
+541,IE,IRL,Ireland,1/1/95,18438.685,75.57134146,3608841,13.5,4.2,Europe & Central Asia,High income: OECD
+542,IE,IRL,Ireland,1/1/92,14713.85927,75.1362439,3558430,14.4,4.5,Europe & Central Asia,High income: OECD
+543,IE,IRL,Ireland,1/1/11,45673.5345,80.74634146,4576794,16.2,2.5,Europe & Central Asia,High income: OECD
+544,IE,IRL,Ireland,1/1/90,13384.26875,74.74131707,3513974,15.1,4.7,Europe & Central Asia,High income: OECD
+545,IE,IRL,Ireland,1/1/98,24503.55244,76.1804878,3712696,14.5,4.1,Europe & Central Asia,High income: OECD
+546,IE,IRL,Ireland,1/1/02,34440.58422,77.63414634,3931947,15.4,3.7,Europe & Central Asia,High income: OECD
+547,IE,IRL,Ireland,1/1/04,38144.6756,78.53902439,4070262,15.2,3.2,Europe & Central Asia,High income: OECD
+548,IE,IRL,Ireland,1/1/97,22091.62548,75.98536585,3674171,14.4,4.1,Europe & Central Asia,High income: OECD
+549,IE,IRL,Ireland,1/1/03,36023.46831,78.13902439,3996521,15.4,3.5,Europe & Central Asia,High income: OECD
+550,IE,IRL,Ireland,1/1/94,16559.39604,75.43763415,3590386,13.4,4.3,Europe & Central Asia,High income: OECD
+551,IE,IRL,Ireland,1/1/99,26530.67953,76.08292683,3754786,14.4,4.1,Europe & Central Asia,High income: OECD
+552,IE,IRL,Ireland,1/1/05,40446.92367,78.94390244,4159914,14.8,3,Europe & Central Asia,High income: OECD
+553,IE,IRL,Ireland,1/1/06,43963.95594,79.24146341,4273591,15.3,2.8,Europe & Central Asia,High income: OECD
+554,IE,IRL,Ireland,1/1/07,46735.75107,79.64146341,4398942,16.2,2.6,Europe & Central Asia,High income: OECD
+555,IE,IRL,Ireland,1/1/13,47599.6817,81,4598294,15,2.4,Europe & Central Asia,High income: OECD
+556,IE,IRL,Ireland,1/1/09,41866.49933,80.1902439,4535375,16.7,2.5,Europe & Central Asia,High income: OECD
+557,IE,IRL,Ireland,1/1/10,43249.55945,80.74390244,4560155,16.5,2.5,Europe & Central Asia,High income: OECD
+558,IE,IRL,Ireland,1/1/01,31773.72281,77.13414634,3866243,15,3.9,Europe & Central Asia,High income: OECD
+559,IE,IRL,Ireland,1/1/08,43902.12233,80.09512195,4489544,16.7,2.5,Europe & Central Asia,High income: OECD
+560,IE,IRL,Ireland,1/1/14,49376.84343,81.15365854,4617225,14.4,2.3,Europe & Central Asia,High income: OECD
+561,IS,ISL,Iceland,1/1/93,22268.73461,78.93463415,263725,17.5,3,Europe & Central Asia,High income: OECD
+562,IS,ISL,Iceland,1/1/12,40278.38704,82.91707317,320716,14.1,1.1,Europe & Central Asia,High income: OECD
+563,IS,ISL,Iceland,1/1/92,21688.64424,78.7602439,261057,17.7,3.1,Europe & Central Asia,High income: OECD
+564,IS,ISL,Iceland,1/1/08,41366.67099,81.6097561,317414,15.2,1.3,Europe & Central Asia,High income: OECD
+565,IS,ISL,Iceland,1/1/90,21806.82239,78.03634146,254826,18.7,3.5,Europe & Central Asia,High income: OECD
+566,IS,ISL,Iceland,1/1/09,39912.27121,81.75121951,318499,15.8,1.2,Europe & Central Asia,High income: OECD
+567,IS,ISL,Iceland,1/1/00,29600.33339,79.65365854,281205,15.3,2.1,Europe & Central Asia,High income: OECD
+568,IS,ISL,Iceland,1/1/11,39557.93565,82.35853659,319014,14.1,1.1,Europe & Central Asia,High income: OECD
+569,IS,ISL,Iceland,1/1/97,26644.46314,78.88536585,271128,15.3,2.5,Europe & Central Asia,High income: OECD
+570,IS,ISL,Iceland,1/1/98,28362.78062,79.60243902,274047,15.2,2.3,Europe & Central Asia,High income: OECD
+571,IS,ISL,Iceland,1/1/94,23360.01926,79.24707317,266021,16.7,2.8,Europe & Central Asia,High income: OECD
+572,IS,ISL,Iceland,1/1/99,29218.77568,79.35121951,277381,14.8,2.2,Europe & Central Asia,High income: OECD
+573,IS,ISL,Iceland,1/1/01,31263.13248,80.6902439,284968,14.4,2,Europe & Central Asia,High income: OECD
+574,IS,ISL,Iceland,1/1/02,31976.22747,80.50243902,287523,14.1,1.8,Europe & Central Asia,High income: OECD
+575,IS,ISL,Iceland,1/1/91,22223.20028,77.99195122,257797,17.6,3.3,Europe & Central Asia,High income: OECD
+576,IS,ISL,Iceland,1/1/04,34949.10237,80.99756098,292074,14.5,1.6,Europe & Central Asia,High income: OECD
+577,IS,ISL,Iceland,1/1/07,38704.23513,81.45365854,311566,14.6,1.3,Europe & Central Asia,High income: OECD
+578,IS,ISL,Iceland,1/1/05,35881.01506,81.50243902,296734,14.4,1.5,Europe & Central Asia,High income: OECD
+579,IS,ISL,Iceland,1/1/96,24716.71402,78.77780488,268916,16.1,2.6,Europe & Central Asia,High income: OECD
+580,IS,ISL,Iceland,1/1/13,42714.60426,82.06097561,323764,13.4,1,Europe & Central Asia,High income: OECD
+581,IS,ISL,Iceland,1/1/14,43993.29286,82.06097561,327386,13.4,1,Europe & Central Asia,High income: OECD
+582,IS,ISL,Iceland,1/1/95,23745.87183,77.98439024,267468,16,2.7,Europe & Central Asia,High income: OECD
+583,IS,ISL,Iceland,1/1/03,31726.86404,80.96341463,289521,14.3,1.7,Europe & Central Asia,High income: OECD
+584,IS,ISL,Iceland,1/1/10,38615.33919,81.89756098,318041,15.4,1.2,Europe & Central Asia,High income: OECD
+585,IS,ISL,Iceland,1/1/06,36728.6331,81.15853659,303782,14.5,1.4,Europe & Central Asia,High income: OECD
+586,IT,ITA,Italy,1/1/92,19745.0875,77.4195122,56797087,10,5.6,Europe & Central Asia,High income: OECD
+587,IT,ITA,Italy,1/1/07,33711.95279,81.43414634,58438310,9.7,2.5,Europe & Central Asia,High income: OECD
+588,IT,ITA,Italy,1/1/94,20892.26745,77.92195122,56843400,9.4,5,Europe & Central Asia,High income: OECD
+589,IT,ITA,Italy,1/1/97,23434.2773,78.82439024,56890372,9.4,4.2,Europe & Central Asia,High income: OECD
+590,IT,ITA,Italy,1/1/93,20030.21856,77.72195122,56831821,9.7,5.3,Europe & Central Asia,High income: OECD
+591,IT,ITA,Italy,1/1/99,25158.419,79.42439024,56916317,9.4,3.7,Europe & Central Asia,High income: OECD
+592,IT,ITA,Italy,1/1/06,31953.46035,81.28292683,58143979,9.6,2.6,Europe & Central Asia,High income: OECD
+593,IT,ITA,Italy,1/1/13,35707.83111,82.6902439,60233948,8.5,2.2,Europe & Central Asia,High income: OECD
+594,IT,ITA,Italy,1/1/98,24660.12295,78.97560976,56906744,9.4,3.9,Europe & Central Asia,High income: OECD
+595,IT,ITA,Italy,1/1/90,18272.8598,76.97073171,56719240,10,6.4,Europe & Central Asia,High income: OECD
+596,IT,ITA,Italy,1/1/91,19158.28716,77.0195122,56758521,9.9,6.1,Europe & Central Asia,High income: OECD
+597,IT,ITA,Italy,1/1/03,28462.03713,79.98292683,57313203,9.5,2.9,Europe & Central Asia,High income: OECD
+598,IT,ITA,Italy,1/1/05,29652.75637,80.78292683,57969484,9.6,2.7,Europe & Central Asia,High income: OECD
+599,IT,ITA,Italy,1/1/08,35170.89646,81.48536585,58826731,9.8,2.5,Europe & Central Asia,High income: OECD
+600,IT,ITA,Italy,1/1/10,34714.52686,82.03658537,59277417,9.5,2.4,Europe & Central Asia,High income: OECD
+601,IT,ITA,Italy,1/1/95,21943.34987,78.17073171,56844303,9.2,4.7,Europe & Central Asia,High income: OECD
+602,IT,ITA,Italy,1/1/96,22645.14286,78.52195122,56860281,9.3,4.5,Europe & Central Asia,High income: OECD
+603,IT,ITA,Italy,1/1/14,35419.39531,82.6902439,60789140,8.3,2.1,Europe & Central Asia,High income: OECD
+604,IT,ITA,Italy,1/1/01,28246.79832,80.12682927,56974100,9.4,3.2,Europe & Central Asia,High income: OECD
+605,IT,ITA,Italy,1/1/11,35870.71377,82.18780488,59379449,9.2,2.4,Europe & Central Asia,High income: OECD
+606,IT,ITA,Italy,1/1/12,35899.77997,82.23902439,59539717,9,2.3,Europe & Central Asia,High income: OECD
+607,IT,ITA,Italy,1/1/04,28770.96727,80.7804878,57685327,9.8,2.8,Europe & Central Asia,High income: OECD
+608,IT,ITA,Italy,1/1/00,26640.21701,79.77804878,56942108,9.5,3.4,Europe & Central Asia,High income: OECD
+609,IT,ITA,Italy,1/1/02,27898.47061,80.22926829,57059007,9.4,3.1,Europe & Central Asia,High income: OECD
+610,IT,ITA,Italy,1/1/09,34142.3385,81.63658537,59095365,9.6,2.5,Europe & Central Asia,High income: OECD
+611,KG,KGZ,Kyrgyz Republic,1/1/93,1584.779174,67.19268293,4516700,25.7,25.6,Europe & Central Asia,Low income
+612,KG,KGZ,Kyrgyz Republic,1/1/14,3347.16262,70.40243902,5835500,27.7,12.1,Europe & Central Asia,Low income
+613,KG,KGZ,Kyrgyz Republic,1/1/94,1293.884351,66.03902439,4515100,24.3,25.5,Europe & Central Asia,Low income
+614,KG,KGZ,Kyrgyz Republic,1/1/05,2110.377936,67.95609756,5162600,21.3,19.8,Europe & Central Asia,Low income
+615,KG,KGZ,Kyrgyz Republic,1/1/95,1236.819912,65.7902439,4560400,25.6,25.1,Europe & Central Asia,Low income
+616,KG,KGZ,Kyrgyz Republic,1/1/96,1328.807047,66.54390244,4628400,23.2,24.4,Europe & Central Asia,Low income
+617,KG,KGZ,Kyrgyz Republic,1/1/92,1831.53856,68.10243902,4515400,28.2,25.6,Europe & Central Asia,Low income
+618,KG,KGZ,Kyrgyz Republic,1/1/10,2733.729337,69.3,5447900,26.8,16.1,Europe & Central Asia,Low income
+619,KG,KGZ,Kyrgyz Republic,1/1/98,1488.331305,67.05121951,4769000,21.7,23.1,Europe & Central Asia,Low income
+620,KG,KGZ,Kyrgyz Republic,1/1/03,1906.55626,68.25609756,5043300,20.9,20.3,Europe & Central Asia,Low income
+621,KG,KGZ,Kyrgyz Republic,1/1/00,1644.311973,68.55853659,4898400,19.8,21.8,Europe & Central Asia,Low income
+622,KG,KGZ,Kyrgyz Republic,1/1/09,2746.102655,69.10243902,5383300,25.2,17.3,Europe & Central Asia,Low income
+623,KG,KGZ,Kyrgyz Republic,1/1/04,2071.417491,68.15365854,5104700,21.5,20,Europe & Central Asia,Low income
+624,KG,KGZ,Kyrgyz Republic,1/1/97,1464.048394,66.89268293,4696400,21.6,23.7,Europe & Central Asia,Low income
+625,KG,KGZ,Kyrgyz Republic,1/1/91,2103.672424,68.55121951,4463600,28.8,25.5,Europe & Central Asia,Low income
+626,KG,KGZ,Kyrgyz Republic,1/1/99,1543.245479,68.65609756,4840400,21.5,22.3,Europe & Central Asia,Low income
+627,KG,KGZ,Kyrgyz Republic,1/1/01,1754.55434,68.70731707,4945100,19.8,21.2,Europe & Central Asia,Low income
+628,KG,KGZ,Kyrgyz Republic,1/1/02,1764.905162,68.15609756,4990700,20.2,20.7,Europe & Central Asia,Low income
+629,KG,KGZ,Kyrgyz Republic,1/1/08,2681.122187,68.45121951,5318700,23.9,18.4,Europe & Central Asia,Low income
+630,KG,KGZ,Kyrgyz Republic,1/1/13,3229.828815,70.20243902,5719600,27.2,12.8,Europe & Central Asia,Low income
+631,KG,KGZ,Kyrgyz Republic,1/1/07,2448.899199,67.89512195,5268400,23.4,19,Europe & Central Asia,Low income
+632,KG,KGZ,Kyrgyz Republic,1/1/90,2245.792716,68.29756098,4391200,29.1,25.2,Europe & Central Asia,Low income
+633,KG,KGZ,Kyrgyz Republic,1/1/06,2218.727934,67.69512195,5218400,23.1,19.5,Europe & Central Asia,Low income
+634,KG,KGZ,Kyrgyz Republic,1/1/12,2922.702873,70.00243902,5607200,27.6,13.7,Europe & Central Asia,Low income
+635,KG,KGZ,Kyrgyz Republic,1/1/11,2920.60321,69.60243902,5514600,27.1,14.8,Europe & Central Asia,Low income
+636,KZ,KAZ,Kazakhstan,1/1/95,6293.885459,64.9195122,15815626,16.7,22.8,Europe & Central Asia,Upper middle income
+637,KZ,KAZ,Kazakhstan,1/1/06,16777.68761,66.16097561,15308084,19.71,15.1,Europe & Central Asia,Upper middle income
+638,KZ,KAZ,Kazakhstan,1/1/07,18543.81926,66.50487805,15484192,20.79,14,Europe & Central Asia,Upper middle income
+639,KZ,KAZ,Kazakhstan,1/1/08,19295.00553,67.02195122,15674000,22.75,12.9,Europe & Central Asia,Upper middle income
+640,KZ,KAZ,Kazakhstan,1/1/10,20521.09849,68.29536585,16321581,22.54,10.7,Europe & Central Asia,Upper middle income
+641,KZ,KAZ,Kazakhstan,1/1/11,22134.09211,68.98,16556600,22.52,9.8,Europe & Central Asia,Upper middle income
+642,KZ,KAZ,Kazakhstan,1/1/12,23248.99259,69.61,16791425,22.69,8.9,Europe & Central Asia,Upper middle income
+643,KZ,KAZ,Kazakhstan,1/1/94,6599.353281,65.67317073,16095199,18.2,22.9,Europe & Central Asia,Upper middle income
+644,KZ,KAZ,Kazakhstan,1/1/01,9559.340336,65.76829268,14858335,14.9,19.4,Europe & Central Asia,Upper middle income
+645,KZ,KAZ,Kazakhstan,1/1/02,10656.84509,65.96829268,14858948,14.6,18.6,Europe & Central Asia,Upper middle income
+646,KZ,KAZ,Kazakhstan,1/1/90,8790.821411,68.33658537,16348000,21.7,22.3,Europe & Central Asia,Upper middle income
+647,KZ,KAZ,Kazakhstan,1/1/14,25689.22066,71.62,17289224,23.13,7.5,Europe & Central Asia,Upper middle income
+648,KZ,KAZ,Kazakhstan,1/1/05,14860.58945,65.9097561,15147029,18.42,16.2,Europe & Central Asia,Upper middle income
+649,KZ,KAZ,Kazakhstan,1/1/93,7286.912858,66.72682927,16330419,18.6,22.7,Europe & Central Asia,Upper middle income
+650,KZ,KAZ,Kazakhstan,1/1/97,6871.824239,64.46341463,15333703,14.7,22.2,Europe & Central Asia,Upper middle income
+651,KZ,KAZ,Kazakhstan,1/1/98,6933.063834,64.56097561,15071300,14.3,21.5,Europe & Central Asia,Upper middle income
+652,KZ,KAZ,Kazakhstan,1/1/09,19162.93571,68.42926829,16092701,22.15,11.8,Europe & Central Asia,Upper middle income
+653,KZ,KAZ,Kazakhstan,1/1/96,6539.120164,64.1097561,15577894,15.9,22.6,Europe & Central Asia,Upper middle income
+654,KZ,KAZ,Kazakhstan,1/1/04,13241.46074,65.88780488,15012985,18.19,17.2,Europe & Central Asia,Upper middle income
+655,KZ,KAZ,Kazakhstan,1/1/13,24640.55805,70.45,17035275,22.73,8.1,Europe & Central Asia,Upper middle income
+656,KZ,KAZ,Kazakhstan,1/1/00,8220.673645,65.51707317,14883626,14.7,20.1,Europe & Central Asia,Upper middle income
+657,KZ,KAZ,Kazakhstan,1/1/91,8033.876851,67.98292683,16450500,21,22.3,Europe & Central Asia,Upper middle income
+658,KZ,KAZ,Kazakhstan,1/1/92,7786.910043,67.73170732,16439095,19.9,22.4,Europe & Central Asia,Upper middle income
+659,KZ,KAZ,Kazakhstan,1/1/99,7298.407372,65.5195122,14928426,14.2,20.9,Europe & Central Asia,Upper middle income
+660,KZ,KAZ,Kazakhstan,1/1/03,11840.2999,65.86585366,14909018,16.63,17.9,Europe & Central Asia,Upper middle income
+661,LT,LTU,Lithuania,1/1/14,27685.92177,73.96585366,2932367,10.4,2.6,Europe & Central Asia,Upper middle income
+662,LT,LTU,Lithuania,1/1/07,19277.17173,70.9,3231294,9.3,4.4,Europe & Central Asia,Upper middle income
+663,LT,LTU,Lithuania,1/1/12,24475.05075,73.86341463,2987773,10.2,2.9,Europe & Central Asia,Upper middle income
+664,LT,LTU,Lithuania,1/1/00,8695.483487,72.0195122,3499536,9.8,5.5,Europe & Central Asia,Upper middle income
+665,LT,LTU,Lithuania,1/1/13,26511.21901,73.91463415,2957689,10.1,2.7,Europe & Central Asia,Upper middle income
+666,LT,LTU,Lithuania,1/1/06,16728.94615,71.05609756,3269909,9.1,4.8,Europe & Central Asia,Upper middle income
+667,LT,LTU,Lithuania,1/1/05,14681.89,71.25365854,3322528,8.9,5.1,Europe & Central Asia,Upper middle income
+668,LT,LTU,Lithuania,1/1/10,20085.04478,73.26829268,3097282,9.9,3.4,Europe & Central Asia,Upper middle income
+669,LT,LTU,Lithuania,1/1/11,22541.72557,73.56341463,3028115,10,3.2,Europe & Central Asia,Upper middle income
+670,LT,LTU,Lithuania,1/1/08,20796.76326,71.81219512,3198231,9.9,4.1,Europe & Central Asia,Upper middle income
+671,LT,LTU,Lithuania,1/1/09,18277.91534,72.91463415,3162916,10.2,3.7,Europe & Central Asia,Upper middle income
+672,LT,LTU,Lithuania,1/1/98,7990.738041,71.2195122,3549331,10.4,6.2,Europe & Central Asia,Upper middle income
+673,LT,LTU,Lithuania,1/1/01,9664.315786,71.65853659,3470818,9,5.3,Europe & Central Asia,Upper middle income
+674,LT,LTU,Lithuania,1/1/96,6633.130654,70.10804878,3601613,10.8,7.8,Europe & Central Asia,Upper middle income
+675,LT,LTU,Lithuania,1/1/97,7302.576838,70.90902439,3575137,10.6,6.8,Europe & Central Asia,Upper middle income
+676,LT,LTU,Lithuania,1/1/03,12315.63479,72.06097561,3415213,8.8,5.2,Europe & Central Asia,Upper middle income
+677,LT,LTU,Lithuania,1/1/04,13251.46264,71.96097561,3377075,8.8,5.2,Europe & Central Asia,Upper middle income
+678,LT,LTU,Lithuania,1/1/95,6180.457552,69.00634146,3629102,11.4,9.3,Europe & Central Asia,Upper middle income
+679,LT,LTU,Lithuania,1/1/99,8016.937643,71.57073171,3524238,10.3,5.8,Europe & Central Asia,Upper middle income
+680,LT,LTU,Lithuania,1/1/02,10732.61237,71.76097561,3443067,8.6,5.2,Europe & Central Asia,Upper middle income
+681,LU,LUX,Luxembourg,1/1/99,51751.80606,77.77073171,430475,13,2.6,Europe & Central Asia,High income: OECD
+682,LU,LUX,Luxembourg,1/1/91,35537.42705,75.46341463,387000,12.9,4,Europe & Central Asia,High income: OECD
+683,LU,LUX,Luxembourg,1/1/90,32083.18626,75.01041463,381850,12.9,4.3,Europe & Central Asia,High income: OECD
+684,LU,LUX,Luxembourg,1/1/92,36520.54387,75.77073171,392175,13.1,3.8,Europe & Central Asia,High income: OECD
+685,LU,LUX,Luxembourg,1/1/13,95928.59904,81.8,543360,11.3,1,Europe & Central Asia,High income: OECD
+686,LU,LUX,Luxembourg,1/1/98,45567.25804,77.01707317,424700,12.7,2.7,Europe & Central Asia,High income: OECD
+687,LU,LUX,Luxembourg,1/1/03,60926.98722,77.72682927,451630,11.7,2,Europe & Central Asia,High income: OECD
+688,LU,LUX,Luxembourg,1/1/12,90788.28658,81.39268293,530946,11.3,1.1,Europe & Central Asia,High income: OECD
+689,LU,LUX,Luxembourg,1/1/01,56234.10486,77.82439024,441525,12.4,2.3,Europe & Central Asia,High income: OECD
+690,LU,LUX,Luxembourg,1/1/02,59409.44811,77.96585366,446175,12,2.2,Europe & Central Asia,High income: OECD
+691,LU,LUX,Luxembourg,1/1/05,67081.07838,79.43170732,465158,11.5,1.8,Europe & Central Asia,High income: OECD
+692,LU,LUX,Luxembourg,1/1/00,56593.36207,77.87317073,436300,13.1,2.4,Europe & Central Asia,High income: OECD
+693,LU,LUX,Luxembourg,1/1/04,65447.54767,79.12195122,458095,11.9,1.9,Europe & Central Asia,High income: OECD
+694,LU,LUX,Luxembourg,1/1/93,38440.58162,75.71219512,397475,13.5,3.6,Europe & Central Asia,High income: OECD
+695,LU,LUX,Luxembourg,1/1/97,43029.36201,76.8804878,419450,13.1,2.8,Europe & Central Asia,High income: OECD
+696,LU,LUX,Luxembourg,1/1/10,84589.83987,80.63170732,506953,11.6,1.2,Europe & Central Asia,High income: OECD
+697,LU,LUX,Luxembourg,1/1/95,41053.09185,76.51219512,408625,13.3,3.2,Europe & Central Asia,High income: OECD
+698,LU,LUX,Luxembourg,1/1/96,42401.89992,76.5195122,414225,13.7,3,Europe & Central Asia,High income: OECD
+699,LU,LUX,Luxembourg,1/1/09,80306.08113,80.63658537,497783,11.3,1.3,Europe & Central Asia,High income: OECD
+700,LU,LUX,Luxembourg,1/1/08,85015.60509,80.53902439,488650,11.5,1.4,Europe & Central Asia,High income: OECD
+701,LU,LUX,Luxembourg,1/1/94,40207.39391,76.37073171,402925,13.5,3.4,Europe & Central Asia,High income: OECD
+702,LU,LUX,Luxembourg,1/1/14,98459.52004,82.20731707,556319,10.9,1,Europe & Central Asia,High income: OECD
+703,LU,LUX,Luxembourg,1/1/07,82846.16185,79.38292683,479993,11.4,1.5,Europe & Central Asia,High income: OECD
+704,LU,LUX,Luxembourg,1/1/11,91073.32208,80.98780488,518347,10.9,1.1,Europe & Central Asia,High income: OECD
+705,LU,LUX,Luxembourg,1/1/06,77300.96565,79.28780488,472637,11.7,1.6,Europe & Central Asia,High income: OECD
+706,LV,LVA,Latvia,1/1/07,19021.78305,71.0195122,2200325,10.9,7.2,Europe & Central Asia,Upper middle income
+707,LV,LVA,Latvia,1/1/02,10227.98666,70.96097561,2310173,8.7,9.1,Europe & Central Asia,Upper middle income
+708,LV,LVA,Latvia,1/1/13,22559.08445,73.98292683,2012647,10.2,5.6,Europe & Central Asia,Upper middle income
+709,LV,LVA,Latvia,1/1/14,23547.9794,74.18780488,1993782,10.9,5.4,Europe & Central Asia,Upper middle income
+710,LV,LVA,Latvia,1/1/06,16604.79701,70.86585366,2218357,10.3,7.5,Europe & Central Asia,Upper middle income
+711,LV,LVA,Latvia,1/1/04,12511.35556,72.02682927,2263122,9.1,8.2,Europe & Central Asia,Upper middle income
+712,LV,LVA,Latvia,1/1/05,14119.11688,71.35609756,2238799,9.8,7.9,Europe & Central Asia,Upper middle income
+713,LV,LVA,Latvia,1/1/01,9029.867738,70.76097561,2337170,8.4,9.7,Europe & Central Asia,Upper middle income
+714,LV,LVA,Latvia,1/1/08,19874.62554,72.4195122,2177322,11.2,6.9,Europe & Central Asia,Upper middle income
+715,LV,LVA,Latvia,1/1/09,17032.94267,73.0804878,2141669,10.3,6.6,Europe & Central Asia,Upper middle income
+716,LV,LVA,Latvia,1/1/10,17409.90597,73.48292683,2097555,9.4,6.3,Europe & Central Asia,Upper middle income
+717,LV,LVA,Latvia,1/1/12,21122.29821,73.77804878,2034319,9.8,5.8,Europe & Central Asia,Upper middle income
+718,LV,LVA,Latvia,1/1/03,11342.47113,71.26585366,2287955,9.2,8.6,Europe & Central Asia,Upper middle income
+719,LV,LVA,Latvia,1/1/96,6161.34676,68.77658537,2457222,8.1,15.2,Europe & Central Asia,Upper middle income
+720,LV,LVA,Latvia,1/1/99,7659.725641,69.74292683,2390482,8.1,11.5,Europe & Central Asia,Upper middle income
+721,LV,LVA,Latvia,1/1/11,19451.03228,73.57560976,2059709,9.1,6,Europe & Central Asia,Upper middle income
+722,LV,LVA,Latvia,1/1/00,8163.964976,70.31463415,2367550,8.6,10.4,Europe & Central Asia,Upper middle income
+723,LV,LVA,Latvia,1/1/97,6831.54993,69.34926829,2432851,7.7,14,Europe & Central Asia,Upper middle income
+724,LV,LVA,Latvia,1/1/98,7502.020331,69.01219512,2410019,7.6,12.7,Europe & Central Asia,Upper middle income
+725,LV,LVA,Latvia,1/1/95,5960.283816,66.39121951,2485056,8.7,15.9,Europe & Central Asia,Upper middle income
+726,MD,MDA,Moldova,1/1/98,1795.70126,66.63031707,3652732,12.426,23.1,Europe & Central Asia,Lower middle income
+727,MD,MDA,Moldova,1/1/93,2646.301472,67.06704878,3701000,15.607,20.4,Europe & Central Asia,Lower middle income
+728,MD,MDA,Moldova,1/1/96,1831.003598,66.62909756,3667748,13.565,23,Europe & Central Asia,Lower middle income
+729,MD,MDA,Moldova,1/1/97,1899.149726,66.59509756,3654208,13,23.3,Europe & Central Asia,Lower middle income
+730,MD,MDA,Moldova,1/1/99,1763.960688,66.73478049,3647001,11.846,22.3,Europe & Central Asia,Lower middle income
+731,MD,MDA,Moldova,1/1/01,2007.438068,67.06607317,3631462,10.832,18.9,Europe & Central Asia,Lower middle income
+732,MD,MDA,Moldova,1/1/02,2202.332871,67.23639024,3623062,10.494,17.1,Europe & Central Asia,Lower middle income
+733,MD,MDA,Moldova,1/1/91,3604.818819,67.39231707,3704000,17.529,18.9,Europe & Central Asia,Lower middle income
+734,MD,MDA,Moldova,1/1/00,1845.735739,66.89002439,3639592,11.298,20.7,Europe & Central Asia,Lower middle income
+735,MD,MDA,Moldova,1/1/92,2612.666949,67.24541463,3706000,16.519,19.6,Europe & Central Asia,Lower middle income
+736,MD,MDA,Moldova,1/1/04,2656.673991,67.5245122,3603945,10.265,14.5,Europe & Central Asia,Lower middle income
+737,MD,MDA,Moldova,1/1/94,1872.568857,66.88334146,3691000,14.82,21.4,Europe & Central Asia,Lower middle income
+738,MD,MDA,Moldova,1/1/90,4162.200456,67.46565854,3696000,18.573,18.6,Europe & Central Asia,Lower middle income
+739,MD,MDA,Moldova,1/1/10,3845.635588,69.70926829,3562045,11.049,12.9,Europe & Central Asia,Lower middle income
+740,MD,MDA,Moldova,1/1/09,3544.025744,69.14329268,3565604,10.996,13,Europe & Central Asia,Lower middle income
+741,MD,MDA,Moldova,1/1/11,4179.214809,70.27109756,3559986,11.031,12.8,Europe & Central Asia,Lower middle income
+742,MD,MDA,Moldova,1/1/12,4226.959189,70.7724878,3559519,10.962,12.6,Europe & Central Asia,Lower middle income
+743,MD,MDA,Moldova,1/1/03,2401.253338,67.38739024,3612874,10.306,15.6,Europe & Central Asia,Lower middle income
+744,MD,MDA,Moldova,1/1/14,5010.411571,71.45587805,3556397,10.725,12.1,Europe & Central Asia,Lower middle income
+745,MD,MDA,Moldova,1/1/08,3736.68859,68.63002439,3570108,10.875,13.1,Europe & Central Asia,Lower middle income
+746,MD,MDA,Moldova,1/1/05,2954.646021,67.67807317,3595187,10.347,13.8,Europe & Central Asia,Lower middle income
+747,MD,MDA,Moldova,1/1/06,3200.438226,67.89590244,3585209,10.512,13.3,Europe & Central Asia,Lower middle income
+748,MD,MDA,Moldova,1/1/95,1893.017069,66.72782927,3675099,14.153,22.3,Europe & Central Asia,Lower middle income
+749,MD,MDA,Moldova,1/1/07,3394.270412,68.20990244,3576910,10.704,13.2,Europe & Central Asia,Lower middle income
+750,MD,MDA,Moldova,1/1/13,4700.795047,71.17204878,3558566,10.859,12.4,Europe & Central Asia,Lower middle income
+751,ME,MNE,Montenegro,1/1/11,14215.55918,75.39131707,620079,12.257,4.1,Europe & Central Asia,Upper middle income
+752,ME,MNE,Montenegro,1/1/12,13812.69594,75.70507317,620601,12.025,3.8,Europe & Central Asia,Upper middle income
+753,ME,MNE,Montenegro,1/1/08,13919.91698,74.34543902,616969,12.911,5.4,Europe & Central Asia,Upper middle income
+754,ME,MNE,Montenegro,1/1/13,14623.74484,75.97019512,621207,11.808,3.5,Europe & Central Asia,Upper middle income
+755,ME,MNE,Montenegro,1/1/05,8405.736845,73.58429268,614261,13.312,6.8,Europe & Central Asia,Upper middle income
+756,ME,MNE,Montenegro,1/1/14,15054.75501,76.18070732,621810,11.612,3.3,Europe & Central Asia,Upper middle income
+757,ME,MNE,Montenegro,1/1/01,6812.382129,73.18792683,607389,13.586,8.7,Europe & Central Asia,Upper middle income
+758,ME,MNE,Montenegro,1/1/06,10522.58229,73.7855122,615025,13.211,6.4,Europe & Central Asia,Upper middle income
+759,ME,MNE,Montenegro,1/1/07,12483.18626,74.04063415,615875,13.077,5.9,Europe & Central Asia,Upper middle income
+760,ME,MNE,Montenegro,1/1/04,7827.54914,73.43378049,613353,13.386,7.4,Europe & Central Asia,Upper middle income
+761,ME,MNE,Montenegro,1/1/00,6614.685954,73.18204878,604950,13.692,9,Europe & Central Asia,Upper middle income
+762,ME,MNE,Montenegro,1/1/09,13127.68684,74.68782927,618294,12.713,5,Europe & Central Asia,Upper middle income
+763,ME,MNE,Montenegro,1/1/10,13439.59768,75.04529268,619428,12.491,4.5,Europe & Central Asia,Upper middle income
+764,ME,MNE,Montenegro,1/1/03,7309.94785,73.32117073,612267,13.447,7.8,Europe & Central Asia,Upper middle income
+765,ME,MNE,Montenegro,1/1/02,7020.192931,73.23904878,609828,13.51,8.3,Europe & Central Asia,Upper middle income
+766,MK,MKD,"Macedonia, FYR",1/1/96,4963.441756,72.29229268,1958303,15.011,11.6,Europe & Central Asia,Upper middle income
+767,MK,MKD,"Macedonia, FYR",1/1/95,4829.100688,72.06680488,1953544,15.529,12.6,Europe & Central Asia,Upper middle income
+768,MK,MKD,"Macedonia, FYR",1/1/08,10791.18159,74.44639024,2055266,11.141,7.9,Europe & Central Asia,Upper middle income
+769,MK,MKD,"Macedonia, FYR",1/1/99,5561.161433,73.01046341,1999362,13.659,9.7,Europe & Central Asia,Upper middle income
+770,MK,MKD,"Macedonia, FYR",1/1/09,11305.33574,74.57895122,2058920,11.084,7.3,Europe & Central Asia,Upper middle income
+771,MK,MKD,"Macedonia, FYR",1/1/98,5313.69394,72.77034146,1984242,14.064,10.3,Europe & Central Asia,Upper middle income
+772,MK,MKD,"Macedonia, FYR",1/1/90,5316.030441,71.14763415,1996227,17.84,17.3,Europe & Central Asia,Upper middle income
+773,MK,MKD,"Macedonia, FYR",1/1/91,5174.153459,71.32565854,1988458,17.445,16.4,Europe & Central Asia,Upper middle income
+774,MK,MKD,"Macedonia, FYR",1/1/97,5092.373504,72.52914634,1969345,14.517,10.9,Europe & Central Asia,Upper middle income
+775,MK,MKD,"Macedonia, FYR",1/1/07,9671.618054,74.32295122,2051427,11.264,8.4,Europe & Central Asia,Upper middle income
+776,MK,MKD,"Macedonia, FYR",1/1/93,4740.295576,71.67092683,1964924,16.551,14.6,Europe & Central Asia,Upper middle income
+777,MK,MKD,"Macedonia, FYR",1/1/94,4777.355373,71.86031707,1956165,16.049,13.6,Europe & Central Asia,Upper middle income
+778,MK,MKD,"Macedonia, FYR",1/1/11,11641.23022,74.8745122,2065888,11.121,5.6,Europe & Central Asia,Upper middle income
+779,MK,MKD,"Macedonia, FYR",1/1/00,6242.895353,73.24219512,2012051,13.297,9.2,Europe & Central Asia,Upper middle income
+780,MK,MKD,"Macedonia, FYR",1/1/13,12811.66057,75.18704878,2072543,11.222,4.2,Europe & Central Asia,Upper middle income
+781,MK,MKD,"Macedonia, FYR",1/1/10,11678.40796,74.72263415,2062443,11.083,6.5,Europe & Central Asia,Upper middle income
+782,MK,MKD,"Macedonia, FYR",1/1/02,6378.553583,73.64734146,2028706,12.637,8.5,Europe & Central Asia,Upper middle income
+783,MK,MKD,"Macedonia, FYR",1/1/03,6684.173135,73.8155122,2033974,12.316,8.5,Europe & Central Asia,Upper middle income
+784,MK,MKD,"Macedonia, FYR",1/1/92,4973.238495,71.49473171,1977033,17.018,15.6,Europe & Central Asia,Upper middle income
+785,MK,MKD,"Macedonia, FYR",1/1/01,6286.59493,73.4557561,2021585,12.961,8.7,Europe & Central Asia,Upper middle income
+786,MK,MKD,"Macedonia, FYR",1/1/14,13517.29,75.34239024,2075625,11.253,3.8,Europe & Central Asia,Upper middle income
+787,MK,MKD,"Macedonia, FYR",1/1/12,11891.64398,75.03126829,2069270,11.175,4.8,Europe & Central Asia,Upper middle income
+788,MK,MKD,"Macedonia, FYR",1/1/06,9155.141107,74.20673171,2047330,11.455,8.7,Europe & Central Asia,Upper middle income
+789,MK,MKD,"Macedonia, FYR",1/1/05,8210.591439,74.08890244,2042894,11.706,8.9,Europe & Central Asia,Upper middle income
+790,MK,MKD,"Macedonia, FYR",1/1/04,7216.052274,73.9607561,2038444,12,8.8,Europe & Central Asia,Upper middle income
+791,NL,NLD,Netherlands,1/1/93,20974.51017,76.91658537,15290368,12.8,4.3,Europe & Central Asia,High income: OECD
+792,NL,NLD,Netherlands,1/1/92,20374.14269,77.21707317,15184166,13,4.4,Europe & Central Asia,High income: OECD
+793,NL,NLD,Netherlands,1/1/06,40815.45115,79.69756098,16346101,11.3,3.3,Europe & Central Asia,High income: OECD
+794,NL,NLD,Netherlands,1/1/02,33950.39553,78.29268293,16148929,12.5,3.7,Europe & Central Asia,High income: OECD
+795,NL,NLD,Netherlands,1/1/97,25652.89957,77.79439024,15610650,12.3,3.9,Europe & Central Asia,High income: OECD
+796,NL,NLD,Netherlands,1/1/07,43659.16585,80.09756098,16381696,11.1,3.2,Europe & Central Asia,High income: OECD
+797,NL,NLD,Netherlands,1/1/95,22963.47222,77.40463415,15459006,12.3,4.1,Europe & Central Asia,High income: OECD
+798,NL,NLD,Netherlands,1/1/13,47954.50404,81.30487805,16804432,10.2,2.5,Europe & Central Asia,High income: OECD
+799,NL,NLD,Netherlands,1/1/00,31528.09845,77.98780488,15925513,13,3.8,Europe & Central Asia,High income: OECD
+800,NL,NLD,Netherlands,1/1/01,32804.06619,78.1902439,16046180,12.6,3.8,Europe & Central Asia,High income: OECD
+801,NL,NLD,Netherlands,1/1/03,33739.81975,78.49268293,16225302,12.3,3.6,Europe & Central Asia,High income: OECD
+802,NL,NLD,Netherlands,1/1/04,35401.92947,79.09512195,16281779,11.9,3.5,Europe & Central Asia,High income: OECD
+803,NL,NLD,Netherlands,1/1/05,37306.30497,79.34634146,16319868,11.5,3.4,Europe & Central Asia,High income: OECD
+804,NL,NLD,Netherlands,1/1/90,18791.58489,76.87804878,14951510,13.2,4.6,Europe & Central Asia,High income: OECD
+805,NL,NLD,Netherlands,1/1/91,19734.55579,77,15069798,13.2,4.5,Europe & Central Asia,High income: OECD
+806,NL,NLD,Netherlands,1/1/14,48253.33414,81.30487805,16865008,10.4,2.4,Europe & Central Asia,High income: OECD
+807,NL,NLD,Netherlands,1/1/96,24124.92679,77.43560976,15530498,12.2,4,Europe & Central Asia,High income: OECD
+808,NL,NLD,Netherlands,1/1/08,46140.34644,80.25121951,16445593,11.2,3,Europe & Central Asia,High income: OECD
+809,NL,NLD,Netherlands,1/1/09,44386.51362,80.54878049,16530388,11.2,2.9,Europe & Central Asia,High income: OECD
+810,NL,NLD,Netherlands,1/1/99,28924.93859,77.83658537,15812088,12.7,3.9,Europe & Central Asia,High income: OECD
+811,NL,NLD,Netherlands,1/1/94,21922.57958,77.37512195,15382838,12.7,4.2,Europe & Central Asia,High income: OECD
+812,NL,NLD,Netherlands,1/1/11,46388.29359,81.20487805,16693074,10.8,2.7,Europe & Central Asia,High income: OECD
+813,NL,NLD,Netherlands,1/1/98,27331.30896,77.88292683,15707209,12.7,3.9,Europe & Central Asia,High income: OECD
+814,NL,NLD,Netherlands,1/1/12,46448.8848,81.10487805,16754962,10.5,2.6,Europe & Central Asia,High income: OECD
+815,NL,NLD,Netherlands,1/1/10,44773.87287,80.70243902,16615394,11.1,2.8,Europe & Central Asia,High income: OECD
+816,NO,NOR,Norway,1/1/10,58812.94306,80.99756098,4889252,12.6,1.9,Europe & Central Asia,High income: OECD
+817,NO,NOR,Norway,1/1/04,43182.21016,79.84146341,4591910,12.4,2.4,Europe & Central Asia,High income: OECD
+818,NO,NOR,Norway,1/1/14,65702.19615,81.75121951,5137232,11.5,1.6,Europe & Central Asia,High income: OECD
+819,NO,NOR,Norway,1/1/08,62431.58187,80.59268293,4768212,12.7,2,Europe & Central Asia,High income: OECD
+820,NO,NOR,Norway,1/1/05,48356.51304,80.04146341,4623291,12.3,2.3,Europe & Central Asia,High income: OECD
+821,NO,NOR,Norway,1/1/07,56857.08588,80.39512195,4709153,12.4,2.1,Europe & Central Asia,High income: OECD
+822,NO,NOR,Norway,1/1/13,66817.17387,81.75121951,5079623,11.6,1.6,Europe & Central Asia,High income: OECD
+823,NO,NOR,Norway,1/1/09,56167.39604,80.79512195,4828726,12.8,1.9,Europe & Central Asia,High income: OECD
+824,NO,NOR,Norway,1/1/91,19352.46261,76.98073171,4261732,14.3,3.8,Europe & Central Asia,High income: OECD
+825,NO,NOR,Norway,1/1/12,65399.83608,81.45121951,5018573,12,1.7,Europe & Central Asia,High income: OECD
+826,NO,NOR,Norway,1/1/02,37732.9446,78.98780488,4538159,12.2,2.5,Europe & Central Asia,High income: OECD
+827,NO,NOR,Norway,1/1/03,38996.19632,79.3902439,4564855,12.4,2.4,Europe & Central Asia,High income: OECD
+828,NO,NOR,Norway,1/1/06,54689.70119,80.34390244,4660677,12.6,2.2,Europe & Central Asia,High income: OECD
+829,NO,NOR,Norway,1/1/90,18255.40152,76.53731707,4241473,14.4,4,Europe & Central Asia,High income: OECD
+830,NO,NOR,Norway,1/1/93,21334.4911,77.15170732,4311991,13.8,3.4,Europe & Central Asia,High income: OECD
+831,NO,NOR,Norway,1/1/94,22760.06278,77.6897561,4336613,13.9,3.2,Europe & Central Asia,High income: OECD
+832,NO,NOR,Norway,1/1/95,24074.62177,77.73658537,4359184,13.8,3.1,Europe & Central Asia,High income: OECD
+833,NO,NOR,Norway,1/1/92,20383.12852,77.18439024,4286401,14,3.6,Europe & Central Asia,High income: OECD
+834,NO,NOR,Norway,1/1/98,27937.93281,78.32926829,4431464,13.2,2.8,Europe & Central Asia,High income: OECD
+835,NO,NOR,Norway,1/1/99,30407.96537,78.28292683,4461913,13.3,2.7,Europe & Central Asia,High income: OECD
+836,NO,NOR,Norway,1/1/97,28473.99814,78.14268293,4405157,13.6,2.8,Europe & Central Asia,High income: OECD
+837,NO,NOR,Norway,1/1/96,26573.6036,78.1504878,4381336,13.9,2.9,Europe & Central Asia,High income: OECD
+838,NO,NOR,Norway,1/1/01,37789.07151,78.78536585,4513751,12.6,2.6,Europe & Central Asia,High income: OECD
+839,NO,NOR,Norway,1/1/11,62736.68047,81.29512195,4953088,12.2,1.8,Europe & Central Asia,High income: OECD
+840,NO,NOR,Norway,1/1/00,36789.51427,78.63414634,4490967,13.2,2.7,Europe & Central Asia,High income: OECD
+841,PL,POL,Poland,1/1/03,12045.03753,74.59756098,38204570,9.2,5,Europe & Central Asia,High income: OECD
+842,PL,POL,Poland,1/1/94,6820.941081,71.69512195,38542652,12.5,10.4,Europe & Central Asia,High income: OECD
+843,PL,POL,Poland,1/1/01,10967.2926,74.2,38248076,9.6,5.4,Europe & Central Asia,High income: OECD
+844,PL,POL,Poland,1/1/99,9920.359495,73.04390244,38660271,9.9,6.2,Europe & Central Asia,High income: OECD
+845,PL,POL,Poland,1/1/00,10607.89924,73.74878049,38258629,9.9,5.8,Europe & Central Asia,High income: OECD
+846,PL,POL,Poland,1/1/91,5740.1848,70.58780488,38246193,14.3,10.7,Europe & Central Asia,High income: OECD
+847,PL,POL,Poland,1/1/02,11592.28033,74.49756098,38230364,9.3,5.2,Europe & Central Asia,High income: OECD
+848,PL,POL,Poland,1/1/92,6000.265881,71.0902439,38363667,13.4,10.5,Europe & Central Asia,High income: OECD
+849,PL,POL,Poland,1/1/90,5995.653368,70.8902439,38110782,14.4,11.1,Europe & Central Asia,High income: OECD
+850,PL,POL,Poland,1/1/95,7437.172438,71.89268293,38594998,11.2,9.7,Europe & Central Asia,High income: OECD
+851,PL,POL,Poland,1/1/96,8066.408637,72.24634146,38624370,11.1,8.8,Europe & Central Asia,High income: OECD
+852,PL,POL,Poland,1/1/05,13806.82848,74.99512195,38165445,9.5,4.6,Europe & Central Asia,High income: OECD
+853,PL,POL,Poland,1/1/93,6356.477412,71.59512195,38461408,12.9,10.5,Europe & Central Asia,High income: OECD
+854,PL,POL,Poland,1/1/98,9388.612868,72.99756098,38663481,10.2,6.9,Europe & Central Asia,High income: OECD
+855,PL,POL,Poland,1/1/09,19139.50329,75.69512195,38151603,10.9,3.8,Europe & Central Asia,High income: OECD
+856,PL,POL,Poland,1/1/11,22520.0128,76.69512195,38063255,10.2,3.4,Europe & Central Asia,High income: OECD
+857,PL,POL,Poland,1/1/97,8798.497642,72.64634146,38649660,10.7,7.8,Europe & Central Asia,High income: OECD
+858,PL,POL,Poland,1/1/13,24493.75528,77,38040196,9.7,3.2,Europe & Central Asia,High income: OECD
+859,PL,POL,Poland,1/1/10,20883.06044,76.24634146,38042794,10.9,3.6,Europe & Central Asia,High income: OECD
+860,PL,POL,Poland,1/1/04,13049.51875,74.84634146,38182222,9.3,4.8,Europe & Central Asia,High income: OECD
+861,PL,POL,Poland,1/1/12,23598.55928,76.74634146,38063164,10.1,3.3,Europe & Central Asia,High income: OECD
+862,PL,POL,Poland,1/1/06,15143.60729,75.14390244,38141267,9.8,4.4,Europe & Central Asia,High income: OECD
+863,PL,POL,Poland,1/1/14,25262.27219,77.25365854,38011735,9.9,3.2,Europe & Central Asia,High income: OECD
+864,PL,POL,Poland,1/1/07,16890.32647,75.24390244,38120560,10.2,4.2,Europe & Central Asia,High income: OECD
+865,PL,POL,Poland,1/1/08,18046.15159,75.54390244,38125759,10.9,4,Europe & Central Asia,High income: OECD
+866,PT,PRT,Portugal,1/1/05,22072.65075,78.07073171,10503330,10.4,2.3,Europe & Central Asia,High income: OECD
+867,PT,PRT,Portugal,1/1/08,26095.78141,78.52439024,10558177,9.9,2.1,Europe & Central Asia,High income: OECD
+868,PT,PRT,Portugal,1/1/04,20297.60399,77.67073171,10483861,10.4,2.6,Europe & Central Asia,High income: OECD
+869,PT,PRT,Portugal,1/1/94,12886.13242,74.91463415,9991525,10.9,5.1,Europe & Central Asia,High income: OECD
+870,PT,PRT,Portugal,1/1/09,26208.85177,78.72682927,10568247,9.4,2.1,Europe & Central Asia,High income: OECD
+871,PT,PRT,Portugal,1/1/10,26943.02092,79.02682927,10573100,9.6,2.1,Europe & Central Asia,High income: OECD
+872,PT,PRT,Portugal,1/1/11,26932.40813,80.47073171,10557560,9.2,2.1,Europe & Central Asia,High income: OECD
+873,PT,PRT,Portugal,1/1/95,13670.88897,75.31219512,10026176,10.7,4.7,Europe & Central Asia,High income: OECD
+874,PT,PRT,Portugal,1/1/07,25221.573,78.32195122,10542964,9.7,2.1,Europe & Central Asia,High income: OECD
+875,PT,PRT,Portugal,1/1/90,11185.07877,73.96585366,9983218,11.7,7.2,Europe & Central Asia,High income: OECD
+876,PT,PRT,Portugal,1/1/93,12530.7196,74.51219512,9964675,11.4,5.5,Europe & Central Asia,High income: OECD
+877,PT,PRT,Portugal,1/1/92,12510.09851,74.31219512,9952494,11.5,6,Europe & Central Asia,High income: OECD
+878,PT,PRT,Portugal,1/1/96,14182.24639,75.26097561,10063945,11,4.3,Europe & Central Asia,High income: OECD
+879,PT,PRT,Portugal,1/1/06,23872.20178,78.4195122,10522288,10,2.2,Europe & Central Asia,High income: OECD
+880,PT,PRT,Portugal,1/1/97,15047.43995,75.41219512,10108977,11.2,4,Europe & Central Asia,High income: OECD
+881,PT,PRT,Portugal,1/1/98,15804.47131,75.71219512,10160196,11.2,3.8,Europe & Central Asia,High income: OECD
+882,PT,PRT,Portugal,1/1/12,27125.15443,80.37317073,10514844,8.5,2.1,Europe & Central Asia,High income: OECD
+883,PT,PRT,Portugal,1/1/00,17847.37308,76.31463415,10289898,11.7,3.4,Europe & Central Asia,High income: OECD
+884,PT,PRT,Portugal,1/1/02,19331.7294,77.06585366,10419631,11,3,Europe & Central Asia,High income: OECD
+885,PT,PRT,Portugal,1/1/03,19823.81783,77.2195122,10458821,10.8,2.8,Europe & Central Asia,High income: OECD
+886,PT,PRT,Portugal,1/1/14,28759.98446,80.72195122,10401062,7.9,2,Europe & Central Asia,High income: OECD
+887,PT,PRT,Portugal,1/1/99,16806.08157,75.96341463,10217828,11.4,3.5,Europe & Central Asia,High income: OECD
+888,PT,PRT,Portugal,1/1/91,12090.06507,74.01463415,9960235,11.7,6.6,Europe & Central Asia,High income: OECD
+889,PT,PRT,Portugal,1/1/13,27929.94681,80.72195122,10457295,7.9,2.1,Europe & Central Asia,High income: OECD
+890,PT,PRT,Portugal,1/1/01,18588.96494,76.81463415,10362722,10.9,3.2,Europe & Central Asia,High income: OECD
+891,RO,ROU,Romania,1/1/90,5504.368986,69.74121951,23201835,13.6,13.5,Europe & Central Asia,Upper middle income
+892,RO,ROU,Romania,1/1/91,4996.061229,69.78439024,23001155,12,13.4,Europe & Central Asia,Upper middle income
+893,RO,ROU,Romania,1/1/98,5316.810386,69.80731707,22507344,10.5,13.1,Europe & Central Asia,Upper middle income
+894,RO,ROU,Romania,1/1/93,4896.475986,69.56341463,22763280,11,13.3,Europe & Central Asia,Upper middle income
+895,RO,ROU,Romania,1/1/03,7799.314617,71.3097561,21574326,9.8,12.8,Europe & Central Asia,Upper middle income
+896,RO,ROU,Romania,1/1/92,4704.257883,69.78439024,22794284,11.4,13.3,Europe & Central Asia,Upper middle income
+897,RO,ROU,Romania,1/1/02,7090.24532,71.0097561,21730496,9.7,13,Europe & Central Asia,Upper middle income
+898,RO,ROU,Romania,1/1/04,8911.807882,71.59427561,21451748,10.1,12.3,Europe & Central Asia,Upper middle income
+899,RO,ROU,Romania,1/1/94,5204.864642,69.5097561,22730211,10.9,13.2,Europe & Central Asia,Upper middle income
+900,RO,ROU,Romania,1/1/14,20372.07018,75.06341463,19908979,9.2,6.5,Europe & Central Asia,Upper middle income
+901,RO,ROU,Romania,1/1/97,5584.155603,69.00487805,22553978,10.5,13.1,Europe & Central Asia,Upper middle income
+902,RO,ROU,Romania,1/1/09,15815.27855,73.3097561,20367487,10.9,8.5,Europe & Central Asia,Upper middle income
+903,RO,ROU,Romania,1/1/99,5429.226142,70.51219512,22472040,10.4,13.1,Europe & Central Asia,Upper middle income
+904,RO,ROU,Romania,1/1/95,5704.233684,69.45609756,22684270,10.4,13.1,Europe & Central Asia,Upper middle income
+905,RO,ROU,Romania,1/1/01,6509.410003,71.16097561,22131970,10,13,Europe & Central Asia,Upper middle income
+906,RO,ROU,Romania,1/1/12,18910.27827,74.41219512,20058035,10,7.1,Europe & Central Asia,Upper middle income
+907,RO,ROU,Romania,1/1/08,15989.64005,72.56585366,20537875,10.8,9.2,Europe & Central Asia,Upper middle income
+908,RO,ROU,Romania,1/1/13,19572.63406,75.06341463,19983693,9.1,6.8,Europe & Central Asia,Upper middle income
+909,RO,ROU,Romania,1/1/00,5726.307872,71.16341463,22442971,10.4,13.1,Europe & Central Asia,Upper middle income
+910,RO,ROU,Romania,1/1/07,13241.9749,72.56585366,20882982,10.3,10,Europe & Central Asia,Upper middle income
+911,RO,ROU,Romania,1/1/06,11420.0245,72.16341463,21193760,10.4,10.9,Europe & Central Asia,Upper middle income
+912,RO,ROU,Romania,1/1/05,9575.006808,71.87889512,21319685,10.4,11.7,Europe & Central Asia,Upper middle income
+913,RO,ROU,Romania,1/1/11,17624.5779,74.4097561,20147528,9.7,7.4,Europe & Central Asia,Upper middle income
+914,RO,ROU,Romania,1/1/96,6023.865735,69.10487805,22619004,10.2,13.1,Europe & Central Asia,Upper middle income
+915,RO,ROU,Romania,1/1/10,16579.84936,73.45853659,20246871,10.5,7.9,Europe & Central Asia,Upper middle income
+916,RS,SRB,Serbia,1/1/06,9889.713911,73.38536585,7411569,9.58,5.2,Europe & Central Asia,Upper middle income
+917,RS,SRB,Serbia,1/1/05,8860.521508,72.83414634,7440769,9.7,5.5,Europe & Central Asia,Upper middle income
+918,RS,SRB,Serbia,1/1/04,8109.27006,72.68292683,7463157,10.5,6,Europe & Central Asia,Upper middle income
+919,RS,SRB,Serbia,1/1/14,13698.56643,75.53414634,7130576,9.3,4.3,Europe & Central Asia,Upper middle income
+920,RS,SRB,Serbia,1/1/00,5777.642372,71.58292683,7516346,9.8,7.7,Europe & Central Asia,Upper middle income
+921,RS,SRB,Serbia,1/1/07,10452.58188,73.63170732,7381579,9.22,5.1,Europe & Central Asia,Upper middle income
+922,RS,SRB,Serbia,1/1/08,11892.78712,73.88536585,7350222,9.4,5,Europe & Central Asia,Upper middle income
+923,RS,SRB,Serbia,1/1/02,6765.697997,72.28536585,7496522,10.4,7.1,Europe & Central Asia,Upper middle income
+924,RS,SRB,Serbia,1/1/99,5225.608694,NA,7540401,9.6,8,Europe & Central Asia,Upper middle income
+925,RS,SRB,Serbia,1/1/03,7220.645046,72.43658537,7480591,10.6,6.6,Europe & Central Asia,Upper middle income
+926,RS,SRB,Serbia,1/1/98,5837.278835,NA,7567745,10.09,8.6,Europe & Central Asia,Upper middle income
+927,RS,SRB,Serbia,1/1/13,13668.11716,75.18536585,7164132,9.2,4.4,Europe & Central Asia,Upper middle income
+928,RS,SRB,Serbia,1/1/10,11813.4578,74.33658537,7291436,9.4,4.8,Europe & Central Asia,Upper middle income
+929,RS,SRB,Serbia,1/1/01,6215.021359,72.23414634,7503433,10.5,7.5,Europe & Central Asia,Upper middle income
+930,RS,SRB,Serbia,1/1/97,5616.249652,72.03902439,7596501,10.49,9.5,Europe & Central Asia,Upper middle income
+931,RS,SRB,Serbia,1/1/09,11802.35253,73.98536585,7320807,9.6,4.9,Europe & Central Asia,Upper middle income
+932,RS,SRB,Serbia,1/1/11,12571.8955,74.53658537,7234099,9.1,4.7,Europe & Central Asia,Upper middle income
+933,RS,SRB,Serbia,1/1/12,13000.07329,74.83658537,7199077,9.3,4.5,Europe & Central Asia,Upper middle income
+934,RS,SRB,Serbia,1/1/96,5137.2106,NA,7617794,10.8,10.8,Europe & Central Asia,Upper middle income
+935,RS,SRB,Serbia,1/1/95,4920.721253,NA,7625357,11.3,12.2,Europe & Central Asia,Upper middle income
+936,RU,RUS,Russian Federation,1/1/07,16648.59349,67.49756098,142805088,11.3,7.7,Europe & Central Asia,Upper middle income
+937,RU,RUS,Russian Federation,1/1/06,14916.18526,66.64317073,143049528,10.4,8.3,Europe & Central Asia,Upper middle income
+938,RU,RUS,Russian Federation,1/1/10,20497.95231,68.85609756,142849449,12.5,6.3,Europe & Central Asia,Upper middle income
+939,RU,RUS,Russian Federation,1/1/08,20163.61168,67.84878049,142742350,12,7.2,Europe & Central Asia,Upper middle income
+940,RU,RUS,Russian Federation,1/1/05,11822.3709,65.47,143518523,10.2,9,Europe & Central Asia,Upper middle income
+941,RU,RUS,Russian Federation,1/1/14,25094.7271,70.36585366,143819569,13.3,5.2,Europe & Central Asia,Upper middle income
+942,RU,RUS,Russian Federation,1/1/91,7844.086114,68.47439024,148624000,12.1,14,Europe & Central Asia,Upper middle income
+943,RU,RUS,Russian Federation,1/1/90,8012.802317,68.90243902,148292000,13.4,14,Europe & Central Asia,Upper middle income
+944,RU,RUS,Russian Federation,1/1/09,19386.59368,68.60487805,142785342,12.3,6.7,Europe & Central Asia,Upper middle income
+945,RU,RUS,Russian Federation,1/1/01,7367.609061,65.48780488,145976083,9.1,11.9,Europe & Central Asia,Upper middle income
+946,RU,RUS,Russian Federation,1/1/02,8029.122652,65.08536585,145306046,9.8,11.2,Europe & Central Asia,Upper middle income
+947,RU,RUS,Russian Federation,1/1/92,6854.085483,66.87317073,148689000,10.7,14,Europe & Central Asia,Upper middle income
+948,RU,RUS,Russian Federation,1/1/04,10231.42645,65.42121951,144067054,10.4,9.7,Europe & Central Asia,Upper middle income
+949,RU,RUS,Russian Federation,1/1/13,24165.32683,70.36585366,143506911,13.2,5.4,Europe & Central Asia,Upper middle income
+950,RU,RUS,Russian Federation,1/1/93,6416.169193,64.93585366,148520000,9.4,14.2,Europe & Central Asia,Upper middle income
+951,RU,RUS,Russian Federation,1/1/03,9253.577429,65.00756098,144648257,10.2,10.5,Europe & Central Asia,Upper middle income
+952,RU,RUS,Russian Federation,1/1/94,5736.160138,64.46707317,148336000,9.5,14.3,Europe & Central Asia,Upper middle income
+953,RU,RUS,Russian Federation,1/1/99,5914.300411,66.04365854,147214392,8.3,13.1,Europe & Central Asia,Upper middle income
+954,RU,RUS,Russian Federation,1/1/98,5460.354978,66.78390244,147670692,8.8,13.5,Europe & Central Asia,Upper middle income
+955,RU,RUS,Russian Federation,1/1/97,5697.327822,66.95073171,147915307,8.6,13.8,Europe & Central Asia,Upper middle income
+956,RU,RUS,Russian Federation,1/1/96,5515.985165,66.19414634,148160042,8.9,14.1,Europe & Central Asia,Upper middle income
+957,RU,RUS,Russian Federation,1/1/95,5611.658378,65.22121951,148375726,9.3,14.3,Europe & Central Asia,Upper middle income
+958,RU,RUS,Russian Federation,1/1/00,6825.411391,65.34146341,146596557,8.7,12.5,Europe & Central Asia,Upper middle income
+959,RU,RUS,Russian Federation,1/1/11,24074.36458,69.65853659,142960868,12.6,6,Europe & Central Asia,Upper middle income
+960,RU,RUS,Russian Federation,1/1/12,25316.63579,70.36585366,143201676,13.3,5.7,Europe & Central Asia,Upper middle income
+961,SE,SWE,Sweden,1/1/09,39657.24129,81.35121951,9298515,12,1.6,Europe & Central Asia,High income: OECD
+962,SE,SWE,Sweden,1/1/05,34332.32594,80.54634146,9029572,11.2,1.9,Europe & Central Asia,High income: OECD
+963,SE,SWE,Sweden,1/1/97,24504.61163,79.19756098,8846062,10.2,2.4,Europe & Central Asia,High income: OECD
+964,SE,SWE,Sweden,1/1/06,37571.1263,80.74878049,9080505,11.7,1.8,Europe & Central Asia,High income: OECD
+965,SE,SWE,Sweden,1/1/13,45067.43719,81.95609756,9600379,11.8,1.6,Europe & Central Asia,High income: OECD
+966,SE,SWE,Sweden,1/1/11,43709.21145,81.80243902,9449213,11.8,1.6,Europe & Central Asia,High income: OECD
+967,SE,SWE,Sweden,1/1/14,45297.76552,81.95609756,9696110,11.9,1.6,Europe & Central Asia,High income: OECD
+968,SE,SWE,Sweden,1/1/98,25550.25697,79.33902439,8850974,10.1,2.4,Europe & Central Asia,High income: OECD
+969,SE,SWE,Sweden,1/1/99,27184.58541,79.44146341,8857874,10,2.3,Europe & Central Asia,High income: OECD
+970,SE,SWE,Sweden,1/1/00,29376.69291,79.64390244,8872109,10.2,2.3,Europe & Central Asia,High income: OECD
+971,SE,SWE,Sweden,1/1/04,34259.80933,80.49756098,8993531,11.2,2,Europe & Central Asia,High income: OECD
+972,SE,SWE,Sweden,1/1/92,20469.54982,77.99878049,8668067,14.2,3.2,Europe & Central Asia,High income: OECD
+973,SE,SWE,Sweden,1/1/93,20404.8272,78.0604878,8718561,13.5,3,Europe & Central Asia,High income: OECD
+974,SE,SWE,Sweden,1/1/03,32064.76331,80.09512195,8958229,11.1,2.1,Europe & Central Asia,High income: OECD
+975,SE,SWE,Sweden,1/1/10,41755.98017,81.45121951,9378126,12.3,1.6,Europe & Central Asia,High income: OECD
+976,SE,SWE,Sweden,1/1/08,41880.84077,81.1,9219637,11.9,1.7,Europe & Central Asia,High income: OECD
+977,SE,SWE,Sweden,1/1/96,23597.59671,78.95902439,8840998,10.8,2.5,Europe & Central Asia,High income: OECD
+978,SE,SWE,Sweden,1/1/07,40560.8943,80.9,9148092,11.7,1.8,Europe & Central Asia,High income: OECD
+979,SE,SWE,Sweden,1/1/12,44433.72669,81.70487805,9519374,11.9,1.6,Europe & Central Asia,High income: OECD
+980,SE,SWE,Sweden,1/1/01,29818.59459,79.79512195,8895960,10.3,2.3,Europe & Central Asia,High income: OECD
+981,SE,SWE,Sweden,1/1/91,20367.03417,77.66682927,8617375,14.4,3.4,Europe & Central Asia,High income: OECD
+982,SE,SWE,Sweden,1/1/94,21537.27403,78.6502439,8780745,12.8,2.9,Europe & Central Asia,High income: OECD
+983,SE,SWE,Sweden,1/1/02,30790.50518,79.84634146,8924958,10.7,2.2,Europe & Central Asia,High income: OECD
+984,SE,SWE,Sweden,1/1/90,20075.83393,77.53682927,8558835,14.5,3.5,Europe & Central Asia,High income: OECD
+985,SE,SWE,Sweden,1/1/95,22751.584,78.7404878,8826939,11.7,2.7,Europe & Central Asia,High income: OECD
+986,SI,SVN,Slovenia,1/1/06,25869.21157,78.08658537,2006868,9.4,2.3,Europe & Central Asia,High income: OECD
+987,SI,SVN,Slovenia,1/1/09,27506.33141,78.97073171,2039669,10.7,1.9,Europe & Central Asia,High income: OECD
+988,SI,SVN,Slovenia,1/1/97,15063.44646,74.70731707,1985956,9.1,3.7,Europe & Central Asia,High income: OECD
+989,SI,SVN,Slovenia,1/1/04,22689.43806,77.20731707,1997012,9,2.6,Europe & Central Asia,High income: OECD
+990,SI,SVN,Slovenia,1/1/01,18796.73034,75.75853659,1992060,8.8,3.1,Europe & Central Asia,High income: OECD
+991,SI,SVN,Slovenia,1/1/07,27677.80216,78.56097561,2018122,9.8,2.2,Europe & Central Asia,High income: OECD
+992,SI,SVN,Slovenia,1/1/08,29598.13922,78.76585366,2021316,10.8,2.1,Europe & Central Asia,High income: OECD
+993,SI,SVN,Slovenia,1/1/05,23887.77928,77.61219512,2000474,9.1,2.5,Europe & Central Asia,High income: OECD
+994,SI,SVN,Slovenia,1/1/98,15948.84809,74.80731707,1981629,9,3.5,Europe & Central Asia,High income: OECD
+995,SI,SVN,Slovenia,1/1/99,16997.60107,75.0097561,1983045,8.8,3.4,Europe & Central Asia,High income: OECD
+996,SI,SVN,Slovenia,1/1/00,17877.60796,75.41219512,1988925,9.1,3.3,Europe & Central Asia,High income: OECD
+997,SI,SVN,Slovenia,1/1/13,29097.57595,80.32195122,2059953,10.2,1.5,Europe & Central Asia,High income: OECD
+998,SI,SVN,Slovenia,1/1/03,20945.64139,76.85853659,1995733,8.7,2.8,Europe & Central Asia,High income: OECD
+999,SI,SVN,Slovenia,1/1/95,13227.13822,73.95853659,1989872,9.5,4,Europe & Central Asia,High income: OECD
+1000,SI,SVN,Slovenia,1/1/12,28481.75131,80.12439024,2057159,10.7,1.6,Europe & Central Asia,High income: OECD
+1001,SI,SVN,Slovenia,1/1/11,28513.47483,79.97073171,2052843,10.7,1.7,Europe & Central Asia,High income: OECD
+1002,SI,SVN,Slovenia,1/1/02,20127.96596,76.00731707,1994530,8.8,3,Europe & Central Asia,High income: OECD
+1003,SI,SVN,Slovenia,1/1/96,14033.28592,74.45853659,1988628,9.4,3.8,Europe & Central Asia,High income: OECD
+1004,SI,SVN,Slovenia,1/1/10,27607.72304,79.42195122,2048583,10.9,1.8,Europe & Central Asia,High income: OECD
+1005,SI,SVN,Slovenia,1/1/14,30402.6773,80.5195122,2061980,10.3,1.5,Europe & Central Asia,High income: OECD
+1006,SK,SVK,Slovak Republic,1/1/93,7276.525713,72.44878049,5325305,13.8,11,Europe & Central Asia,High income: OECD
+1007,SK,SVK,Slovak Republic,1/1/06,18810.72039,74.20487805,5373054,10,5.4,Europe & Central Asia,High income: OECD
+1008,SK,SVK,Slovak Republic,1/1/00,11158.46027,73.05121951,5388720,10.2,7.3,Europe & Central Asia,High income: OECD
+1009,SK,SVK,Slovak Republic,1/1/04,14988.61336,73.95853659,5372280,10,5.9,Europe & Central Asia,High income: OECD
+1010,SK,SVK,Slovak Republic,1/1/05,16525.50041,73.90487805,5372807,10.1,5.6,Europe & Central Asia,High income: OECD
+1011,SK,SVK,Slovak Republic,1/1/94,7861.506564,72.3,5346331,12.4,10.5,Europe & Central Asia,High income: OECD
+1012,SK,SVK,Slovak Republic,1/1/92,6988.690782,71.79512195,5305016,14.1,11.5,Europe & Central Asia,High income: OECD
+1013,SK,SVK,Slovak Republic,1/1/09,23172.34658,74.9097561,5386406,11.4,5.1,Europe & Central Asia,High income: OECD
+1014,SK,SVK,Slovak Republic,1/1/13,27414.21303,76.41219512,5413393,10.1,4.6,Europe & Central Asia,High income: OECD
+1015,SK,SVK,Slovak Republic,1/1/07,21439.30671,74.20731707,5374622,10.1,5.3,Europe & Central Asia,High income: OECD
+1016,SK,SVK,Slovak Republic,1/1/08,23844.9745,74.70487805,5379233,10.7,5.2,Europe & Central Asia,High income: OECD
+1017,SK,SVK,Slovak Republic,1/1/14,28326.52993,76.71463415,5418649,10.2,4.4,Europe & Central Asia,High income: OECD
+1018,SK,SVK,Slovak Republic,1/1/02,13136.80796,73.60487805,5376912,9.5,6.6,Europe & Central Asia,High income: OECD
+1019,SK,SVK,Slovak Republic,1/1/99,10568.6007,72.90243902,5396020,10.4,7.7,Europe & Central Asia,High income: OECD
+1020,SK,SVK,Slovak Republic,1/1/03,13906.22148,73.60487805,5373374,9.6,6.2,Europe & Central Asia,High income: OECD
+1021,SK,SVK,Slovak Republic,1/1/12,26091.27983,76.1097561,5407579,10.3,4.7,Europe & Central Asia,High income: OECD
+1022,SK,SVK,Slovak Republic,1/1/11,25167.45381,75.95853659,5398384,11.3,4.9,Europe & Central Asia,High income: OECD
+1023,SK,SVK,Slovak Republic,1/1/95,8469.61761,72.25365854,5361999,11.5,9.9,Europe & Central Asia,High income: OECD
+1024,SK,SVK,Slovak Republic,1/1/01,12236.65053,73.40243902,5378867,9.5,6.9,Europe & Central Asia,High income: OECD
+1025,SK,SVK,Slovak Republic,1/1/10,24515.69235,75.11219512,5391428,11.2,5,Europe & Central Asia,High income: OECD
+1026,SK,SVK,Slovak Republic,1/1/96,9204.420233,72.65365854,5373361,11.2,9.3,Europe & Central Asia,High income: OECD
+1027,SK,SVK,Slovak Republic,1/1/98,10507.44663,72.55121951,5390516,10.7,8.2,Europe & Central Asia,High income: OECD
+1028,SK,SVK,Slovak Republic,1/1/97,9955.383698,72.70487805,5383291,11,8.8,Europe & Central Asia,High income: OECD
+1029,TJ,TJK,Tajikistan,1/1/91,2205.399657,62.62753659,5417554,39.483,32.3,Europe & Central Asia,Low income
+1030,TJ,TJK,Tajikistan,1/1/97,788.83628,62.79734146,5936780,33.212,31.9,Europe & Central Asia,Low income
+1031,TJ,TJK,Tajikistan,1/1/96,772.2970841,62.56319512,5862224,34.205,32.2,Europe & Central Asia,Low income
+1032,TJ,TJK,Tajikistan,1/1/90,2349.639512,62.86478049,5297286,40.412,32.3,Europe & Central Asia,Low income
+1033,TJ,TJK,Tajikistan,1/1/98,829.111232,63.06568293,6012308,32.257,31.4,Europe & Central Asia,Low income
+1034,TJ,TJK,Tajikistan,1/1/92,1570.892229,62.43319512,5523207,38.445,32.5,Europe & Central Asia,Low income
+1035,TJ,TJK,Tajikistan,1/1/06,1653.075399,66.66180488,6949566,29.098,24.9,Europe & Central Asia,Low income
+1036,TJ,TJK,Tajikistan,1/1/07,1790.92569,67.2074878,7099021,29.38,24.4,Europe & Central Asia,Low income
+1037,TJ,TJK,Tajikistan,1/1/08,1928.200965,67.71458537,7254072,29.735,23.9,Europe & Central Asia,Low income
+1038,TJ,TJK,Tajikistan,1/1/95,922.7668023,62.3874878,5784330,35.226,32.5,Europe & Central Asia,Low income
+1039,TJ,TJK,Tajikistan,1/1/99,861.2259541,63.36363415,6094126,31.368,30.9,Europe & Central Asia,Low income
+1040,TJ,TJK,Tajikistan,1/1/00,939.7408332,63.69529268,6186152,30.583,30.1,Europe & Central Asia,Low income
+1041,TJ,TJK,Tajikistan,1/1/01,1041.638855,64.07482927,6290413,29.937,29.2,Europe & Central Asia,Low income
+1042,TJ,TJK,Tajikistan,1/1/09,1972.915229,68.17053659,7414960,30.116,23.3,Europe & Central Asia,Low income
+1043,TJ,TJK,Tajikistan,1/1/94,1046.652122,62.30158537,5702611,36.281,32.8,Europe & Central Asia,Low income
+1044,TJ,TJK,Tajikistan,1/1/14,2700.584241,69.59797561,8295840,30.592,20.9,Europe & Central Asia,Low income
+1045,TJ,TJK,Tajikistan,1/1/03,1277.456611,65.002,6532871,29.117,27.5,Europe & Central Asia,Low income
+1046,TJ,TJK,Tajikistan,1/1/04,1418.731408,65.53702439,6666628,28.947,26.4,Europe & Central Asia,Low income
+1047,TJ,TJK,Tajikistan,1/1/05,1530.575696,66.09721951,6805655,28.942,25.6,Europe & Central Asia,Low income
+1048,TJ,TJK,Tajikistan,1/1/10,2080.044388,68.56339024,7581696,30.46,22.8,Europe & Central Asia,Low income
+1049,TJ,TJK,Tajikistan,1/1/11,2229.445742,68.89178049,7753925,30.708,22.3,Europe & Central Asia,Low income
+1050,TJ,TJK,Tajikistan,1/1/12,2386.327474,69.16697561,7930929,30.826,21.8,Europe & Central Asia,Low income
+1051,TJ,TJK,Tajikistan,1/1/93,1322.108974,62.31814634,5616797,37.363,32.7,Europe & Central Asia,Low income
+1052,TJ,TJK,Tajikistan,1/1/02,1150.615837,64.51090244,6406518,29.447,28.4,Europe & Central Asia,Low income
+1053,TJ,TJK,Tajikistan,1/1/13,2546.586587,69.40017073,8111894,30.792,21.4,Europe & Central Asia,Low income
+1054,TM,TKM,Turkmenistan,1/1/90,5398.792743,62.67414634,3668000,35.313,30.1,Europe & Central Asia,Lower middle income
+1055,TM,TKM,Turkmenistan,1/1/03,4699.745806,64.24039024,4648036,22.985,29.1,Europe & Central Asia,Lower middle income
+1056,TM,TKM,Turkmenistan,1/1/97,3187.358553,63.40012195,4335991,26.032,32,Europe & Central Asia,Lower middle income
+1057,TM,TKM,Turkmenistan,1/1/93,4419.25027,62.77136585,3991917,31.886,32,Europe & Central Asia,Lower middle income
+1058,TM,TKM,Turkmenistan,1/1/04,5017.71966,64.33743902,4696876,22.815,28.5,Europe & Central Asia,Lower middle income
+1059,TM,TKM,Turkmenistan,1/1/92,4373.202162,62.70614634,3881973,33.26,31.5,Europe & Central Asia,Lower middle income
+1060,TM,TKM,Turkmenistan,1/1/12,12689.34383,65.31158537,5172941,21.505,24.3,Europe & Central Asia,Lower middle income
+1061,TM,TKM,Turkmenistan,1/1/13,14029.49479,65.45656098,5240088,21.322,23.7,Europe & Central Asia,Lower middle income
+1062,TM,TKM,Turkmenistan,1/1/91,5174.383298,62.67829268,3772350,34.422,30.9,Europe & Central Asia,Lower middle income
+1063,TM,TKM,Turkmenistan,1/1/11,11360.50215,65.16560976,5106672,21.659,24.8,Europe & Central Asia,Lower middle income
+1064,TM,TKM,Turkmenistan,1/1/02,4508.433493,64.13760976,4600172,23.152,29.7,Europe & Central Asia,Lower middle income
+1065,TM,TKM,Turkmenistan,1/1/07,7381.120936,64.63882927,4858235,22.231,26.9,Europe & Central Asia,Lower middle income
+1066,TM,TKM,Turkmenistan,1/1/14,15529.86446,65.59853659,5307188,21.103,23.2,Europe & Central Asia,Lower middle income
+1067,TM,TKM,Turkmenistan,1/1/01,4475.982721,64.02609756,4551762,23.351,30.2,Europe & Central Asia,Lower middle income
+1068,TM,TKM,Turkmenistan,1/1/06,6550.184923,64.53180488,4801594,22.421,27.5,Europe & Central Asia,Lower middle income
+1069,TM,TKM,Turkmenistan,1/1/96,3593.541232,63.20982927,4267690,27.332,32.2,Europe & Central Asia,Lower middle income
+1070,TM,TKM,Turkmenistan,1/1/99,3977.536577,63.75121951,4449427,24.188,31.1,Europe & Central Asia,Lower middle income
+1071,TM,TKM,Turkmenistan,1/1/05,5791.712128,64.43236585,4747839,22.624,28,Europe & Central Asia,Lower middle income
+1072,TM,TKM,Turkmenistan,1/1/95,3370.440159,63.0302439,4188010,28.807,32.3,Europe & Central Asia,Lower middle income
+1073,TM,TKM,Turkmenistan,1/1/10,9828.662204,65.0212439,5041995,21.796,25.3,Europe & Central Asia,Lower middle income
+1074,TM,TKM,Turkmenistan,1/1/09,9004.579189,64.88353659,4978960,21.928,25.9,Europe & Central Asia,Lower middle income
+1075,TM,TKM,Turkmenistan,1/1/00,4240.974059,63.89929268,4501419,23.663,30.6,Europe & Central Asia,Lower middle income
+1076,TM,TKM,Turkmenistan,1/1/98,3404.150482,63.58246341,4395293,24.974,31.6,Europe & Central Asia,Lower middle income
+1077,TM,TKM,Turkmenistan,1/1/08,8528.11332,64.75607317,4917541,22.069,26.3,Europe & Central Asia,Lower middle income
+1078,TM,TKM,Turkmenistan,1/1/94,3638.09078,62.88056098,4095512,30.365,32.3,Europe & Central Asia,Lower middle income
+1079,TR,TUR,Turkey,1/1/95,5411.486665,66.98192683,58522320,23.574,26,Europe & Central Asia,Upper middle income
+1080,TR,TUR,Turkey,1/1/94,5023.565837,66.39873171,57608769,23.944,27.3,Europe & Central Asia,Upper middle income
+1081,TR,TUR,Turkey,1/1/98,8718.848635,68.81226829,61344874,22.484,22.3,Europe & Central Asia,Upper middle income
+1082,TR,TUR,Turkey,1/1/93,5285.68812,65.83790244,56707454,24.354,28.7,Europe & Central Asia,Upper middle income
+1083,TR,TUR,Turkey,1/1/05,11512.46579,72.44812195,67860617,19.518,14.5,Europe & Central Asia,Upper middle income
+1084,TR,TUR,Turkey,1/1/97,6283.881612,68.19968293,60394104,22.861,23.5,Europe & Central Asia,Upper middle income
+1085,TR,TUR,Turkey,1/1/92,4855.142412,65.30021951,55811134,24.827,30,Europe & Central Asia,Upper middle income
+1086,TR,TUR,Turkey,1/1/04,10278.93441,72.02987805,66973561,19.902,15.6,Europe & Central Asia,Upper middle income
+1087,TR,TUR,Turkey,1/1/99,8311.060006,69.41539024,62295617,22.078,21.2,Europe & Central Asia,Upper middle income
+1088,TR,TUR,Turkey,1/1/96,5824.367616,67.58621951,59451488,23.22,24.7,Europe & Central Asia,Upper middle income
+1089,TR,TUR,Turkey,1/1/03,8915.651254,71.57419512,66060121,20.312,16.8,Europe & Central Asia,Upper middle income
+1090,TR,TUR,Turkey,1/1/08,15181.65864,73.5007561,70344357,18.526,11.7,Europe & Central Asia,Upper middle income
+1091,TR,TUR,Turkey,1/1/00,9320.910052,69.99934146,63240157,21.646,20.1,Europe & Central Asia,Upper middle income
+1092,TR,TUR,Turkey,1/1/01,8749.151635,70.55580488,64182694,21.196,19,Europe & Central Asia,Upper middle income
+1093,TR,TUR,Turkey,1/1/07,14034.77742,73.17707317,69515492,18.836,12.6,Europe & Central Asia,Upper middle income
+1094,TR,TUR,Turkey,1/1/91,4551.98403,64.78309756,54909508,25.379,31.4,Europe & Central Asia,Upper middle income
+1095,TR,TUR,Turkey,1/1/14,19390.38114,75.1635122,77523788,16.789,7.5,Europe & Central Asia,Upper middle income
+1096,TR,TUR,Turkey,1/1/09,14651.10041,73.80321951,71261307,18.231,10.8,Europe & Central Asia,Upper middle income
+1097,TR,TUR,Turkey,1/1/02,8784.446032,71.08197561,65125766,20.746,18,Europe & Central Asia,Upper middle income
+1098,TR,TUR,Turkey,1/1/90,4438.79261,64.28234146,53994605,26.03,32.7,Europe & Central Asia,Upper middle income
+1099,TR,TUR,Turkey,1/1/13,19042.88042,74.90070732,76223639,17.085,8.1,Europe & Central Asia,Upper middle income
+1100,TR,TUR,Turkey,1/1/12,18449.25002,74.63680488,74849187,17.375,8.7,Europe & Central Asia,Upper middle income
+1101,TR,TUR,Turkey,1/1/06,13026.34631,72.82858537,68704721,19.165,13.5,Europe & Central Asia,Upper middle income
+1102,TR,TUR,Turkey,1/1/10,16165.81237,74.09092683,72310416,17.945,10.1,Europe & Central Asia,Upper middle income
+1103,TR,TUR,Turkey,1/1/11,17796.47519,74.36734146,73517002,17.661,9.3,Europe & Central Asia,Upper middle income
+1104,UA,UKR,Ukraine,1/1/10,7685.569632,70.26536585,45870700,10.8,7.1,Europe & Central Asia,Lower middle income
+1105,UA,UKR,Ukraine,1/1/11,8281.867126,70.80926829,45706100,11,6.8,Europe & Central Asia,Lower middle income
+1106,UA,UKR,Ukraine,1/1/01,4300.749281,68.28707317,48683865,7.7,10.6,Europe & Central Asia,Lower middle income
+1107,UA,UKR,Ukraine,1/1/08,8417.004142,68.25146341,46258200,11,7.8,Europe & Central Asia,Lower middle income
+1108,UA,UKR,Ukraine,1/1/09,7257.897526,69.19,46053300,11.1,7.5,Europe & Central Asia,Lower middle income
+1109,UA,UKR,Ukraine,1/1/14,8666.902913,71.18658537,45362900,10.8,5.7,Europe & Central Asia,Lower middle income
+1110,UA,UKR,Ukraine,1/1/07,8025.898666,68.22219512,46509350,10.2,8.2,Europe & Central Asia,Lower middle income
+1111,UA,UKR,Ukraine,1/1/06,7202.3367,68.07756098,46787750,9.8,8.5,Europe & Central Asia,Lower middle income
+1112,UA,UKR,Ukraine,1/1/98,3406.497525,67.98878049,50143939,8.3,12.1,Europe & Central Asia,Lower middle income
+1113,UA,UKR,Ukraine,1/1/92,5897.088957,69.06829268,52150266,11.4,12.1,Europe & Central Asia,Lower middle income
+1114,UA,UKR,Ukraine,1/1/13,8629.934387,71.1595122,45489600,11.1,6.1,Europe & Central Asia,Lower middle income
+1115,UA,UKR,Ukraine,1/1/00,3812.138111,67.8595122,49175848,7.8,11.2,Europe & Central Asia,Lower middle income
+1116,UA,UKR,Ukraine,1/1/02,4639.718772,68.27560976,48202500,8.7,10.1,Europe & Central Asia,Lower middle income
+1117,UA,UKR,Ukraine,1/1/91,6403.325229,68.87804878,52000470,12.1,12,Europe & Central Asia,Lower middle income
+1118,UA,UKR,Ukraine,1/1/12,8472.201129,70.94414634,45593300,11.4,6.4,Europe & Central Asia,Lower middle income
+1119,UA,UKR,Ukraine,1/1/04,6057.435666,68.18536585,47451600,9.004965059,9.1,Europe & Central Asia,Lower middle income
+1120,UA,UKR,Ukraine,1/1/90,6780.273839,70.13658537,51892000,12.7,12.1,Europe & Central Asia,Lower middle income
+1121,UA,UKR,Ukraine,1/1/97,3404.628912,67.29536585,50594105,8.7,12.4,Europe & Central Asia,Lower middle income
+1122,UA,UKR,Ukraine,1/1/03,5219.247196,68.21073171,47812950,8.545801922,9.6,Europe & Central Asia,Lower middle income
+1123,UA,UKR,Ukraine,1/1/99,3484.41102,68.21341463,49673350,7.8,11.7,Europe & Central Asia,Lower middle income
+1124,UA,UKR,Ukraine,1/1/05,6468.381721,67.95682927,47105150,9,8.8,Europe & Central Asia,Lower middle income
+1125,UA,UKR,Ukraine,1/1/94,4093.793048,67.83853659,51921041,10,12.4,Europe & Central Asia,Lower middle income
+1126,UA,UKR,Ukraine,1/1/93,5175.637159,68.47560976,52179210,10.7,12.2,Europe & Central Asia,Lower middle income
+1127,UA,UKR,Ukraine,1/1/96,3419.566006,66.88780488,51057189,9.1,12.6,Europe & Central Asia,Lower middle income
+1128,UA,UKR,Ukraine,1/1/95,3698.432273,67.13707317,51512299,9.6,12.6,Europe & Central Asia,Lower middle income
+1129,UZ,UZB,Uzbekistan,1/1/91,1972.116783,66.50626829,20952000,34.5,30.7,Europe & Central Asia,Lower middle income
+1130,UZ,UZB,Uzbekistan,1/1/92,1749.656691,66.35926829,21449000,33.1,30.7,Europe & Central Asia,Lower middle income
+1131,UZ,UZB,Uzbekistan,1/1/98,1785.916608,66.70878049,24051000,23.4,29.8,Europe & Central Asia,Lower middle income
+1132,UZ,UZB,Uzbekistan,1/1/90,1959.360176,66.68417073,20510000,33.7,30.9,Europe & Central Asia,Lower middle income
+1133,UZ,UZB,Uzbekistan,1/1/02,2150.353282,67.10836585,25271850,21.07132599,27.9,Europe & Central Asia,Lower middle income
+1134,UZ,UZB,Uzbekistan,1/1/07,3278.822341,67.53121951,26868000,22.66327004,24.9,Europe & Central Asia,Lower middle income
+1135,UZ,UZB,Uzbekistan,1/1/12,4791.189289,68.10197561,29774500,21,22.1,Europe & Central Asia,Lower middle income
+1136,UZ,UZB,Uzbekistan,1/1/01,2061.461383,67.02926829,24964450,20.54723255,28.5,Europe & Central Asia,Lower middle income
+1137,UZ,UZB,Uzbekistan,1/1/97,1721.388824,66.57112195,23667000,25.5,30,Europe & Central Asia,Lower middle income
+1138,UZ,UZB,Uzbekistan,1/1/14,5593.475486,68.33902439,30757700,23.3,20.9,Europe & Central Asia,Lower middle income
+1139,UZ,UZB,Uzbekistan,1/1/99,1870.940391,66.83331707,24311650,22.40852714,29.5,Europe & Central Asia,Lower middle income
+1140,UZ,UZB,Uzbekistan,1/1/03,2258.908406,67.18660976,25567650,19.88672175,27.4,Europe & Central Asia,Lower middle income
+1141,UZ,UZB,Uzbekistan,1/1/13,5177.333578,68.222,30243200,22.5,21.5,Europe & Central Asia,Lower middle income
+1142,UZ,UZB,Uzbekistan,1/1/95,1613.650995,66.31682927,22785000,29.8,30.4,Europe & Central Asia,Lower middle income
+1143,UZ,UZB,Uzbekistan,1/1/11,4412.474193,67.98141463,29339400,21.5,22.6,Europe & Central Asia,Lower middle income
+1144,UZ,UZB,Uzbekistan,1/1/10,4100.482835,67.86129268,28562400,22.7,23.1,Europe & Central Asia,Lower middle income
+1145,UZ,UZB,Uzbekistan,1/1/08,3585.991287,67.63419512,27302800,23.66417973,24.3,Europe & Central Asia,Lower middle income
+1146,UZ,UZB,Uzbekistan,1/1/00,1958.932465,66.94078049,24650400,21.4024803,29,Europe & Central Asia,Lower middle income
+1147,UZ,UZB,Uzbekistan,1/1/06,2947.214645,67.43514634,26488250,20.98839616,25.4,Europe & Central Asia,Lower middle income
+1148,UZ,UZB,Uzbekistan,1/1/05,2697.550293,67.34704878,26167000,20.3894066,26,Europe & Central Asia,Lower middle income
+1149,UZ,UZB,Uzbekistan,1/1/93,1710.764527,66.27226829,21942000,31.5,30.6,Europe & Central Asia,Lower middle income
+1150,UZ,UZB,Uzbekistan,1/1/96,1639.38385,66.43178049,23225000,27.3,30.3,Europe & Central Asia,Lower middle income
+1151,UZ,UZB,Uzbekistan,1/1/09,3840.542875,67.74456098,27767400,23.39916664,23.7,Europe & Central Asia,Lower middle income
+1152,UZ,UZB,Uzbekistan,1/1/04,2471.065293,67.26502439,25864350,20.89286097,26.6,Europe & Central Asia,Lower middle income
+1153,UZ,UZB,Uzbekistan,1/1/94,1624.12075,66.25880488,22377000,29.4,30.5,Europe & Central Asia,Lower middle income
